@@ -1,0 +1,122 @@
+
+Timepoint: 08/27/2023 08:59:20
+Program execution begins...
+
+
+
+Timepoint: 08/27/2023 08:59:22
+Starting hotel search...
+
+
+
+
+Timepoint: 08/27/2023 08:59:24
+Located the following hotel...Hotel Chérica in constantia, RO
+
+
+
+
+Timepoint: 08/27/2023 08:59:25
+Located the following hotel...Hampton Inn Danbury in bethel, US
+
+
+
+
+Timepoint: 08/27/2023 08:59:27
+Located the following hotel...Candlewood Suites in fort meade, US
+
+
+
+
+Timepoint: 08/27/2023 08:59:28
+Located the following hotel...Norwalk Inn and Conference Center in westport, US
+
+
+
+
+Timepoint: 08/27/2023 08:59:29
+Located the following hotel...ترجاب in benghazi, LY
+
+
+
+
+Timepoint: 08/27/2023 08:59:31
+Located the following hotel...Stella di mare in shchyolkino, UA
+
+
+
+
+Timepoint: 08/27/2023 08:59:31
+Hotel search complete
+
+
+
+
+Timepoint: 08/27/2023 08:59:31
+Program execution ends at 08/27/2023 08:59:31.
+
+
+
+
+
+
+Timepoint: 08/27/2023 08:59:58
+Program execution begins...
+
+
+
+Timepoint: 08/27/2023 09:00:00
+Starting hotel search...
+
+
+
+
+Timepoint: 08/27/2023 09:00:01
+Located the following hotel...Hotel Chérica in constantia, RO
+
+
+
+
+Timepoint: 08/27/2023 09:00:03
+Located the following hotel...Hampton Inn Danbury in bethel, US
+
+
+
+
+Timepoint: 08/27/2023 09:00:05
+Located the following hotel...Candlewood Suites in fort meade, US
+
+
+
+
+Timepoint: 08/27/2023 09:00:06
+Located the following hotel...Norwalk Inn and Conference Center in westport, US
+
+
+
+
+Timepoint: 08/27/2023 09:00:07
+Located the following hotel...ترجاب in benghazi, LY
+
+
+
+
+Timepoint: 08/27/2023 09:00:08
+Located the following hotel...Stella di mare in shchyolkino, UA
+
+
+
+
+Timepoint: 08/27/2023 09:00:08
+Hotel search complete
+
+
+
+
+Timepoint: 08/27/2023 09:00:09
+Program execution ends at 08/27/2023 09:00:09.
+
+
+
+
+

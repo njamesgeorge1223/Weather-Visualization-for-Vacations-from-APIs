@@ -1,0 +1,214 @@
+
+Timepoint: 08/27/2023 08:59:20
+Program execution begins...
+
+
+
+
+                    City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                
+0        lazaro cardenas   17.9583  -102.2000        84.56        71   
+1          chuhar jamali   24.3895    67.9923        81.91        67   
+2           invercargill  -46.4000   168.3500        35.02        94   
+3                 ialibu   -6.2821   143.9935        56.66       100   
+4              grytviken  -54.2811   -36.5092        29.08        89   
+...                  ...       ...        ...          ...       ...   
+569                 azul  -36.7770   -59.8585        55.09        34   
+570               barmer   25.7500    71.3833        85.59        52   
+571                alofi  -19.0595  -169.9187        66.09        82   
+572             holualoa   19.6228  -155.9522        68.81        87   
+573            nowa deba   50.4297    21.7508        85.50        56   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0                93        1.07      MX  2023-08-27 08:53:57  
+1                71       18.99      PK  2023-08-27 08:53:57  
+2                39        4.00      NZ  2023-08-27 08:53:58  
+3               100        0.98      PG  2023-08-27 08:53:58  
+4                93       11.34      GS  2023-08-27 08:53:58  
+...             ...         ...     ...                  ...  
+569               0        8.66      AR  2023-08-27 08:56:14  
+570              41       24.07      IN  2023-08-27 08:56:14  
+571             100        5.75      NU  2023-08-27 08:47:05  
+572             100       10.36      US  2023-08-27 08:46:48  
+573              65        4.29      PL  2023-08-27 08:56:15  
+
+[574 rows x 9 columns]
+
+
+
+                City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+City ID                                                                        
+67        constantia   44.1833    28.6500        83.08        62           0   
+74            bethel   41.3712   -73.4140        76.03        69           0   
+133       fort meade   39.1082   -76.7432        82.80        61           0   
+208         westport   41.1415   -73.3579        77.47        67           0   
+294         benghazi   32.1167    20.0667        83.39        67           0   
+320        rioblanco    3.5308   -75.6806        79.32        40           4   
+425      shchyolkino   45.4291    35.8223        78.19        51           0   
+
+         Wind Speed Country            Date/Time  
+City ID                                           
+67             7.40      RO  2023-08-27 08:54:16  
+74             8.05      US  2023-08-27 08:54:18  
+133            6.91      US  2023-08-27 08:54:32  
+208            9.22      US  2023-08-27 08:45:41  
+294            9.82      LY  2023-08-27 08:55:10  
+320            6.06      CO  2023-08-27 08:55:17  
+425            7.54      UA  2023-08-27 08:55:42  
+
+
+
+          City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0   constantia   44.1833    28.6500        83.08        62           0   
+1       bethel   41.3712   -73.4140        76.03        69           0   
+2   fort meade   39.1082   -76.7432        82.80        61           0   
+3     westport   41.1415   -73.3579        77.47        67           0   
+4     benghazi   32.1167    20.0667        83.39        67           0   
+5    rioblanco    3.5308   -75.6806        79.32        40           4   
+6  shchyolkino   45.4291    35.8223        78.19        51           0   
+
+   Wind Speed Country            Date/Time  
+0        7.40      RO  2023-08-27 08:54:16  
+1        8.05      US  2023-08-27 08:54:18  
+2        6.91      US  2023-08-27 08:54:32  
+3        9.22      US  2023-08-27 08:45:41  
+4        9.82      LY  2023-08-27 08:55:10  
+5        6.06      CO  2023-08-27 08:55:17  
+6        7.54      UA  2023-08-27 08:55:42  
+
+
+
+          City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0   constantia   44.1833    28.6500        83.08        62           0   
+1       bethel   41.3712   -73.4140        76.03        69           0   
+2   fort meade   39.1082   -76.7432        82.80        61           0   
+3     westport   41.1415   -73.3579        77.47        67           0   
+4     benghazi   32.1167    20.0667        83.39        67           0   
+5    rioblanco    3.5308   -75.6806        79.32        40           4   
+6  shchyolkino   45.4291    35.8223        78.19        51           0   
+
+   Wind Speed Country            Date/Time Hotel Name  
+0        7.40      RO  2023-08-27 08:54:16        NaN  
+1        8.05      US  2023-08-27 08:54:18        NaN  
+2        6.91      US  2023-08-27 08:54:32        NaN  
+3        9.22      US  2023-08-27 08:45:41        NaN  
+4        9.82      LY  2023-08-27 08:55:10        NaN  
+5        6.06      CO  2023-08-27 08:55:17        NaN  
+6        7.54      UA  2023-08-27 08:55:42        NaN  
+
+
+Timepoint: 08/27/2023 08:59:31
+Program execution ends at 08/27/2023 08:59:31.
+
+
+
+
+
+
+Timepoint: 08/27/2023 08:59:58
+Program execution begins...
+
+
+
+
+                    City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                
+0        lazaro cardenas   17.9583  -102.2000        84.56        71   
+1          chuhar jamali   24.3895    67.9923        81.91        67   
+2           invercargill  -46.4000   168.3500        35.02        94   
+3                 ialibu   -6.2821   143.9935        56.66       100   
+4              grytviken  -54.2811   -36.5092        29.08        89   
+...                  ...       ...        ...          ...       ...   
+569                 azul  -36.7770   -59.8585        55.09        34   
+570               barmer   25.7500    71.3833        85.59        52   
+571                alofi  -19.0595  -169.9187        66.09        82   
+572             holualoa   19.6228  -155.9522        68.81        87   
+573            nowa deba   50.4297    21.7508        85.50        56   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0                93        1.07      MX  2023-08-27 08:53:57  
+1                71       18.99      PK  2023-08-27 08:53:57  
+2                39        4.00      NZ  2023-08-27 08:53:58  
+3               100        0.98      PG  2023-08-27 08:53:58  
+4                93       11.34      GS  2023-08-27 08:53:58  
+...             ...         ...     ...                  ...  
+569               0        8.66      AR  2023-08-27 08:56:14  
+570              41       24.07      IN  2023-08-27 08:56:14  
+571             100        5.75      NU  2023-08-27 08:47:05  
+572             100       10.36      US  2023-08-27 08:46:48  
+573              65        4.29      PL  2023-08-27 08:56:15  
+
+[574 rows x 9 columns]
+
+
+
+                City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+City ID                                                                        
+67        constantia   44.1833    28.6500        83.08        62           0   
+74            bethel   41.3712   -73.4140        76.03        69           0   
+133       fort meade   39.1082   -76.7432        82.80        61           0   
+208         westport   41.1415   -73.3579        77.47        67           0   
+294         benghazi   32.1167    20.0667        83.39        67           0   
+320        rioblanco    3.5308   -75.6806        79.32        40           4   
+425      shchyolkino   45.4291    35.8223        78.19        51           0   
+
+         Wind Speed Country            Date/Time  
+City ID                                           
+67             7.40      RO  2023-08-27 08:54:16  
+74             8.05      US  2023-08-27 08:54:18  
+133            6.91      US  2023-08-27 08:54:32  
+208            9.22      US  2023-08-27 08:45:41  
+294            9.82      LY  2023-08-27 08:55:10  
+320            6.06      CO  2023-08-27 08:55:17  
+425            7.54      UA  2023-08-27 08:55:42  
+
+
+
+          City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0   constantia   44.1833    28.6500        83.08        62           0   
+1       bethel   41.3712   -73.4140        76.03        69           0   
+2   fort meade   39.1082   -76.7432        82.80        61           0   
+3     westport   41.1415   -73.3579        77.47        67           0   
+4     benghazi   32.1167    20.0667        83.39        67           0   
+5    rioblanco    3.5308   -75.6806        79.32        40           4   
+6  shchyolkino   45.4291    35.8223        78.19        51           0   
+
+   Wind Speed Country            Date/Time  
+0        7.40      RO  2023-08-27 08:54:16  
+1        8.05      US  2023-08-27 08:54:18  
+2        6.91      US  2023-08-27 08:54:32  
+3        9.22      US  2023-08-27 08:45:41  
+4        9.82      LY  2023-08-27 08:55:10  
+5        6.06      CO  2023-08-27 08:55:17  
+6        7.54      UA  2023-08-27 08:55:42  
+
+
+
+          City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0   constantia   44.1833    28.6500        83.08        62           0   
+1       bethel   41.3712   -73.4140        76.03        69           0   
+2   fort meade   39.1082   -76.7432        82.80        61           0   
+3     westport   41.1415   -73.3579        77.47        67           0   
+4     benghazi   32.1167    20.0667        83.39        67           0   
+5    rioblanco    3.5308   -75.6806        79.32        40           4   
+6  shchyolkino   45.4291    35.8223        78.19        51           0   
+
+   Wind Speed Country            Date/Time Hotel Name  
+0        7.40      RO  2023-08-27 08:54:16        NaN  
+1        8.05      US  2023-08-27 08:54:18        NaN  
+2        6.91      US  2023-08-27 08:54:32        NaN  
+3        9.22      US  2023-08-27 08:45:41        NaN  
+4        9.82      LY  2023-08-27 08:55:10        NaN  
+5        6.06      CO  2023-08-27 08:55:17        NaN  
+6        7.54      UA  2023-08-27 08:55:42        NaN  
+
+
+Timepoint: 08/27/2023 09:00:09
+Program execution ends at 08/27/2023 09:00:09.
+
+
+
+
+
