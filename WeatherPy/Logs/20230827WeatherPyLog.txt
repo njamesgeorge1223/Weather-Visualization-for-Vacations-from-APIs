@@ -1,0 +1,6643 @@
+
+Timepoint: 08/27/2023 14:26:31
+Program execution begins...
+
+
+
+Timepoint: 08/27/2023 14:26:31
+
+Data Retrieval for city weather DataFrame begins....
+
+
+
+Timepoint: 08/27/2023 14:26:31
+
+Processing Record #2 of set 1 for city, tolanaro.
+
+
+Timepoint: 08/27/2023 14:26:31
+
+Processing Record #3 of set 1 for city, longyearbyen.
+
+
+Timepoint: 08/27/2023 14:26:31
+
+Processing Record #4 of set 1 for city, santana.
+
+
+Timepoint: 08/27/2023 14:26:32
+
+Processing Record #5 of set 1 for city, invercargill.
+
+
+Timepoint: 08/27/2023 14:26:32
+
+Processing Record #6 of set 1 for city, lihue.
+
+
+Timepoint: 08/27/2023 14:26:32
+
+Processing Record #7 of set 1 for city, thompson.
+
+
+Timepoint: 08/27/2023 14:26:32
+
+Processing Record #8 of set 1 for city, kirakira.
+
+
+Timepoint: 08/27/2023 14:26:32
+
+Processing Record #9 of set 1 for city, edinburgh of the seven seas.
+
+
+Timepoint: 08/27/2023 14:26:33
+
+Processing Record #10 of set 1 for city, concordia.
+
+
+Timepoint: 08/27/2023 14:26:33
+
+Processing Record #11 of set 1 for city, ushuaia.
+
+
+Timepoint: 08/27/2023 14:26:33
+
+Processing Record #12 of set 1 for city, san jose.
+
+
+Timepoint: 08/27/2023 14:26:33
+
+Processing Record #13 of set 1 for city, smithers.
+
+
+Timepoint: 08/27/2023 14:26:34
+
+Processing Record #14 of set 1 for city, margaret river.
+
+
+Timepoint: 08/27/2023 14:26:34
+
+Processing Record #15 of set 1 for city, tindouf.
+
+
+Timepoint: 08/27/2023 14:26:34
+
+Processing Record #16 of set 1 for city, dakhla.
+
+
+Timepoint: 08/27/2023 14:26:34
+
+Processing Record #17 of set 1 for city, tupaciguara.
+
+
+Timepoint: 08/27/2023 14:26:34
+
+Processing Record #18 of set 1 for city, tara.
+
+
+Timepoint: 08/27/2023 14:26:35
+
+Processing Record #19 of set 1 for city, solnechnyy.
+
+
+Timepoint: 08/27/2023 14:26:35
+
+Processing Record #20 of set 1 for city, hawaiian paradise park.
+
+
+Timepoint: 08/27/2023 14:26:37
+
+Processing Record #21 of set 1 for city, peterhead.
+
+
+Timepoint: 08/27/2023 14:26:37
+
+Processing Record #22 of set 1 for city, hithadhoo.
+
+
+Timepoint: 08/27/2023 14:26:37
+
+Processing Record #23 of set 1 for city, albany.
+
+
+Timepoint: 08/27/2023 14:26:37
+
+Processing Record #24 of set 1 for city, ust-nera.
+
+
+Timepoint: 08/27/2023 14:26:38
+
+Processing Record #25 of set 1 for city, adamstown.
+
+
+Timepoint: 08/27/2023 14:26:38
+
+Processing Record #26 of set 1 for city, blenheim.
+
+
+Timepoint: 08/27/2023 14:26:38
+
+Processing Record #27 of set 1 for city, port mathurin.
+
+
+Timepoint: 08/27/2023 14:26:38
+
+Processing Record #28 of set 1 for city, urumqi.
+
+
+Timepoint: 08/27/2023 14:26:39
+
+Processing Record #29 of set 1 for city, midvagur.
+
+
+Timepoint: 08/27/2023 14:26:39
+
+Processing Record #30 of set 1 for city, bengkulu.
+
+
+Timepoint: 08/27/2023 14:26:39
+
+Processing Record #31 of set 1 for city, uturoa.
+
+
+Timepoint: 08/27/2023 14:26:39
+
+Processing Record #32 of set 1 for city, vicente guerrero.
+
+
+Timepoint: 08/27/2023 14:26:39
+
+Processing Record #33 of set 1 for city, waitangi.
+
+
+Timepoint: 08/27/2023 14:26:40
+
+Processing Record #34 of set 1 for city, west island.
+
+
+Timepoint: 08/27/2023 14:26:40
+
+Processing Record #35 of set 1 for city, bethel.
+
+
+Timepoint: 08/27/2023 14:26:40
+
+Processing Record #36 of set 1 for city, grytviken.
+
+
+Timepoint: 08/27/2023 14:26:40
+
+Processing Record #37 of set 1 for city, qaqortoq.
+
+
+Timepoint: 08/27/2023 14:26:40
+
+Processing Record #38 of set 1 for city, kuanda.
+
+
+Timepoint: 08/27/2023 14:26:41
+
+Processing Record #39 of set 1 for city, port-aux-francais.
+
+
+Timepoint: 08/27/2023 14:26:41
+
+Processing Record #40 of set 1 for city, sierra grande.
+
+
+Timepoint: 08/27/2023 14:26:41
+
+Processing Record #41 of set 1 for city, flying fish cove.
+
+
+Timepoint: 08/27/2023 14:26:41
+
+Processing Record #42 of set 1 for city, saipan.
+
+
+Timepoint: 08/27/2023 14:26:41
+
+Processing Record #43 of set 1 for city, adrar.
+
+
+Timepoint: 08/27/2023 14:26:42
+
+Processing Record #44 of set 1 for city, 'ibri.
+
+
+Timepoint: 08/27/2023 14:26:42
+The script did not find the city, 'ibri. Skipping...
+
+
+Timepoint: 08/27/2023 14:26:42
+
+Processing Record #45 of set 1 for city, dalianwan.
+
+
+Timepoint: 08/27/2023 14:26:42
+
+Processing Record #46 of set 1 for city, nova sintra.
+
+
+Timepoint: 08/27/2023 14:26:42
+
+Processing Record #47 of set 1 for city, sadjoavato.
+
+
+Timepoint: 08/27/2023 14:26:42
+The script did not find the city, sadjoavato. Skipping...
+
+
+Timepoint: 08/27/2023 14:26:42
+
+Processing Record #48 of set 1 for city, ribeira grande.
+
+
+Timepoint: 08/27/2023 14:26:43
+
+Processing Record #49 of set 1 for city, tikaitnagar.
+
+
+Timepoint: 08/27/2023 14:26:43
+
+Processing Record #50 of set 1 for city, sao vicente.
+
+
+Timepoint: 08/27/2023 14:26:43
+
+Processing Record #51 of set 1 for city, chipata.
+
+
+Timepoint: 08/27/2023 14:26:43
+
+Processing Record #1 of set 2 for city, wailua homesteads.
+
+
+Timepoint: 08/27/2023 14:26:43
+
+Processing Record #2 of set 2 for city, rey bouba.
+
+
+Timepoint: 08/27/2023 14:26:44
+
+Processing Record #3 of set 2 for city, klyuchi.
+
+
+Timepoint: 08/27/2023 14:26:44
+
+Processing Record #4 of set 2 for city, nar'yan-mar.
+
+
+Timepoint: 08/27/2023 14:26:44
+
+Processing Record #5 of set 2 for city, avarua.
+
+
+Timepoint: 08/27/2023 14:26:44
+
+Processing Record #6 of set 2 for city, iqaluit.
+
+
+Timepoint: 08/27/2023 14:26:44
+
+Processing Record #7 of set 2 for city, papatowai.
+
+
+Timepoint: 08/27/2023 14:26:45
+
+Processing Record #8 of set 2 for city, whitehorse.
+
+
+Timepoint: 08/27/2023 14:26:45
+
+Processing Record #9 of set 2 for city, puerto natales.
+
+
+Timepoint: 08/27/2023 14:26:45
+
+Processing Record #10 of set 2 for city, puerto ayora.
+
+
+Timepoint: 08/27/2023 14:26:45
+
+Processing Record #11 of set 2 for city, stanley.
+
+
+Timepoint: 08/27/2023 14:26:45
+
+Processing Record #12 of set 2 for city, kalmunai.
+
+
+Timepoint: 08/27/2023 14:26:46
+
+Processing Record #13 of set 2 for city, ilulissat.
+
+
+Timepoint: 08/27/2023 14:26:46
+
+Processing Record #14 of set 2 for city, sinjai.
+
+
+Timepoint: 08/27/2023 14:26:46
+
+Processing Record #15 of set 2 for city, fale old settlement.
+
+
+Timepoint: 08/27/2023 14:26:46
+
+Processing Record #16 of set 2 for city, san jose village.
+
+
+Timepoint: 08/27/2023 14:26:46
+The script did not find the city, san jose village. Skipping...
+
+
+Timepoint: 08/27/2023 14:26:46
+
+Processing Record #17 of set 2 for city, sarkand.
+
+
+Timepoint: 08/27/2023 14:26:47
+
+Processing Record #18 of set 2 for city, bontang.
+
+
+Timepoint: 08/27/2023 14:26:47
+
+Processing Record #19 of set 2 for city, kavieng.
+
+
+Timepoint: 08/27/2023 14:26:47
+
+Processing Record #20 of set 2 for city, tiksi.
+
+
+Timepoint: 08/27/2023 14:26:47
+
+Processing Record #21 of set 2 for city, ahau.
+
+
+Timepoint: 08/27/2023 14:26:47
+The script did not find the city, ahau. Skipping...
+
+
+Timepoint: 08/27/2023 14:26:47
+
+Processing Record #22 of set 2 for city, cill airne.
+
+
+Timepoint: 08/27/2023 14:26:48
+
+Processing Record #23 of set 2 for city, songea.
+
+
+Timepoint: 08/27/2023 14:26:48
+
+Processing Record #24 of set 2 for city, georgetown.
+
+
+Timepoint: 08/27/2023 14:26:48
+
+Processing Record #25 of set 2 for city, lebu.
+
+
+Timepoint: 08/27/2023 14:26:48
+
+Processing Record #26 of set 2 for city, kataragama.
+
+
+Timepoint: 08/27/2023 14:26:48
+The script did not find the city, kataragama. Skipping...
+
+
+Timepoint: 08/27/2023 14:26:48
+
+Processing Record #27 of set 2 for city, yellowknife.
+
+
+Timepoint: 08/27/2023 14:26:48
+
+Processing Record #28 of set 2 for city, la passe.
+
+
+Timepoint: 08/27/2023 14:26:49
+
+Processing Record #29 of set 2 for city, utrik.
+
+
+Timepoint: 08/27/2023 14:26:49
+
+Processing Record #30 of set 2 for city, jijel.
+
+
+Timepoint: 08/27/2023 14:26:49
+
+Processing Record #31 of set 2 for city, afaahiti.
+
+
+Timepoint: 08/27/2023 14:26:49
+
+Processing Record #32 of set 2 for city, isafjordur.
+
+
+Timepoint: 08/27/2023 14:26:49
+
+Processing Record #33 of set 2 for city, padang.
+
+
+Timepoint: 08/27/2023 14:26:50
+
+Processing Record #34 of set 2 for city, santa terezinha.
+
+
+Timepoint: 08/27/2023 14:26:50
+
+Processing Record #35 of set 2 for city, aykhal.
+
+
+Timepoint: 08/27/2023 14:26:50
+
+Processing Record #36 of set 2 for city, callao.
+
+
+Timepoint: 08/27/2023 14:26:50
+
+Processing Record #37 of set 2 for city, al hayy.
+
+
+Timepoint: 08/27/2023 14:26:51
+
+Processing Record #38 of set 2 for city, kanniyakumari.
+
+
+Timepoint: 08/27/2023 14:26:51
+
+Processing Record #39 of set 2 for city, taiohae.
+
+
+Timepoint: 08/27/2023 14:26:51
+The script did not find the city, taiohae. Skipping...
+
+
+Timepoint: 08/27/2023 14:26:51
+
+Processing Record #40 of set 2 for city, boa vista.
+
+
+Timepoint: 08/27/2023 14:26:51
+
+Processing Record #41 of set 2 for city, tabou.
+
+
+Timepoint: 08/27/2023 14:26:51
+
+Processing Record #42 of set 2 for city, jamestown.
+
+
+Timepoint: 08/27/2023 14:26:52
+
+Processing Record #43 of set 2 for city, navrongo.
+
+
+Timepoint: 08/27/2023 14:26:52
+
+Processing Record #44 of set 2 for city, bollnas.
+
+
+Timepoint: 08/27/2023 14:26:52
+
+Processing Record #45 of set 2 for city, makoua.
+
+
+Timepoint: 08/27/2023 14:26:52
+
+Processing Record #46 of set 2 for city, nuuk.
+
+
+Timepoint: 08/27/2023 14:26:52
+
+Processing Record #47 of set 2 for city, roma.
+
+
+Timepoint: 08/27/2023 14:26:53
+
+Processing Record #48 of set 2 for city, marka.
+
+
+Timepoint: 08/27/2023 14:26:53
+
+Processing Record #49 of set 2 for city, zunyi.
+
+
+Timepoint: 08/27/2023 14:26:53
+
+Processing Record #50 of set 2 for city, bodaybo.
+
+
+Timepoint: 08/27/2023 14:26:53
+
+Processing Record #1 of set 3 for city, fisterra.
+
+
+Timepoint: 08/27/2023 14:26:53
+
+Processing Record #2 of set 3 for city, kalabo.
+
+
+Timepoint: 08/27/2023 14:26:54
+
+Processing Record #3 of set 3 for city, namibe.
+
+
+Timepoint: 08/27/2023 14:26:54
+
+Processing Record #4 of set 3 for city, gisborne.
+
+
+Timepoint: 08/27/2023 14:26:54
+
+Processing Record #5 of set 3 for city, port lincoln.
+
+
+Timepoint: 08/27/2023 14:26:54
+
+Processing Record #6 of set 3 for city, nadi.
+
+
+Timepoint: 08/27/2023 14:26:54
+
+Processing Record #7 of set 3 for city, awjilah.
+
+
+Timepoint: 08/27/2023 14:26:55
+
+Processing Record #8 of set 3 for city, melfort.
+
+
+Timepoint: 08/27/2023 14:26:55
+
+Processing Record #9 of set 3 for city, ancud.
+
+
+Timepoint: 08/27/2023 14:26:55
+
+Processing Record #10 of set 3 for city, gua musang.
+
+
+Timepoint: 08/27/2023 14:26:55
+
+Processing Record #11 of set 3 for city, saynshand.
+
+
+Timepoint: 08/27/2023 14:26:55
+
+Processing Record #12 of set 3 for city, hermanus.
+
+
+Timepoint: 08/27/2023 14:26:56
+
+Processing Record #13 of set 3 for city, iskateley.
+
+
+Timepoint: 08/27/2023 14:26:56
+
+Processing Record #14 of set 3 for city, tanki leendert.
+
+
+Timepoint: 08/27/2023 14:26:56
+The script did not find the city, tanki leendert. Skipping...
+
+
+Timepoint: 08/27/2023 14:26:56
+
+Processing Record #15 of set 3 for city, ash shafa.
+
+
+Timepoint: 08/27/2023 14:26:56
+The script did not find the city, ash shafa. Skipping...
+
+
+Timepoint: 08/27/2023 14:26:56
+
+Processing Record #16 of set 3 for city, tura.
+
+
+Timepoint: 08/27/2023 14:26:56
+
+Processing Record #17 of set 3 for city, zaozersk.
+
+
+Timepoint: 08/27/2023 14:26:57
+
+Processing Record #18 of set 3 for city, quelimane.
+
+
+Timepoint: 08/27/2023 14:26:57
+
+Processing Record #19 of set 3 for city, rio grande.
+
+
+Timepoint: 08/27/2023 14:26:57
+
+Processing Record #20 of set 3 for city, haiku-pauwela.
+
+
+Timepoint: 08/27/2023 14:26:58
+
+Processing Record #21 of set 3 for city, keflavik.
+
+
+Timepoint: 08/27/2023 14:26:59
+
+Processing Record #22 of set 3 for city, blackmans bay.
+
+
+Timepoint: 08/27/2023 14:26:59
+
+Processing Record #23 of set 3 for city, enewetak.
+
+
+Timepoint: 08/27/2023 14:26:59
+
+Processing Record #24 of set 3 for city, phirangipuram.
+
+
+Timepoint: 08/27/2023 14:26:59
+
+Processing Record #25 of set 3 for city, hayma'.
+
+
+Timepoint: 08/27/2023 14:27:00
+The script did not find the city, hayma'. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:00
+
+Processing Record #26 of set 3 for city, antofagasta.
+
+
+Timepoint: 08/27/2023 14:27:00
+
+Processing Record #27 of set 3 for city, talnakh.
+
+
+Timepoint: 08/27/2023 14:27:00
+
+Processing Record #28 of set 3 for city, codrington.
+
+
+Timepoint: 08/27/2023 14:27:00
+
+Processing Record #29 of set 3 for city, prince george.
+
+
+Timepoint: 08/27/2023 14:27:00
+
+Processing Record #30 of set 3 for city, quellon.
+
+
+Timepoint: 08/27/2023 14:27:01
+
+Processing Record #31 of set 3 for city, sandnessjoen.
+
+
+Timepoint: 08/27/2023 14:27:01
+
+Processing Record #32 of set 3 for city, yeppoon.
+
+
+Timepoint: 08/27/2023 14:27:01
+
+Processing Record #33 of set 3 for city, hamilton.
+
+
+Timepoint: 08/27/2023 14:27:01
+
+Processing Record #34 of set 3 for city, carutapera.
+
+
+Timepoint: 08/27/2023 14:27:02
+
+Processing Record #35 of set 3 for city, medfield.
+
+
+Timepoint: 08/27/2023 14:27:02
+
+Processing Record #36 of set 3 for city, miringa.
+
+
+Timepoint: 08/27/2023 14:27:02
+
+Processing Record #37 of set 3 for city, polyarnyy.
+
+
+Timepoint: 08/27/2023 14:27:02
+
+Processing Record #38 of set 3 for city, east london.
+
+
+Timepoint: 08/27/2023 14:27:03
+
+Processing Record #39 of set 3 for city, bredasdorp.
+
+
+Timepoint: 08/27/2023 14:27:03
+
+Processing Record #40 of set 3 for city, palmer.
+
+
+Timepoint: 08/27/2023 14:27:03
+
+Processing Record #41 of set 3 for city, olonkinbyen.
+
+
+Timepoint: 08/27/2023 14:27:03
+
+Processing Record #42 of set 3 for city, caiaponia.
+
+
+Timepoint: 08/27/2023 14:27:04
+
+Processing Record #43 of set 3 for city, sao jose da coroa grande.
+
+
+Timepoint: 08/27/2023 14:27:04
+
+Processing Record #44 of set 3 for city, tafresh.
+
+
+Timepoint: 08/27/2023 14:27:04
+
+Processing Record #45 of set 3 for city, hami.
+
+
+Timepoint: 08/27/2023 14:27:04
+
+Processing Record #46 of set 3 for city, ixtapa.
+
+
+Timepoint: 08/27/2023 14:27:05
+
+Processing Record #47 of set 3 for city, la'ie.
+
+
+Timepoint: 08/27/2023 14:27:05
+
+Processing Record #48 of set 3 for city, tamiahua.
+
+
+Timepoint: 08/27/2023 14:27:05
+
+Processing Record #49 of set 3 for city, tralee.
+
+
+Timepoint: 08/27/2023 14:27:05
+
+Processing Record #50 of set 3 for city, borogontsy.
+
+
+Timepoint: 08/27/2023 14:27:05
+
+Processing Record #1 of set 4 for city, ca mau.
+
+
+Timepoint: 08/27/2023 14:27:06
+
+Processing Record #2 of set 4 for city, novodvinsk.
+
+
+Timepoint: 08/27/2023 14:27:06
+
+Processing Record #3 of set 4 for city, lompoc.
+
+
+Timepoint: 08/27/2023 14:27:06
+
+Processing Record #4 of set 4 for city, katsuura.
+
+
+Timepoint: 08/27/2023 14:27:06
+
+Processing Record #5 of set 4 for city, kapuskasing.
+
+
+Timepoint: 08/27/2023 14:27:07
+
+Processing Record #6 of set 4 for city, aasiaat.
+
+
+Timepoint: 08/27/2023 14:27:07
+
+Processing Record #7 of set 4 for city, viedma.
+
+
+Timepoint: 08/27/2023 14:27:07
+
+Processing Record #8 of set 4 for city, polovinnoye.
+
+
+Timepoint: 08/27/2023 14:27:07
+
+Processing Record #9 of set 4 for city, tazovsky.
+
+
+Timepoint: 08/27/2023 14:27:08
+
+Processing Record #10 of set 4 for city, pangody.
+
+
+Timepoint: 08/27/2023 14:27:08
+
+Processing Record #11 of set 4 for city, nemuro.
+
+
+Timepoint: 08/27/2023 14:27:08
+
+Processing Record #12 of set 4 for city, port elizabeth.
+
+
+Timepoint: 08/27/2023 14:27:08
+
+Processing Record #13 of set 4 for city, tadine.
+
+
+Timepoint: 08/27/2023 14:27:09
+
+Processing Record #14 of set 4 for city, boden.
+
+
+Timepoint: 08/27/2023 14:27:09
+
+Processing Record #15 of set 4 for city, palmas.
+
+
+Timepoint: 08/27/2023 14:27:09
+
+Processing Record #16 of set 4 for city, chibougamau.
+
+
+Timepoint: 08/27/2023 14:27:09
+
+Processing Record #17 of set 4 for city, uchiza.
+
+
+Timepoint: 08/27/2023 14:27:10
+
+Processing Record #18 of set 4 for city, howard springs.
+
+
+Timepoint: 08/27/2023 14:27:10
+
+Processing Record #19 of set 4 for city, al hada.
+
+
+Timepoint: 08/27/2023 14:27:10
+
+Processing Record #20 of set 4 for city, queenstown.
+
+
+Timepoint: 08/27/2023 14:27:10
+
+Processing Record #21 of set 4 for city, hilo.
+
+
+Timepoint: 08/27/2023 14:27:10
+
+Processing Record #22 of set 4 for city, hadibu.
+
+
+Timepoint: 08/27/2023 14:27:11
+
+Processing Record #23 of set 4 for city, mount isa.
+
+
+Timepoint: 08/27/2023 14:27:11
+
+Processing Record #24 of set 4 for city, bilibino.
+
+
+Timepoint: 08/27/2023 14:27:11
+
+Processing Record #25 of set 4 for city, mermoz boabab.
+
+
+Timepoint: 08/27/2023 14:27:11
+
+Processing Record #26 of set 4 for city, erenhot.
+
+
+Timepoint: 08/27/2023 14:27:12
+
+Processing Record #27 of set 4 for city, juneau.
+
+
+Timepoint: 08/27/2023 14:27:12
+
+Processing Record #28 of set 4 for city, hasaki.
+
+
+Timepoint: 08/27/2023 14:27:12
+
+Processing Record #29 of set 4 for city, mahdia.
+
+
+Timepoint: 08/27/2023 14:27:12
+
+Processing Record #30 of set 4 for city, matamey.
+
+
+Timepoint: 08/27/2023 14:27:13
+
+Processing Record #31 of set 4 for city, fallon.
+
+
+Timepoint: 08/27/2023 14:27:13
+
+Processing Record #32 of set 4 for city, sitka.
+
+
+Timepoint: 08/27/2023 14:27:13
+
+Processing Record #33 of set 4 for city, new norfolk.
+
+
+Timepoint: 08/27/2023 14:27:13
+
+Processing Record #34 of set 4 for city, wicklow.
+
+
+Timepoint: 08/27/2023 14:27:14
+
+Processing Record #35 of set 4 for city, rechka-vydrino.
+
+
+Timepoint: 08/27/2023 14:27:14
+
+Processing Record #36 of set 4 for city, inongo.
+
+
+Timepoint: 08/27/2023 14:27:14
+
+Processing Record #37 of set 4 for city, deal.
+
+
+Timepoint: 08/27/2023 14:27:14
+
+Processing Record #38 of set 4 for city, bahla'.
+
+
+Timepoint: 08/27/2023 14:27:14
+The script did not find the city, bahla'. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:14
+
+Processing Record #39 of set 4 for city, chateaubelair.
+
+
+Timepoint: 08/27/2023 14:27:15
+
+Processing Record #40 of set 4 for city, fort st. john.
+
+
+Timepoint: 08/27/2023 14:27:15
+
+Processing Record #41 of set 4 for city, howrah.
+
+
+Timepoint: 08/27/2023 14:27:15
+
+Processing Record #42 of set 4 for city, staryye ozinki.
+
+
+Timepoint: 08/27/2023 14:27:15
+
+Processing Record #43 of set 4 for city, margate.
+
+
+Timepoint: 08/27/2023 14:27:16
+
+Processing Record #44 of set 4 for city, nafpaktos.
+
+
+Timepoint: 08/27/2023 14:27:16
+
+Processing Record #45 of set 4 for city, saint john.
+
+
+Timepoint: 08/27/2023 14:27:16
+
+Processing Record #46 of set 4 for city, yamoussoukro.
+
+
+Timepoint: 08/27/2023 14:27:16
+
+Processing Record #47 of set 4 for city, sur.
+
+
+Timepoint: 08/27/2023 14:27:17
+
+Processing Record #48 of set 4 for city, kodiak.
+
+
+Timepoint: 08/27/2023 14:27:17
+
+Processing Record #49 of set 4 for city, ban houayxay.
+
+
+Timepoint: 08/27/2023 14:27:17
+
+Processing Record #50 of set 4 for city, vila velha.
+
+
+Timepoint: 08/27/2023 14:27:18
+
+Processing Record #1 of set 5 for city, bossangoa.
+
+
+Timepoint: 08/27/2023 14:27:18
+
+Processing Record #2 of set 5 for city, lloydminster.
+
+
+Timepoint: 08/27/2023 14:27:18
+
+Processing Record #3 of set 5 for city, kuta.
+
+
+Timepoint: 08/27/2023 14:27:18
+
+Processing Record #4 of set 5 for city, gulf shores.
+
+
+Timepoint: 08/27/2023 14:27:18
+
+Processing Record #5 of set 5 for city, port alfred.
+
+
+Timepoint: 08/27/2023 14:27:19
+
+Processing Record #6 of set 5 for city, selfoss.
+
+
+Timepoint: 08/27/2023 14:27:19
+
+Processing Record #7 of set 5 for city, leshan.
+
+
+Timepoint: 08/27/2023 14:27:19
+
+Processing Record #8 of set 5 for city, tsiombe.
+
+
+Timepoint: 08/27/2023 14:27:19
+
+Processing Record #9 of set 5 for city, tenenkou.
+
+
+Timepoint: 08/27/2023 14:27:20
+
+Processing Record #10 of set 5 for city, labuan bajo.
+
+
+Timepoint: 08/27/2023 14:27:20
+
+Processing Record #11 of set 5 for city, machico.
+
+
+Timepoint: 08/27/2023 14:27:20
+
+Processing Record #12 of set 5 for city, punta arenas.
+
+
+Timepoint: 08/27/2023 14:27:20
+
+Processing Record #13 of set 5 for city, camacupa.
+
+
+Timepoint: 08/27/2023 14:27:21
+
+Processing Record #14 of set 5 for city, yangor.
+
+
+Timepoint: 08/27/2023 14:27:21
+The script did not find the city, yangor. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:21
+
+Processing Record #15 of set 5 for city, marsabit.
+
+
+Timepoint: 08/27/2023 14:27:22
+
+Processing Record #16 of set 5 for city, san patricio.
+
+
+Timepoint: 08/27/2023 14:27:22
+
+Processing Record #17 of set 5 for city, beihai.
+
+
+Timepoint: 08/27/2023 14:27:22
+
+Processing Record #18 of set 5 for city, hafar al-batin.
+
+
+Timepoint: 08/27/2023 14:27:23
+
+Processing Record #19 of set 5 for city, fortuna.
+
+
+Timepoint: 08/27/2023 14:27:23
+
+Processing Record #20 of set 5 for city, karratha.
+
+
+Timepoint: 08/27/2023 14:27:23
+
+Processing Record #21 of set 5 for city, nellore.
+
+
+Timepoint: 08/27/2023 14:27:24
+
+Processing Record #22 of set 5 for city, mtsensk.
+
+
+Timepoint: 08/27/2023 14:27:24
+
+Processing Record #23 of set 5 for city, pitimbu.
+
+
+Timepoint: 08/27/2023 14:27:24
+
+Processing Record #24 of set 5 for city, shingu.
+
+
+Timepoint: 08/27/2023 14:27:25
+
+Processing Record #25 of set 5 for city, coyhaique.
+
+
+Timepoint: 08/27/2023 14:27:25
+
+Processing Record #26 of set 5 for city, lincoln city.
+
+
+Timepoint: 08/27/2023 14:27:25
+
+Processing Record #27 of set 5 for city, seven pagodas.
+
+
+Timepoint: 08/27/2023 14:27:25
+
+Processing Record #28 of set 5 for city, mount gambier.
+
+
+Timepoint: 08/27/2023 14:27:26
+
+Processing Record #29 of set 5 for city, zheleznodorozhnyy.
+
+
+Timepoint: 08/27/2023 14:27:26
+
+Processing Record #30 of set 5 for city, kenai.
+
+
+Timepoint: 08/27/2023 14:27:26
+
+Processing Record #31 of set 5 for city, mount pearl.
+
+
+Timepoint: 08/27/2023 14:27:27
+
+Processing Record #32 of set 5 for city, montepuez.
+
+
+Timepoint: 08/27/2023 14:27:27
+
+Processing Record #33 of set 5 for city, ola.
+
+
+Timepoint: 08/27/2023 14:27:27
+
+Processing Record #34 of set 5 for city, kingscliff.
+
+
+Timepoint: 08/27/2023 14:27:27
+
+Processing Record #35 of set 5 for city, alaghsas.
+
+
+Timepoint: 08/27/2023 14:27:27
+
+Processing Record #36 of set 5 for city, bondo.
+
+
+Timepoint: 08/27/2023 14:27:28
+
+Processing Record #37 of set 5 for city, petropavlovsk-kamchatsky.
+
+
+Timepoint: 08/27/2023 14:27:28
+
+Processing Record #38 of set 5 for city, saint-philippe.
+
+
+Timepoint: 08/27/2023 14:27:28
+
+Processing Record #39 of set 5 for city, loango.
+
+
+Timepoint: 08/27/2023 14:27:29
+
+Processing Record #40 of set 5 for city, constantia.
+
+
+Timepoint: 08/27/2023 14:27:29
+
+Processing Record #41 of set 5 for city, huarmey.
+
+
+Timepoint: 08/27/2023 14:27:29
+
+Processing Record #42 of set 5 for city, cadale.
+
+
+Timepoint: 08/27/2023 14:27:29
+
+Processing Record #43 of set 5 for city, voskresenskoye.
+
+
+Timepoint: 08/27/2023 14:27:30
+
+Processing Record #44 of set 5 for city, madang.
+
+
+Timepoint: 08/27/2023 14:27:30
+
+Processing Record #45 of set 5 for city, borovichi.
+
+
+Timepoint: 08/27/2023 14:27:30
+
+Processing Record #46 of set 5 for city, yuzhno-kurilsk.
+
+
+Timepoint: 08/27/2023 14:27:31
+
+Processing Record #47 of set 5 for city, badger.
+
+
+Timepoint: 08/27/2023 14:27:31
+
+Processing Record #48 of set 5 for city, anadyr.
+
+
+Timepoint: 08/27/2023 14:27:31
+
+Processing Record #49 of set 5 for city, baruun-urt.
+
+
+Timepoint: 08/27/2023 14:27:31
+
+Processing Record #50 of set 5 for city, portland.
+
+
+Timepoint: 08/27/2023 14:27:31
+
+Processing Record #1 of set 6 for city, mossel bay.
+
+
+Timepoint: 08/27/2023 14:27:32
+
+Processing Record #2 of set 6 for city, vohipaho.
+
+
+Timepoint: 08/27/2023 14:27:32
+The script did not find the city, vohipaho. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:32
+
+Processing Record #3 of set 6 for city, santo antonio do ica.
+
+
+Timepoint: 08/27/2023 14:27:32
+
+Processing Record #4 of set 6 for city, port kembla.
+
+
+Timepoint: 08/27/2023 14:27:32
+
+Processing Record #5 of set 6 for city, susuman.
+
+
+Timepoint: 08/27/2023 14:27:33
+
+Processing Record #6 of set 6 for city, puerto san carlos.
+
+
+Timepoint: 08/27/2023 14:27:33
+The script did not find the city, puerto san carlos. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:33
+
+Processing Record #7 of set 6 for city, coquimbo.
+
+
+Timepoint: 08/27/2023 14:27:33
+
+Processing Record #8 of set 6 for city, truro.
+
+
+Timepoint: 08/27/2023 14:27:33
+
+Processing Record #9 of set 6 for city, toga village.
+
+
+Timepoint: 08/27/2023 14:27:33
+The script did not find the city, toga village. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:33
+
+Processing Record #10 of set 6 for city, kayangel.
+
+
+Timepoint: 08/27/2023 14:27:34
+
+Processing Record #11 of set 6 for city, monroeville.
+
+
+Timepoint: 08/27/2023 14:27:34
+
+Processing Record #12 of set 6 for city, ghanzi.
+
+
+Timepoint: 08/27/2023 14:27:34
+
+Processing Record #13 of set 6 for city, isangel.
+
+
+Timepoint: 08/27/2023 14:27:34
+
+Processing Record #14 of set 6 for city, lent'ekhi.
+
+
+Timepoint: 08/27/2023 14:27:34
+
+Processing Record #15 of set 6 for city, caxito.
+
+
+Timepoint: 08/27/2023 14:27:35
+
+Processing Record #16 of set 6 for city, turinsk.
+
+
+Timepoint: 08/27/2023 14:27:35
+
+Processing Record #17 of set 6 for city, colonia.
+
+
+Timepoint: 08/27/2023 14:27:35
+
+Processing Record #18 of set 6 for city, espargos.
+
+
+Timepoint: 08/27/2023 14:27:35
+The script did not find the city, espargos. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:35
+
+Processing Record #19 of set 6 for city, kovdor.
+
+
+Timepoint: 08/27/2023 14:27:36
+
+Processing Record #20 of set 6 for city, touros.
+
+
+Timepoint: 08/27/2023 14:27:36
+
+Processing Record #21 of set 6 for city, atafu village.
+
+
+Timepoint: 08/27/2023 14:27:36
+
+Processing Record #22 of set 6 for city, vuktyl.
+
+
+Timepoint: 08/27/2023 14:27:36
+
+Processing Record #23 of set 6 for city, colihaut.
+
+
+Timepoint: 08/27/2023 14:27:37
+The script did not find the city, colihaut. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:37
+
+Processing Record #24 of set 6 for city, malabar.
+
+
+Timepoint: 08/27/2023 14:27:37
+
+Processing Record #25 of set 6 for city, bratsk.
+
+
+Timepoint: 08/27/2023 14:27:37
+
+Processing Record #26 of set 6 for city, saldanha.
+
+
+Timepoint: 08/27/2023 14:27:37
+
+Processing Record #27 of set 6 for city, am djarass.
+
+
+Timepoint: 08/27/2023 14:27:37
+The script did not find the city, am djarass. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:37
+
+Processing Record #28 of set 6 for city, chonchi.
+
+
+Timepoint: 08/27/2023 14:27:38
+
+Processing Record #29 of set 6 for city, palu.
+
+
+Timepoint: 08/27/2023 14:27:38
+
+Processing Record #30 of set 6 for city, qaisumah.
+
+
+Timepoint: 08/27/2023 14:27:38
+
+Processing Record #31 of set 6 for city, talakan.
+
+
+Timepoint: 08/27/2023 14:27:38
+
+Processing Record #32 of set 6 for city, college.
+
+
+Timepoint: 08/27/2023 14:27:39
+
+Processing Record #33 of set 6 for city, mananjary.
+
+
+Timepoint: 08/27/2023 14:27:39
+
+Processing Record #34 of set 6 for city, tranovaho.
+
+
+Timepoint: 08/27/2023 14:27:39
+The script did not find the city, tranovaho. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:39
+
+Processing Record #35 of set 6 for city, ndelele.
+
+
+Timepoint: 08/27/2023 14:27:39
+
+Processing Record #36 of set 6 for city, sinop.
+
+
+Timepoint: 08/27/2023 14:27:39
+
+Processing Record #37 of set 6 for city, emerald.
+
+
+Timepoint: 08/27/2023 14:27:40
+
+Processing Record #38 of set 6 for city, salinopolis.
+
+
+Timepoint: 08/27/2023 14:27:40
+
+Processing Record #39 of set 6 for city, kailua-kona.
+
+
+Timepoint: 08/27/2023 14:27:40
+
+Processing Record #40 of set 6 for city, cabo san lucas.
+
+
+Timepoint: 08/27/2023 14:27:40
+
+Processing Record #41 of set 6 for city, prairie du chien.
+
+
+Timepoint: 08/27/2023 14:27:40
+
+Processing Record #42 of set 6 for city, usogorsk.
+
+
+Timepoint: 08/27/2023 14:27:41
+
+Processing Record #43 of set 6 for city, zhaobaoshan.
+
+
+Timepoint: 08/27/2023 14:27:41
+
+Processing Record #44 of set 6 for city, souillac.
+
+
+Timepoint: 08/27/2023 14:27:41
+
+Processing Record #45 of set 6 for city, tokar.
+
+
+Timepoint: 08/27/2023 14:27:41
+
+Processing Record #46 of set 6 for city, salalah.
+
+
+Timepoint: 08/27/2023 14:27:41
+
+Processing Record #47 of set 6 for city, qapqal.
+
+
+Timepoint: 08/27/2023 14:27:41
+The script did not find the city, qapqal. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:41
+
+Processing Record #48 of set 6 for city, greymouth.
+
+
+Timepoint: 08/27/2023 14:27:42
+
+Processing Record #49 of set 6 for city, xianju.
+
+
+Timepoint: 08/27/2023 14:27:42
+
+Processing Record #50 of set 6 for city, nouadhibou.
+
+
+Timepoint: 08/27/2023 14:27:42
+
+Processing Record #1 of set 7 for city, pangoa.
+
+
+Timepoint: 08/27/2023 14:27:42
+
+Processing Record #2 of set 7 for city, kapa'a.
+
+
+Timepoint: 08/27/2023 14:27:42
+
+Processing Record #3 of set 7 for city, gallup.
+
+
+Timepoint: 08/27/2023 14:27:43
+
+Processing Record #4 of set 7 for city, amga.
+
+
+Timepoint: 08/27/2023 14:27:43
+
+Processing Record #5 of set 7 for city, port saint john's.
+
+
+Timepoint: 08/27/2023 14:27:44
+
+Processing Record #6 of set 7 for city, cole harbour.
+
+
+Timepoint: 08/27/2023 14:27:44
+
+Processing Record #7 of set 7 for city, arraial do cabo.
+
+
+Timepoint: 08/27/2023 14:27:45
+
+Processing Record #8 of set 7 for city, mendi.
+
+
+Timepoint: 08/27/2023 14:27:45
+
+Processing Record #9 of set 7 for city, nagqu.
+
+
+Timepoint: 08/27/2023 14:27:45
+
+Processing Record #10 of set 7 for city, urangan.
+
+
+Timepoint: 08/27/2023 14:27:45
+
+Processing Record #11 of set 7 for city, nuku'alofa.
+
+
+Timepoint: 08/27/2023 14:27:46
+
+Processing Record #12 of set 7 for city, maych'ew.
+
+
+Timepoint: 08/27/2023 14:27:46
+
+Processing Record #13 of set 7 for city, palikir - national government center.
+
+
+Timepoint: 08/27/2023 14:27:46
+
+Processing Record #14 of set 7 for city, san pedro pochutla.
+
+
+Timepoint: 08/27/2023 14:27:46
+
+Processing Record #15 of set 7 for city, illizi.
+
+
+Timepoint: 08/27/2023 14:27:47
+
+Processing Record #16 of set 7 for city, naxos.
+
+
+Timepoint: 08/27/2023 14:27:47
+
+Processing Record #17 of set 7 for city, bubaque.
+
+
+Timepoint: 08/27/2023 14:27:47
+
+Processing Record #18 of set 7 for city, koshki.
+
+
+Timepoint: 08/27/2023 14:27:47
+
+Processing Record #19 of set 7 for city, vinh.
+
+
+Timepoint: 08/27/2023 14:27:47
+
+Processing Record #20 of set 7 for city, necochea.
+
+
+Timepoint: 08/27/2023 14:27:48
+
+Processing Record #21 of set 7 for city, qinnan.
+
+
+Timepoint: 08/27/2023 14:27:48
+
+Processing Record #22 of set 7 for city, itoman.
+
+
+Timepoint: 08/27/2023 14:27:48
+
+Processing Record #23 of set 7 for city, zhanaozen.
+
+
+Timepoint: 08/27/2023 14:27:48
+
+Processing Record #24 of set 7 for city, happy valley-goose bay.
+
+
+Timepoint: 08/27/2023 14:27:48
+
+Processing Record #25 of set 7 for city, ipora.
+
+
+Timepoint: 08/27/2023 14:27:49
+
+Processing Record #26 of set 7 for city, shixing.
+
+
+Timepoint: 08/27/2023 14:27:49
+
+Processing Record #27 of set 7 for city, inhambane.
+
+
+Timepoint: 08/27/2023 14:27:49
+
+Processing Record #28 of set 7 for city, mossendjo.
+
+
+Timepoint: 08/27/2023 14:27:49
+
+Processing Record #29 of set 7 for city, khanpur.
+
+
+Timepoint: 08/27/2023 14:27:49
+
+Processing Record #30 of set 7 for city, gmunden.
+
+
+Timepoint: 08/27/2023 14:27:50
+
+Processing Record #31 of set 7 for city, alofi.
+
+
+Timepoint: 08/27/2023 14:27:50
+
+Processing Record #32 of set 7 for city, saint-francois.
+
+
+Timepoint: 08/27/2023 14:27:50
+
+Processing Record #33 of set 7 for city, sechura.
+
+
+Timepoint: 08/27/2023 14:27:50
+
+Processing Record #34 of set 7 for city, qamdo.
+
+
+Timepoint: 08/27/2023 14:27:50
+
+Processing Record #35 of set 7 for city, papao.
+
+
+Timepoint: 08/27/2023 14:27:51
+
+Processing Record #36 of set 7 for city, anton lizardo.
+
+
+Timepoint: 08/27/2023 14:27:51
+
+Processing Record #37 of set 7 for city, ar rass.
+
+
+Timepoint: 08/27/2023 14:27:51
+
+Processing Record #38 of set 7 for city, chivilcoy.
+
+
+Timepoint: 08/27/2023 14:27:51
+
+Processing Record #39 of set 7 for city, sarh.
+
+
+Timepoint: 08/27/2023 14:27:51
+
+Processing Record #40 of set 7 for city, santiago juxtlahuaca.
+
+
+Timepoint: 08/27/2023 14:27:52
+
+Processing Record #41 of set 7 for city, egilsstadir.
+
+
+Timepoint: 08/27/2023 14:27:52
+
+Processing Record #42 of set 7 for city, konarka.
+
+
+Timepoint: 08/27/2023 14:27:52
+
+Processing Record #43 of set 7 for city, vilyuchinsk.
+
+
+Timepoint: 08/27/2023 14:27:52
+
+Processing Record #44 of set 7 for city, fuxin.
+
+
+Timepoint: 08/27/2023 14:27:52
+
+Processing Record #45 of set 7 for city, shiyan.
+
+
+Timepoint: 08/27/2023 14:27:53
+
+Processing Record #46 of set 7 for city, wladyslawowo.
+
+
+Timepoint: 08/27/2023 14:27:53
+
+Processing Record #47 of set 7 for city, val-d'or.
+
+
+Timepoint: 08/27/2023 14:27:53
+
+Processing Record #48 of set 7 for city, jincheng.
+
+
+Timepoint: 08/27/2023 14:27:53
+
+Processing Record #49 of set 7 for city, villa bruzual.
+
+
+Timepoint: 08/27/2023 14:27:54
+
+Processing Record #50 of set 7 for city, ad dilam.
+
+
+Timepoint: 08/27/2023 14:27:54
+
+Processing Record #1 of set 8 for city, saint-pierre.
+
+
+Timepoint: 08/27/2023 14:27:54
+
+Processing Record #2 of set 8 for city, mejit.
+
+
+Timepoint: 08/27/2023 14:27:54
+
+Processing Record #3 of set 8 for city, wuyang.
+
+
+Timepoint: 08/27/2023 14:27:54
+
+Processing Record #4 of set 8 for city, island harbour.
+
+
+Timepoint: 08/27/2023 14:27:55
+
+Processing Record #5 of set 8 for city, myeik.
+
+
+Timepoint: 08/27/2023 14:27:55
+
+Processing Record #6 of set 8 for city, changji.
+
+
+Timepoint: 08/27/2023 14:27:55
+
+Processing Record #7 of set 8 for city, dihok.
+
+
+Timepoint: 08/27/2023 14:27:55
+
+Processing Record #8 of set 8 for city, vorgashor.
+
+
+Timepoint: 08/27/2023 14:27:55
+
+Processing Record #9 of set 8 for city, puerto deseado.
+
+
+Timepoint: 08/27/2023 14:27:56
+
+Processing Record #10 of set 8 for city, kingston.
+
+
+Timepoint: 08/27/2023 14:27:56
+
+Processing Record #11 of set 8 for city, yigo village.
+
+
+Timepoint: 08/27/2023 14:27:56
+
+Processing Record #12 of set 8 for city, camarinas.
+
+
+Timepoint: 08/27/2023 14:27:56
+
+Processing Record #13 of set 8 for city, ceeldheer.
+
+
+Timepoint: 08/27/2023 14:27:56
+
+Processing Record #14 of set 8 for city, vingt cinq.
+
+
+Timepoint: 08/27/2023 14:27:56
+The script did not find the city, vingt cinq. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:56
+
+Processing Record #15 of set 8 for city, port hedland.
+
+
+Timepoint: 08/27/2023 14:27:57
+
+Processing Record #16 of set 8 for city, la ronge.
+
+
+Timepoint: 08/27/2023 14:27:57
+
+Processing Record #17 of set 8 for city, geraldton.
+
+
+Timepoint: 08/27/2023 14:27:57
+
+Processing Record #18 of set 8 for city, minas de marcona.
+
+
+Timepoint: 08/27/2023 14:27:57
+
+Processing Record #19 of set 8 for city, mersa matruh.
+
+
+Timepoint: 08/27/2023 14:27:58
+
+Processing Record #20 of set 8 for city, masons bay.
+
+
+Timepoint: 08/27/2023 14:27:58
+The script did not find the city, masons bay. Skipping...
+
+
+Timepoint: 08/27/2023 14:27:58
+
+Processing Record #21 of set 8 for city, myitkyina.
+
+
+Timepoint: 08/27/2023 14:27:58
+
+Processing Record #22 of set 8 for city, kudahuvadhoo.
+
+
+Timepoint: 08/27/2023 14:27:58
+
+Processing Record #23 of set 8 for city, jaral del progreso.
+
+
+Timepoint: 08/27/2023 14:27:58
+
+Processing Record #24 of set 8 for city, voinjama.
+
+
+Timepoint: 08/27/2023 14:27:59
+
+Processing Record #25 of set 8 for city, kattivakkam.
+
+
+Timepoint: 08/27/2023 14:27:59
+
+Processing Record #26 of set 8 for city, bamboo flat.
+
+
+Timepoint: 08/27/2023 14:27:59
+
+Processing Record #27 of set 8 for city, mohr.
+
+
+Timepoint: 08/27/2023 14:27:59
+
+Processing Record #28 of set 8 for city, nyurba.
+
+
+Timepoint: 08/27/2023 14:27:59
+
+Processing Record #29 of set 8 for city, rio gallegos.
+
+
+Timepoint: 08/27/2023 14:28:00
+
+Processing Record #30 of set 8 for city, shihezi.
+
+
+Timepoint: 08/27/2023 14:28:00
+
+Processing Record #31 of set 8 for city, nanao.
+
+
+Timepoint: 08/27/2023 14:28:00
+
+Processing Record #32 of set 8 for city, apiai.
+
+
+Timepoint: 08/27/2023 14:28:00
+
+Processing Record #33 of set 8 for city, cargados carajos.
+
+
+Timepoint: 08/27/2023 14:28:00
+The script did not find the city, cargados carajos. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:00
+
+Processing Record #34 of set 8 for city, tocopilla.
+
+
+Timepoint: 08/27/2023 14:28:01
+
+Processing Record #35 of set 8 for city, kamen'-rybolov.
+
+
+Timepoint: 08/27/2023 14:28:01
+
+Processing Record #36 of set 8 for city, fort bragg.
+
+
+Timepoint: 08/27/2023 14:28:01
+
+Processing Record #37 of set 8 for city, salahonda.
+
+
+Timepoint: 08/27/2023 14:28:01
+
+Processing Record #38 of set 8 for city, lata.
+
+
+Timepoint: 08/27/2023 14:28:02
+
+Processing Record #39 of set 8 for city, mpika.
+
+
+Timepoint: 08/27/2023 14:28:02
+
+Processing Record #40 of set 8 for city, kalaleh.
+
+
+Timepoint: 08/27/2023 14:28:02
+
+Processing Record #41 of set 8 for city, rouissat.
+
+
+Timepoint: 08/27/2023 14:28:02
+
+Processing Record #42 of set 8 for city, glendive.
+
+
+Timepoint: 08/27/2023 14:28:03
+
+Processing Record #43 of set 8 for city, umm kaddadah.
+
+
+Timepoint: 08/27/2023 14:28:03
+
+Processing Record #44 of set 8 for city, ojinaga.
+
+
+Timepoint: 08/27/2023 14:28:03
+
+Processing Record #45 of set 8 for city, araban.
+
+
+Timepoint: 08/27/2023 14:28:03
+
+Processing Record #46 of set 8 for city, borlange.
+
+
+Timepoint: 08/27/2023 14:28:04
+The script did not find the city, borlange. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:04
+
+Processing Record #47 of set 8 for city, chernyshevskiy.
+
+
+Timepoint: 08/27/2023 14:28:04
+
+Processing Record #48 of set 8 for city, perugorria.
+
+
+Timepoint: 08/27/2023 14:28:04
+
+Processing Record #49 of set 8 for city, malango.
+
+
+Timepoint: 08/27/2023 14:28:05
+
+Processing Record #50 of set 8 for city, belo sur tsiribihina.
+
+
+Timepoint: 08/27/2023 14:28:05
+
+Processing Record #1 of set 9 for city, manokwari.
+
+
+Timepoint: 08/27/2023 14:28:06
+
+Processing Record #2 of set 9 for city, vrangel'.
+
+
+Timepoint: 08/27/2023 14:28:06
+
+Processing Record #3 of set 9 for city, kiunga.
+
+
+Timepoint: 08/27/2023 14:28:07
+
+Processing Record #4 of set 9 for city, al jawf.
+
+
+Timepoint: 08/27/2023 14:28:07
+
+Processing Record #5 of set 9 for city, laela.
+
+
+Timepoint: 08/27/2023 14:28:09
+
+Processing Record #6 of set 9 for city, singaparna.
+
+
+Timepoint: 08/27/2023 14:28:10
+
+Processing Record #7 of set 9 for city, poltavka.
+
+
+Timepoint: 08/27/2023 14:28:11
+
+Processing Record #8 of set 9 for city, vadso.
+
+
+Timepoint: 08/27/2023 14:28:11
+
+Processing Record #9 of set 9 for city, mana.
+
+
+Timepoint: 08/27/2023 14:28:11
+
+Processing Record #10 of set 9 for city, sambava.
+
+
+Timepoint: 08/27/2023 14:28:11
+
+Processing Record #11 of set 9 for city, gorgan.
+
+
+Timepoint: 08/27/2023 14:28:12
+
+Processing Record #12 of set 9 for city, capayan.
+
+
+Timepoint: 08/27/2023 14:28:12
+
+Processing Record #13 of set 9 for city, 'ohonua.
+
+
+Timepoint: 08/27/2023 14:28:12
+The script did not find the city, 'ohonua. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:12
+
+Processing Record #14 of set 9 for city, tevriz.
+
+
+Timepoint: 08/27/2023 14:28:12
+
+Processing Record #15 of set 9 for city, betio village.
+
+
+Timepoint: 08/27/2023 14:28:13
+
+Processing Record #16 of set 9 for city, basotu.
+
+
+Timepoint: 08/27/2023 14:28:13
+
+Processing Record #17 of set 9 for city, alesund.
+
+
+Timepoint: 08/27/2023 14:28:13
+
+Processing Record #18 of set 9 for city, juan griego.
+
+
+Timepoint: 08/27/2023 14:28:13
+
+Processing Record #19 of set 9 for city, ulanhot.
+
+
+Timepoint: 08/27/2023 14:28:14
+
+Processing Record #20 of set 9 for city, mata-utu.
+
+
+Timepoint: 08/27/2023 14:28:14
+
+Processing Record #21 of set 9 for city, ambovombe.
+
+
+Timepoint: 08/27/2023 14:28:14
+
+Processing Record #22 of set 9 for city, churachandpur.
+
+
+Timepoint: 08/27/2023 14:28:14
+
+Processing Record #23 of set 9 for city, nikolayevsk-on-amure.
+
+
+Timepoint: 08/27/2023 14:28:14
+
+Processing Record #24 of set 9 for city, ras gharib.
+
+
+Timepoint: 08/27/2023 14:28:15
+The script did not find the city, ras gharib. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:15
+
+Processing Record #25 of set 9 for city, st. john's.
+
+
+Timepoint: 08/27/2023 14:28:15
+
+Processing Record #26 of set 9 for city, cardigan.
+
+
+Timepoint: 08/27/2023 14:28:15
+
+Processing Record #27 of set 9 for city, hallsberg.
+
+
+Timepoint: 08/27/2023 14:28:15
+
+Processing Record #28 of set 9 for city, kismayo.
+
+
+Timepoint: 08/27/2023 14:28:16
+
+Processing Record #29 of set 9 for city, tyup.
+
+
+Timepoint: 08/27/2023 14:28:16
+
+Processing Record #30 of set 9 for city, luderitz.
+
+
+Timepoint: 08/27/2023 14:28:16
+
+Processing Record #31 of set 9 for city, verkh-chebula.
+
+
+Timepoint: 08/27/2023 14:28:16
+
+Processing Record #32 of set 9 for city, holmsund.
+
+
+Timepoint: 08/27/2023 14:28:17
+
+Processing Record #33 of set 9 for city, chahal guatemala.
+
+
+Timepoint: 08/27/2023 14:28:17
+
+Processing Record #34 of set 9 for city, koryazhma.
+
+
+Timepoint: 08/27/2023 14:28:17
+
+Processing Record #35 of set 9 for city, sonsorol village.
+
+
+Timepoint: 08/27/2023 14:28:17
+The script did not find the city, sonsorol village. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:17
+
+Processing Record #36 of set 9 for city, east ballina.
+
+
+Timepoint: 08/27/2023 14:28:17
+
+Processing Record #37 of set 9 for city, zeya.
+
+
+Timepoint: 08/27/2023 14:28:18
+
+Processing Record #38 of set 9 for city, udachny.
+
+
+Timepoint: 08/27/2023 14:28:18
+
+Processing Record #39 of set 9 for city, lerwick.
+
+
+Timepoint: 08/27/2023 14:28:18
+
+Processing Record #40 of set 9 for city, valparaiso.
+
+
+Timepoint: 08/27/2023 14:28:18
+
+Processing Record #41 of set 9 for city, nanning.
+
+
+Timepoint: 08/27/2023 14:28:19
+
+Processing Record #42 of set 9 for city, aldinga beach.
+
+
+Timepoint: 08/27/2023 14:28:19
+
+Processing Record #43 of set 9 for city, lionel town.
+
+
+Timepoint: 08/27/2023 14:28:19
+
+Processing Record #44 of set 9 for city, fuvahmulah.
+
+
+Timepoint: 08/27/2023 14:28:19
+The script did not find the city, fuvahmulah. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:19
+
+Processing Record #45 of set 9 for city, nahiyat ash shinafiyah.
+
+
+Timepoint: 08/27/2023 14:28:19
+
+Processing Record #46 of set 9 for city, walvis bay.
+
+
+Timepoint: 08/27/2023 14:28:20
+
+Processing Record #47 of set 9 for city, chandauli.
+
+
+Timepoint: 08/27/2023 14:28:20
+
+Processing Record #48 of set 9 for city, nampula.
+
+
+Timepoint: 08/27/2023 14:28:20
+
+Processing Record #49 of set 9 for city, crane.
+
+
+Timepoint: 08/27/2023 14:28:20
+
+Processing Record #50 of set 9 for city, hanceville.
+
+
+Timepoint: 08/27/2023 14:28:21
+
+Processing Record #1 of set 10 for city, magadan.
+
+
+Timepoint: 08/27/2023 14:28:21
+
+Processing Record #2 of set 10 for city, kili.
+
+
+Timepoint: 08/27/2023 14:28:21
+
+Processing Record #3 of set 10 for city, palapag.
+
+
+Timepoint: 08/27/2023 14:28:21
+
+Processing Record #4 of set 10 for city, jasper.
+
+
+Timepoint: 08/27/2023 14:28:22
+
+Processing Record #5 of set 10 for city, buenavista.
+
+
+Timepoint: 08/27/2023 14:28:22
+
+Processing Record #6 of set 10 for city, mufulira.
+
+
+Timepoint: 08/27/2023 14:28:22
+
+Processing Record #7 of set 10 for city, wynyard.
+
+
+Timepoint: 08/27/2023 14:28:22
+
+Processing Record #8 of set 10 for city, villa union.
+
+
+Timepoint: 08/27/2023 14:28:23
+
+Processing Record #9 of set 10 for city, nantucket.
+
+
+Timepoint: 08/27/2023 14:28:23
+
+Processing Record #10 of set 10 for city, carlet.
+
+
+Timepoint: 08/27/2023 14:28:23
+
+Processing Record #11 of set 10 for city, rovaniemi.
+
+
+Timepoint: 08/27/2023 14:28:23
+
+Processing Record #12 of set 10 for city, fort mcmurray.
+
+
+Timepoint: 08/27/2023 14:28:24
+
+Processing Record #13 of set 10 for city, cusseta.
+
+
+Timepoint: 08/27/2023 14:28:24
+
+Processing Record #14 of set 10 for city, duong dong.
+
+
+Timepoint: 08/27/2023 14:28:24
+
+Processing Record #15 of set 10 for city, vac.
+
+
+Timepoint: 08/27/2023 14:28:24
+
+Processing Record #16 of set 10 for city, bonthe.
+
+
+Timepoint: 08/27/2023 14:28:25
+
+Processing Record #17 of set 10 for city, ha'il.
+
+
+Timepoint: 08/27/2023 14:28:25
+
+Processing Record #18 of set 10 for city, benjamin constant.
+
+
+Timepoint: 08/27/2023 14:28:25
+
+Processing Record #19 of set 10 for city, pisco.
+
+
+Timepoint: 08/27/2023 14:28:25
+
+Processing Record #20 of set 10 for city, jijiga.
+
+
+Timepoint: 08/27/2023 14:28:25
+
+Processing Record #21 of set 10 for city, loen.
+
+
+Timepoint: 08/27/2023 14:28:26
+
+Processing Record #22 of set 10 for city, emirdag.
+
+
+Timepoint: 08/27/2023 14:28:26
+
+Processing Record #23 of set 10 for city, guarapari.
+
+
+Timepoint: 08/27/2023 14:28:26
+
+Processing Record #24 of set 10 for city, leava.
+
+
+Timepoint: 08/27/2023 14:28:27
+
+Processing Record #25 of set 10 for city, rahachow.
+
+
+Timepoint: 08/27/2023 14:28:27
+
+Processing Record #26 of set 10 for city, praia da vitoria.
+
+
+Timepoint: 08/27/2023 14:28:27
+
+Processing Record #27 of set 10 for city, beyneu.
+
+
+Timepoint: 08/27/2023 14:28:27
+
+Processing Record #28 of set 10 for city, sibolga.
+
+
+Timepoint: 08/27/2023 14:28:28
+
+Processing Record #29 of set 10 for city, vorkuta.
+
+
+Timepoint: 08/27/2023 14:28:28
+
+Processing Record #30 of set 10 for city, belyy yar.
+
+
+Timepoint: 08/27/2023 14:28:28
+
+Processing Record #31 of set 10 for city, skuodas.
+
+
+Timepoint: 08/27/2023 14:28:28
+
+Processing Record #32 of set 10 for city, porto velho.
+
+
+Timepoint: 08/27/2023 14:28:29
+
+Processing Record #33 of set 10 for city, sao joao da barra.
+
+
+Timepoint: 08/27/2023 14:28:29
+
+Processing Record #34 of set 10 for city, richards bay.
+
+
+Timepoint: 08/27/2023 14:28:29
+
+Processing Record #35 of set 10 for city, benguela.
+
+
+Timepoint: 08/27/2023 14:28:30
+
+Processing Record #36 of set 10 for city, rakops.
+
+
+Timepoint: 08/27/2023 14:28:30
+
+Processing Record #37 of set 10 for city, sumbawa besar.
+
+
+Timepoint: 08/27/2023 14:28:32
+
+Processing Record #38 of set 10 for city, kalkaman.
+
+
+Timepoint: 08/27/2023 14:28:32
+
+Processing Record #39 of set 10 for city, ciudad lazaro cardenas.
+
+
+Timepoint: 08/27/2023 14:28:32
+
+Processing Record #40 of set 10 for city, tamandare.
+
+
+Timepoint: 08/27/2023 14:28:33
+
+Processing Record #41 of set 10 for city, lembar.
+
+
+Timepoint: 08/27/2023 14:28:33
+The script did not find the city, lembar. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:33
+
+Processing Record #42 of set 10 for city, istaravshan.
+
+
+Timepoint: 08/27/2023 14:28:33
+
+Processing Record #43 of set 10 for city, eureka.
+
+
+Timepoint: 08/27/2023 14:28:33
+
+Processing Record #44 of set 10 for city, sao felix do xingu.
+
+
+Timepoint: 08/27/2023 14:28:34
+
+Processing Record #45 of set 10 for city, eirunepe.
+
+
+Timepoint: 08/27/2023 14:28:34
+
+Processing Record #46 of set 10 for city, holualoa.
+
+
+Timepoint: 08/27/2023 14:28:34
+
+Processing Record #47 of set 10 for city, quepos.
+
+
+Timepoint: 08/27/2023 14:28:34
+
+Processing Record #48 of set 10 for city, cold lake.
+
+
+Timepoint: 08/27/2023 14:28:34
+
+Processing Record #49 of set 10 for city, klaksvik.
+
+
+Timepoint: 08/27/2023 14:28:35
+
+Processing Record #50 of set 10 for city, baise city.
+
+
+Timepoint: 08/27/2023 14:28:35
+
+Processing Record #1 of set 11 for city, remire-montjoly.
+
+
+Timepoint: 08/27/2023 14:28:35
+
+Processing Record #2 of set 11 for city, as sulayyil.
+
+
+Timepoint: 08/27/2023 14:28:35
+
+Processing Record #3 of set 11 for city, deogarh.
+
+
+Timepoint: 08/27/2023 14:28:36
+
+Processing Record #4 of set 11 for city, kone.
+
+
+Timepoint: 08/27/2023 14:28:36
+
+Processing Record #5 of set 11 for city, sunch'on.
+
+
+Timepoint: 08/27/2023 14:28:36
+The script did not find the city, sunch'on. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:36
+
+Processing Record #6 of set 11 for city, la libertad.
+
+
+Timepoint: 08/27/2023 14:28:36
+
+Processing Record #7 of set 11 for city, ta`u.
+
+
+Timepoint: 08/27/2023 14:28:37
+
+Processing Record #8 of set 11 for city, mahina.
+
+
+Timepoint: 08/27/2023 14:28:37
+
+Processing Record #9 of set 11 for city, twin falls.
+
+
+Timepoint: 08/27/2023 14:28:37
+
+Processing Record #10 of set 11 for city, robinson.
+
+
+Timepoint: 08/27/2023 14:28:37
+
+Processing Record #11 of set 11 for city, ust'-uda.
+
+
+Timepoint: 08/27/2023 14:28:37
+
+Processing Record #12 of set 11 for city, charters towers.
+
+
+Timepoint: 08/27/2023 14:28:38
+
+Processing Record #13 of set 11 for city, zyryanskoye.
+
+
+Timepoint: 08/27/2023 14:28:38
+
+Processing Record #14 of set 11 for city, ajdabiya.
+
+
+Timepoint: 08/27/2023 14:28:38
+
+Processing Record #15 of set 11 for city, kulia village.
+
+
+Timepoint: 08/27/2023 14:28:38
+The script did not find the city, kulia village. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:38
+
+Processing Record #16 of set 11 for city, weno.
+
+
+Timepoint: 08/27/2023 14:28:38
+
+Processing Record #17 of set 11 for city, shaowu.
+
+
+Timepoint: 08/27/2023 14:28:39
+
+Processing Record #18 of set 11 for city, laminusa.
+
+
+Timepoint: 08/27/2023 14:28:39
+
+Processing Record #19 of set 11 for city, atherton.
+
+
+Timepoint: 08/27/2023 14:28:39
+
+Processing Record #20 of set 11 for city, pirane.
+
+
+Timepoint: 08/27/2023 14:28:39
+
+Processing Record #21 of set 11 for city, bryne.
+
+
+Timepoint: 08/27/2023 14:28:40
+
+Processing Record #22 of set 11 for city, kayenta.
+
+
+Timepoint: 08/27/2023 14:28:40
+
+Processing Record #23 of set 11 for city, santa ana.
+
+
+Timepoint: 08/27/2023 14:28:40
+
+Processing Record #24 of set 11 for city, thunder bay.
+
+
+Timepoint: 08/27/2023 14:28:40
+
+Processing Record #25 of set 11 for city, taoudenni.
+
+
+Timepoint: 08/27/2023 14:28:40
+
+Processing Record #26 of set 11 for city, taber.
+
+
+Timepoint: 08/27/2023 14:28:41
+
+Processing Record #27 of set 11 for city, puerto baquerizo moreno.
+
+
+Timepoint: 08/27/2023 14:28:41
+
+Processing Record #28 of set 11 for city, san antonio de pale.
+
+
+Timepoint: 08/27/2023 14:28:41
+
+Processing Record #29 of set 11 for city, oualidia.
+
+
+Timepoint: 08/27/2023 14:28:41
+The script did not find the city, oualidia. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:41
+
+Processing Record #30 of set 11 for city, ulaangom.
+
+
+Timepoint: 08/27/2023 14:28:41
+
+Processing Record #31 of set 11 for city, yangchun.
+
+
+Timepoint: 08/27/2023 14:28:42
+
+Processing Record #32 of set 11 for city, ornskoldsvik.
+
+
+Timepoint: 08/27/2023 14:28:42
+
+Processing Record #33 of set 11 for city, nathdwara.
+
+
+Timepoint: 08/27/2023 14:28:42
+
+Processing Record #34 of set 11 for city, kerikeri.
+
+
+Timepoint: 08/27/2023 14:28:42
+
+Processing Record #35 of set 11 for city, kudat.
+
+
+Timepoint: 08/27/2023 14:28:42
+
+Processing Record #36 of set 11 for city, garissa.
+
+
+Timepoint: 08/27/2023 14:28:43
+
+Processing Record #37 of set 11 for city, al kharijah.
+
+
+Timepoint: 08/27/2023 14:28:43
+
+Processing Record #38 of set 11 for city, masterton.
+
+
+Timepoint: 08/27/2023 14:28:43
+
+Processing Record #39 of set 11 for city, pithiviers.
+
+
+Timepoint: 08/27/2023 14:28:43
+
+Processing Record #40 of set 11 for city, hovd.
+
+
+Timepoint: 08/27/2023 14:28:43
+
+Processing Record #41 of set 11 for city, minot air force base.
+
+
+Timepoint: 08/27/2023 14:28:44
+
+Processing Record #42 of set 11 for city, labrador city.
+
+
+Timepoint: 08/27/2023 14:28:44
+
+Processing Record #43 of set 11 for city, bennettsville.
+
+
+Timepoint: 08/27/2023 14:28:44
+
+Processing Record #44 of set 11 for city, taroa.
+
+
+Timepoint: 08/27/2023 14:28:44
+
+Processing Record #45 of set 11 for city, broome.
+
+
+Timepoint: 08/27/2023 14:28:44
+
+Processing Record #46 of set 11 for city, antsiranana.
+
+
+Timepoint: 08/27/2023 14:28:45
+
+Processing Record #47 of set 11 for city, swakopmund.
+
+
+Timepoint: 08/27/2023 14:28:45
+
+Processing Record #48 of set 11 for city, tomatlan.
+
+
+Timepoint: 08/27/2023 14:28:45
+
+Processing Record #49 of set 11 for city, rabo de peixe.
+
+
+Timepoint: 08/27/2023 14:28:45
+
+Processing Record #50 of set 11 for city, ambon.
+
+
+Timepoint: 08/27/2023 14:28:45
+
+Processing Record #1 of set 12 for city, tarakan.
+
+
+Timepoint: 08/27/2023 14:28:46
+
+Processing Record #2 of set 12 for city, natal.
+
+
+Timepoint: 08/27/2023 14:28:46
+
+Processing Record #3 of set 12 for city, penalva.
+
+
+Timepoint: 08/27/2023 14:28:46
+
+Processing Record #4 of set 12 for city, ashburton.
+
+
+Timepoint: 08/27/2023 14:28:46
+
+Processing Record #5 of set 12 for city, springbok.
+
+
+Timepoint: 08/27/2023 14:28:46
+
+Processing Record #6 of set 12 for city, ushtobe.
+
+
+Timepoint: 08/27/2023 14:28:47
+
+Processing Record #7 of set 12 for city, vila franca do campo.
+
+
+Timepoint: 08/27/2023 14:28:47
+
+Processing Record #8 of set 12 for city, pak phanang.
+
+
+Timepoint: 08/27/2023 14:28:47
+
+Processing Record #9 of set 12 for city, severo-yeniseyskiy.
+
+
+Timepoint: 08/27/2023 14:28:47
+
+Processing Record #10 of set 12 for city, swift current.
+
+
+Timepoint: 08/27/2023 14:28:47
+
+Processing Record #11 of set 12 for city, kobryn.
+
+
+Timepoint: 08/27/2023 14:28:48
+
+Processing Record #12 of set 12 for city, ericeira.
+
+
+Timepoint: 08/27/2023 14:28:48
+
+Processing Record #13 of set 12 for city, sa dec.
+
+
+Timepoint: 08/27/2023 14:28:48
+
+Processing Record #14 of set 12 for city, dehloran.
+
+
+Timepoint: 08/27/2023 14:28:48
+
+Processing Record #15 of set 12 for city, manhuacu.
+
+
+Timepoint: 08/27/2023 14:28:48
+
+Processing Record #16 of set 12 for city, pauini.
+
+
+Timepoint: 08/27/2023 14:28:49
+
+Processing Record #17 of set 12 for city, ringkobing.
+
+
+Timepoint: 08/27/2023 14:28:49
+
+Processing Record #18 of set 12 for city, yudong.
+
+
+Timepoint: 08/27/2023 14:28:49
+
+Processing Record #19 of set 12 for city, guerrero negro.
+
+
+Timepoint: 08/27/2023 14:28:49
+
+Processing Record #20 of set 12 for city, ninghai.
+
+
+Timepoint: 08/27/2023 14:28:49
+
+Processing Record #21 of set 12 for city, rongelap.
+
+
+Timepoint: 08/27/2023 14:28:50
+
+Processing Record #22 of set 12 for city, carnarvon.
+
+
+Timepoint: 08/27/2023 14:28:50
+
+Processing Record #23 of set 12 for city, prince albert.
+
+
+Timepoint: 08/27/2023 14:28:50
+
+Processing Record #24 of set 12 for city, cidreira.
+
+
+Timepoint: 08/27/2023 14:28:50
+
+Processing Record #25 of set 12 for city, barah.
+
+
+Timepoint: 08/27/2023 14:28:51
+
+Processing Record #26 of set 12 for city, huangnihe.
+
+
+Timepoint: 08/27/2023 14:28:51
+
+Processing Record #27 of set 12 for city, mumford.
+
+
+Timepoint: 08/27/2023 14:28:51
+
+Processing Record #28 of set 12 for city, marsaskala.
+
+
+Timepoint: 08/27/2023 14:28:51
+The script did not find the city, marsaskala. Skipping...
+
+
+Timepoint: 08/27/2023 14:28:51
+
+Processing Record #29 of set 12 for city, conception bay south.
+
+
+Timepoint: 08/27/2023 14:28:51
+
+Processing Record #30 of set 12 for city, jianshui.
+
+
+Timepoint: 08/27/2023 14:28:52
+
+Processing Record #31 of set 12 for city, fiambala.
+
+
+Timepoint: 08/27/2023 14:28:53
+
+Processing Record #32 of set 12 for city, vanimo.
+
+
+Timepoint: 08/27/2023 14:28:53
+
+Processing Record #33 of set 12 for city, imbituba.
+
+
+Timepoint: 08/27/2023 14:28:53
+
+Processing Record #34 of set 12 for city, tromso.
+
+
+Timepoint: 08/27/2023 14:28:54
+
+Processing Record #35 of set 12 for city, domna.
+
+
+Timepoint: 08/27/2023 14:28:54
+
+Processing Record #36 of set 12 for city, inari.
+
+
+Timepoint: 08/27/2023 14:28:54
+
+Processing Record #37 of set 12 for city, bhamo.
+
+
+Timepoint: 08/27/2023 14:28:55
+
+Processing Record #38 of set 12 for city, moapa valley.
+
+
+Timepoint: 08/27/2023 14:28:55
+
+Data Retrieval for city weather DataFrame is complete.
+
+
+Timepoint: 08/27/2023 14:28:56
+r-value:     -0.0402
+
+
+Timepoint: 08/27/2023 14:28:56
+r-squared:   0.0016
+
+
+Timepoint: 08/27/2023 14:28:56
+correlation: -0.0402
+
+
+Timepoint: 08/27/2023 14:28:56
+r-value:     0.8113
+
+
+Timepoint: 08/27/2023 14:28:56
+r-squared:   0.6582
+
+
+Timepoint: 08/27/2023 14:28:56
+correlation: -0.0402
+
+
+Timepoint: 08/27/2023 14:28:57
+r-value:     0.0139
+
+
+Timepoint: 08/27/2023 14:28:57
+r-squared:   0.0002
+
+
+Timepoint: 08/27/2023 14:28:57
+correlation: 0.0139
+
+
+Timepoint: 08/27/2023 14:28:57
+r-value:     0.1410
+
+
+Timepoint: 08/27/2023 14:28:57
+r-squared:   0.0199
+
+
+Timepoint: 08/27/2023 14:28:57
+correlation: 0.0139
+
+
+Timepoint: 08/27/2023 14:28:58
+r-value:     0.0922
+
+
+Timepoint: 08/27/2023 14:28:58
+r-squared:   0.0085
+
+
+Timepoint: 08/27/2023 14:28:58
+correlation: 0.0922
+
+
+Timepoint: 08/27/2023 14:28:59
+r-value:     0.1088
+
+
+Timepoint: 08/27/2023 14:28:59
+r-squared:   0.0118
+
+
+Timepoint: 08/27/2023 14:28:59
+correlation: 0.0922
+
+
+Timepoint: 08/27/2023 14:28:59
+r-value:     -0.1907
+
+
+Timepoint: 08/27/2023 14:28:59
+r-squared:   0.0363
+
+
+Timepoint: 08/27/2023 14:28:59
+correlation: -0.1907
+
+
+Timepoint: 08/27/2023 14:29:00
+r-value:     -0.1907
+
+
+Timepoint: 08/27/2023 14:29:00
+r-squared:   0.0363
+
+
+Timepoint: 08/27/2023 14:29:00
+correlation: -0.1907
+
+
+Timepoint: 08/27/2023 14:29:00
+r-value:     -0.7201
+
+
+Timepoint: 08/27/2023 14:29:00
+r-squared:   0.5186
+
+
+Timepoint: 08/27/2023 14:29:00
+correlation: -0.7201
+
+
+Timepoint: 08/27/2023 14:29:01
+r-value:     0.8468
+
+
+Timepoint: 08/27/2023 14:29:01
+r-squared:   0.7171
+
+
+Timepoint: 08/27/2023 14:29:01
+correlation: 0.8468
+
+
+Timepoint: 08/27/2023 14:29:01
+r-value:     0.0531
+
+
+Timepoint: 08/27/2023 14:29:01
+r-squared:   0.0028
+
+
+Timepoint: 08/27/2023 14:29:01
+correlation: 0.0531
+
+
+Timepoint: 08/27/2023 14:29:02
+r-value:     -0.0207
+
+
+Timepoint: 08/27/2023 14:29:02
+r-squared:   0.0004
+
+
+Timepoint: 08/27/2023 14:29:02
+correlation: -0.0207
+
+
+Timepoint: 08/27/2023 14:29:02
+r-value:     -0.0522
+
+
+Timepoint: 08/27/2023 14:29:02
+r-squared:   0.0027
+
+
+Timepoint: 08/27/2023 14:29:02
+correlation: -0.0522
+
+
+Timepoint: 08/27/2023 14:29:02
+r-value:     0.0539
+
+
+Timepoint: 08/27/2023 14:29:02
+r-squared:   0.0029
+
+
+Timepoint: 08/27/2023 14:29:02
+correlation: 0.0539
+
+
+Timepoint: 08/27/2023 14:29:03
+r-value:     -0.1575
+
+
+Timepoint: 08/27/2023 14:29:03
+r-squared:   0.0248
+
+
+Timepoint: 08/27/2023 14:29:03
+correlation: -0.1575
+
+
+Timepoint: 08/27/2023 14:29:03
+r-value:     -0.1089
+
+
+Timepoint: 08/27/2023 14:29:03
+r-squared:   0.0118
+
+
+Timepoint: 08/27/2023 14:29:03
+correlation: -0.1089
+
+
+Timepoint: 08/27/2023 14:29:04
+Program execution ends at 08/27/2023 14:29:04.
+
+
+
+
+
+
+Timepoint: 08/27/2023 14:30:11
+Program execution begins...
+
+
+
+Timepoint: 08/27/2023 14:30:11
+
+Data Retrieval for city weather DataFrame begins....
+
+
+
+Timepoint: 08/27/2023 14:30:11
+
+Processing Record #2 of set 1 for city, tierp.
+
+
+Timepoint: 08/27/2023 14:30:11
+
+Processing Record #3 of set 1 for city, cedeira.
+
+
+Timepoint: 08/27/2023 14:30:11
+
+Processing Record #4 of set 1 for city, jayapura.
+
+
+Timepoint: 08/27/2023 14:30:12
+
+Processing Record #5 of set 1 for city, ilulissat.
+
+
+Timepoint: 08/27/2023 14:30:12
+
+Processing Record #6 of set 1 for city, merritt.
+
+
+Timepoint: 08/27/2023 14:30:13
+
+Processing Record #7 of set 1 for city, waitangi.
+
+
+Timepoint: 08/27/2023 14:30:13
+
+Processing Record #8 of set 1 for city, unai.
+
+
+Timepoint: 08/27/2023 14:30:13
+
+Processing Record #9 of set 1 for city, port-aux-francais.
+
+
+Timepoint: 08/27/2023 14:30:14
+
+Processing Record #10 of set 1 for city, thompson.
+
+
+Timepoint: 08/27/2023 14:30:14
+
+Processing Record #11 of set 1 for city, invercargill.
+
+
+Timepoint: 08/27/2023 14:30:14
+
+Processing Record #12 of set 1 for city, muisne.
+
+
+Timepoint: 08/27/2023 14:30:15
+
+Processing Record #13 of set 1 for city, bredasdorp.
+
+
+Timepoint: 08/27/2023 14:30:15
+
+Processing Record #14 of set 1 for city, adamstown.
+
+
+Timepoint: 08/27/2023 14:30:15
+
+Processing Record #15 of set 1 for city, katabu.
+
+
+Timepoint: 08/27/2023 14:30:15
+
+Processing Record #16 of set 1 for city, guarapari.
+
+
+Timepoint: 08/27/2023 14:30:15
+
+Processing Record #17 of set 1 for city, ust-nera.
+
+
+Timepoint: 08/27/2023 14:30:15
+
+Processing Record #18 of set 1 for city, severo-yeniseyskiy.
+
+
+Timepoint: 08/27/2023 14:30:16
+
+Processing Record #19 of set 1 for city, am djarass.
+
+
+Timepoint: 08/27/2023 14:30:16
+The script did not find the city, am djarass. Skipping...
+
+
+Timepoint: 08/27/2023 14:30:16
+
+Processing Record #20 of set 1 for city, hithadhoo.
+
+
+Timepoint: 08/27/2023 14:30:16
+
+Processing Record #21 of set 1 for city, ushuaia.
+
+
+Timepoint: 08/27/2023 14:30:16
+
+Processing Record #22 of set 1 for city, jiayuguan.
+
+
+Timepoint: 08/27/2023 14:30:17
+
+Processing Record #23 of set 1 for city, bethel.
+
+
+Timepoint: 08/27/2023 14:30:17
+
+Processing Record #24 of set 1 for city, papatowai.
+
+
+Timepoint: 08/27/2023 14:30:17
+
+Processing Record #25 of set 1 for city, taiohae.
+
+
+Timepoint: 08/27/2023 14:30:17
+The script did not find the city, taiohae. Skipping...
+
+
+Timepoint: 08/27/2023 14:30:17
+
+Processing Record #26 of set 1 for city, punta arenas.
+
+
+Timepoint: 08/27/2023 14:30:17
+
+Processing Record #27 of set 1 for city, ribeira grande.
+
+
+Timepoint: 08/27/2023 14:30:18
+
+Processing Record #28 of set 1 for city, port mathurin.
+
+
+Timepoint: 08/27/2023 14:30:18
+
+Processing Record #29 of set 1 for city, keflavik.
+
+
+Timepoint: 08/27/2023 14:30:18
+
+Processing Record #30 of set 1 for city, puerto natales.
+
+
+Timepoint: 08/27/2023 14:30:18
+
+Processing Record #31 of set 1 for city, preobrazheniye.
+
+
+Timepoint: 08/27/2023 14:30:18
+
+Processing Record #32 of set 1 for city, lebu.
+
+
+Timepoint: 08/27/2023 14:30:19
+
+Processing Record #33 of set 1 for city, albany.
+
+
+Timepoint: 08/27/2023 14:30:19
+
+Processing Record #34 of set 1 for city, karratha.
+
+
+Timepoint: 08/27/2023 14:30:19
+
+Processing Record #35 of set 1 for city, iskateley.
+
+
+Timepoint: 08/27/2023 14:30:19
+
+Processing Record #36 of set 1 for city, kiomboi.
+
+
+Timepoint: 08/27/2023 14:30:20
+
+Processing Record #37 of set 1 for city, west island.
+
+
+Timepoint: 08/27/2023 14:30:20
+
+Processing Record #38 of set 1 for city, stanley.
+
+
+Timepoint: 08/27/2023 14:30:20
+
+Processing Record #39 of set 1 for city, kavaratti.
+
+
+Timepoint: 08/27/2023 14:30:20
+
+Processing Record #40 of set 1 for city, grytviken.
+
+
+Timepoint: 08/27/2023 14:30:20
+
+Processing Record #41 of set 1 for city, sal rei.
+
+
+Timepoint: 08/27/2023 14:30:21
+
+Processing Record #42 of set 1 for city, nemuro.
+
+
+Timepoint: 08/27/2023 14:30:21
+
+Processing Record #43 of set 1 for city, assab.
+
+
+Timepoint: 08/27/2023 14:30:21
+
+Processing Record #44 of set 1 for city, griffith.
+
+
+Timepoint: 08/27/2023 14:30:23
+
+Processing Record #45 of set 1 for city, vorgashor.
+
+
+Timepoint: 08/27/2023 14:30:24
+
+Processing Record #46 of set 1 for city, flying fish cove.
+
+
+Timepoint: 08/27/2023 14:30:24
+
+Processing Record #47 of set 1 for city, kinango.
+
+
+Timepoint: 08/27/2023 14:30:24
+
+Processing Record #48 of set 1 for city, olonkinbyen.
+
+
+Timepoint: 08/27/2023 14:30:24
+
+Processing Record #49 of set 1 for city, puerto ayora.
+
+
+Timepoint: 08/27/2023 14:30:25
+
+Processing Record #50 of set 1 for city, blackmans bay.
+
+
+Timepoint: 08/27/2023 14:30:25
+
+Processing Record #51 of set 1 for city, iqaluit.
+
+
+Timepoint: 08/27/2023 14:30:25
+
+Processing Record #1 of set 2 for city, tshikapa.
+
+
+Timepoint: 08/27/2023 14:30:25
+
+Processing Record #2 of set 2 for city, tura.
+
+
+Timepoint: 08/27/2023 14:30:25
+
+Processing Record #3 of set 2 for city, usogorsk.
+
+
+Timepoint: 08/27/2023 14:30:26
+
+Processing Record #4 of set 2 for city, bilibino.
+
+
+Timepoint: 08/27/2023 14:30:26
+
+Processing Record #5 of set 2 for city, taro.
+
+
+Timepoint: 08/27/2023 14:30:26
+
+Processing Record #6 of set 2 for city, portland.
+
+
+Timepoint: 08/27/2023 14:30:27
+
+Processing Record #7 of set 2 for city, callao.
+
+
+Timepoint: 08/27/2023 14:30:27
+
+Processing Record #8 of set 2 for city, margaret river.
+
+
+Timepoint: 08/27/2023 14:30:30
+
+Processing Record #9 of set 2 for city, vorkuta.
+
+
+Timepoint: 08/27/2023 14:30:30
+
+Processing Record #10 of set 2 for city, lib.
+
+
+Timepoint: 08/27/2023 14:30:33
+
+Processing Record #11 of set 2 for city, toging am inn.
+
+
+Timepoint: 08/27/2023 14:30:33
+
+Processing Record #12 of set 2 for city, tchintabaraden.
+
+
+Timepoint: 08/27/2023 14:30:34
+
+Processing Record #13 of set 2 for city, newman.
+
+
+Timepoint: 08/27/2023 14:30:34
+
+Processing Record #14 of set 2 for city, itoman.
+
+
+Timepoint: 08/27/2023 14:30:34
+
+Processing Record #15 of set 2 for city, shimoda.
+
+
+Timepoint: 08/27/2023 14:30:36
+
+Processing Record #16 of set 2 for city, utrik.
+
+
+Timepoint: 08/27/2023 14:30:36
+
+Processing Record #17 of set 2 for city, m'sila.
+
+
+Timepoint: 08/27/2023 14:30:36
+
+Processing Record #18 of set 2 for city, sitka.
+
+
+Timepoint: 08/27/2023 14:30:37
+
+Processing Record #19 of set 2 for city, atafu village.
+
+
+Timepoint: 08/27/2023 14:30:37
+
+Processing Record #20 of set 2 for city, ballina.
+
+
+Timepoint: 08/27/2023 14:30:37
+
+Processing Record #21 of set 2 for city, tiksi.
+
+
+Timepoint: 08/27/2023 14:30:37
+
+Processing Record #22 of set 2 for city, skagen.
+
+
+Timepoint: 08/27/2023 14:30:38
+
+Processing Record #23 of set 2 for city, hamilton.
+
+
+Timepoint: 08/27/2023 14:30:38
+
+Processing Record #24 of set 2 for city, whitehorse.
+
+
+Timepoint: 08/27/2023 14:30:38
+
+Processing Record #25 of set 2 for city, anadyr.
+
+
+Timepoint: 08/27/2023 14:30:39
+
+Processing Record #26 of set 2 for city, luderitz.
+
+
+Timepoint: 08/27/2023 14:30:39
+
+Processing Record #27 of set 2 for city, noumea.
+
+
+Timepoint: 08/27/2023 14:30:39
+
+Processing Record #28 of set 2 for city, inarajan village.
+
+
+Timepoint: 08/27/2023 14:30:39
+
+Processing Record #29 of set 2 for city, tegueste.
+
+
+Timepoint: 08/27/2023 14:30:40
+
+Processing Record #30 of set 2 for city, uyuni.
+
+
+Timepoint: 08/27/2023 14:30:40
+
+Processing Record #31 of set 2 for city, carnarvon.
+
+
+Timepoint: 08/27/2023 14:30:40
+
+Processing Record #32 of set 2 for city, labytnangi.
+
+
+Timepoint: 08/27/2023 14:30:40
+
+Processing Record #33 of set 2 for city, thinadhoo.
+
+
+Timepoint: 08/27/2023 14:30:40
+
+Processing Record #34 of set 2 for city, saipan.
+
+
+Timepoint: 08/27/2023 14:30:41
+
+Processing Record #35 of set 2 for city, makurazaki.
+
+
+Timepoint: 08/27/2023 14:30:41
+
+Processing Record #36 of set 2 for city, galliano.
+
+
+Timepoint: 08/27/2023 14:30:41
+
+Processing Record #37 of set 2 for city, guerrero negro.
+
+
+Timepoint: 08/27/2023 14:30:41
+
+Processing Record #38 of set 2 for city, pont rouge.
+
+
+Timepoint: 08/27/2023 14:30:42
+
+Processing Record #39 of set 2 for city, polyarnyy.
+
+
+Timepoint: 08/27/2023 14:30:42
+
+Processing Record #40 of set 2 for city, al jawf.
+
+
+Timepoint: 08/27/2023 14:30:42
+
+Processing Record #41 of set 2 for city, lihue.
+
+
+Timepoint: 08/27/2023 14:30:42
+
+Processing Record #42 of set 2 for city, caiaponia.
+
+
+Timepoint: 08/27/2023 14:30:42
+
+Processing Record #43 of set 2 for city, avarua.
+
+
+Timepoint: 08/27/2023 14:30:42
+
+Processing Record #44 of set 2 for city, aasiaat.
+
+
+Timepoint: 08/27/2023 14:30:42
+
+Processing Record #45 of set 2 for city, qaqortoq.
+
+
+Timepoint: 08/27/2023 14:30:43
+
+Processing Record #46 of set 2 for city, sinabang.
+
+
+Timepoint: 08/27/2023 14:30:43
+
+Processing Record #47 of set 2 for city, yantzaza.
+
+
+Timepoint: 08/27/2023 14:30:43
+
+Processing Record #48 of set 2 for city, dunedin.
+
+
+Timepoint: 08/27/2023 14:30:43
+
+Processing Record #49 of set 2 for city, college.
+
+
+Timepoint: 08/27/2023 14:30:43
+
+Processing Record #50 of set 2 for city, wailua homesteads.
+
+
+Timepoint: 08/27/2023 14:30:44
+
+Processing Record #1 of set 3 for city, tibanbang.
+
+
+Timepoint: 08/27/2023 14:30:44
+
+Processing Record #2 of set 3 for city, isafjordur.
+
+
+Timepoint: 08/27/2023 14:30:44
+
+Processing Record #3 of set 3 for city, mizan teferi.
+
+
+Timepoint: 08/27/2023 14:30:44
+
+Processing Record #4 of set 3 for city, kosh-agach.
+
+
+Timepoint: 08/27/2023 14:30:44
+
+Processing Record #5 of set 3 for city, berdigestyakh.
+
+
+Timepoint: 08/27/2023 14:30:45
+
+Processing Record #6 of set 3 for city, zhezqazghan.
+
+
+Timepoint: 08/27/2023 14:30:45
+
+Processing Record #7 of set 3 for city, naze.
+
+
+Timepoint: 08/27/2023 14:30:45
+
+Processing Record #8 of set 3 for city, amursk.
+
+
+Timepoint: 08/27/2023 14:30:45
+
+Processing Record #9 of set 3 for city, agat village.
+
+
+Timepoint: 08/27/2023 14:30:46
+
+Processing Record #10 of set 3 for city, peterhead.
+
+
+Timepoint: 08/27/2023 14:30:47
+
+Processing Record #11 of set 3 for city, grants pass.
+
+
+Timepoint: 08/27/2023 14:30:47
+
+Processing Record #12 of set 3 for city, georgetown.
+
+
+Timepoint: 08/27/2023 14:30:48
+
+Processing Record #13 of set 3 for city, bonthe.
+
+
+Timepoint: 08/27/2023 14:30:48
+
+Processing Record #14 of set 3 for city, lerwick.
+
+
+Timepoint: 08/27/2023 14:30:48
+
+Processing Record #15 of set 3 for city, edinburgh of the seven seas.
+
+
+Timepoint: 08/27/2023 14:30:48
+
+Processing Record #16 of set 3 for city, hawaiian paradise park.
+
+
+Timepoint: 08/27/2023 14:30:48
+
+Processing Record #17 of set 3 for city, yellowknife.
+
+
+Timepoint: 08/27/2023 14:30:49
+
+Processing Record #18 of set 3 for city, coquimbo.
+
+
+Timepoint: 08/27/2023 14:30:49
+
+Processing Record #19 of set 3 for city, gitega.
+
+
+Timepoint: 08/27/2023 14:30:49
+
+Processing Record #20 of set 3 for city, sisimiut.
+
+
+Timepoint: 08/27/2023 14:30:49
+
+Processing Record #21 of set 3 for city, crucecita.
+
+
+Timepoint: 08/27/2023 14:30:50
+
+Processing Record #22 of set 3 for city, livingston.
+
+
+Timepoint: 08/27/2023 14:30:50
+
+Processing Record #23 of set 3 for city, daru.
+
+
+Timepoint: 08/27/2023 14:30:50
+
+Processing Record #24 of set 3 for city, geraldton.
+
+
+Timepoint: 08/27/2023 14:30:50
+
+Processing Record #25 of set 3 for city, alofi.
+
+
+Timepoint: 08/27/2023 14:30:50
+
+Processing Record #26 of set 3 for city, aykhal.
+
+
+Timepoint: 08/27/2023 14:30:50
+
+Processing Record #27 of set 3 for city, ivdel'.
+
+
+Timepoint: 08/27/2023 14:30:51
+
+Processing Record #28 of set 3 for city, rongelap.
+
+
+Timepoint: 08/27/2023 14:30:51
+
+Processing Record #29 of set 3 for city, egilsstadir.
+
+
+Timepoint: 08/27/2023 14:30:51
+
+Processing Record #30 of set 3 for city, twentynine palms.
+
+
+Timepoint: 08/27/2023 14:30:51
+
+Processing Record #31 of set 3 for city, san antonio de pale.
+
+
+Timepoint: 08/27/2023 14:30:51
+
+Processing Record #32 of set 3 for city, ouezzane.
+
+
+Timepoint: 08/27/2023 14:30:52
+
+Processing Record #33 of set 3 for city, kui buri.
+
+
+Timepoint: 08/27/2023 14:30:52
+
+Processing Record #34 of set 3 for city, bandarbeyla.
+
+
+Timepoint: 08/27/2023 14:30:52
+
+Processing Record #35 of set 3 for city, kingscliff.
+
+
+Timepoint: 08/27/2023 14:30:52
+
+Processing Record #36 of set 3 for city, petropavlovsk-kamchatsky.
+
+
+Timepoint: 08/27/2023 14:30:52
+
+Processing Record #37 of set 3 for city, east ballina.
+
+
+Timepoint: 08/27/2023 14:30:53
+
+Processing Record #38 of set 3 for city, balsas.
+
+
+Timepoint: 08/27/2023 14:30:53
+
+Processing Record #39 of set 3 for city, khandyga.
+
+
+Timepoint: 08/27/2023 14:30:53
+
+Processing Record #40 of set 3 for city, abadeh.
+
+
+Timepoint: 08/27/2023 14:30:53
+
+Processing Record #41 of set 3 for city, bonny.
+
+
+Timepoint: 08/27/2023 14:30:53
+
+Processing Record #42 of set 3 for city, badger.
+
+
+Timepoint: 08/27/2023 14:30:54
+
+Processing Record #43 of set 3 for city, dakhla.
+
+
+Timepoint: 08/27/2023 14:30:54
+
+Processing Record #44 of set 3 for city, nobeoka.
+
+
+Timepoint: 08/27/2023 14:30:54
+
+Processing Record #45 of set 3 for city, la passe.
+
+
+Timepoint: 08/27/2023 14:30:54
+
+Processing Record #46 of set 3 for city, barah.
+
+
+Timepoint: 08/27/2023 14:30:54
+
+Processing Record #47 of set 3 for city, vadso.
+
+
+Timepoint: 08/27/2023 14:30:54
+
+Processing Record #48 of set 3 for city, longyearbyen.
+
+
+Timepoint: 08/27/2023 14:30:55
+
+Processing Record #49 of set 3 for city, yeppoon.
+
+
+Timepoint: 08/27/2023 14:30:55
+
+Processing Record #50 of set 3 for city, pisco.
+
+
+Timepoint: 08/27/2023 14:30:55
+
+Processing Record #1 of set 4 for city, kerikeri.
+
+
+Timepoint: 08/27/2023 14:30:55
+
+Processing Record #2 of set 4 for city, san patricio.
+
+
+Timepoint: 08/27/2023 14:30:55
+
+Processing Record #3 of set 4 for city, wamba.
+
+
+Timepoint: 08/27/2023 14:30:56
+
+Processing Record #4 of set 4 for city, piti village.
+
+
+Timepoint: 08/27/2023 14:30:56
+
+Processing Record #5 of set 4 for city, gunnedah.
+
+
+Timepoint: 08/27/2023 14:30:56
+
+Processing Record #6 of set 4 for city, kuta.
+
+
+Timepoint: 08/27/2023 14:30:56
+
+Processing Record #7 of set 4 for city, puerto deseado.
+
+
+Timepoint: 08/27/2023 14:30:56
+
+Processing Record #8 of set 4 for city, summerlin south.
+
+
+Timepoint: 08/27/2023 14:30:57
+
+Processing Record #9 of set 4 for city, kourou.
+
+
+Timepoint: 08/27/2023 14:30:57
+
+Processing Record #10 of set 4 for city, san antonio oeste.
+
+
+Timepoint: 08/27/2023 14:30:57
+
+Processing Record #11 of set 4 for city, east london.
+
+
+Timepoint: 08/27/2023 14:30:57
+
+Processing Record #12 of set 4 for city, fale old settlement.
+
+
+Timepoint: 08/27/2023 14:30:57
+
+Processing Record #13 of set 4 for city, serra san bruno.
+
+
+Timepoint: 08/27/2023 14:30:58
+
+Processing Record #14 of set 4 for city, lincoln city.
+
+
+Timepoint: 08/27/2023 14:30:58
+
+Processing Record #15 of set 4 for city, weno.
+
+
+Timepoint: 08/27/2023 14:30:58
+
+Processing Record #16 of set 4 for city, udachny.
+
+
+Timepoint: 08/27/2023 14:30:58
+
+Processing Record #17 of set 4 for city, colonia del sacramento.
+
+
+Timepoint: 08/27/2023 14:30:58
+
+Processing Record #18 of set 4 for city, acajutla.
+
+
+Timepoint: 08/27/2023 14:30:59
+
+Processing Record #19 of set 4 for city, sandnessjoen.
+
+
+Timepoint: 08/27/2023 14:30:59
+
+Processing Record #20 of set 4 for city, namsos.
+
+
+Timepoint: 08/27/2023 14:30:59
+
+Processing Record #21 of set 4 for city, beihai.
+
+
+Timepoint: 08/27/2023 14:30:59
+
+Processing Record #22 of set 4 for city, ouarzazat.
+
+
+Timepoint: 08/27/2023 14:30:59
+
+Processing Record #23 of set 4 for city, bathsheba.
+
+
+Timepoint: 08/27/2023 14:31:00
+
+Processing Record #24 of set 4 for city, nuriootpa.
+
+
+Timepoint: 08/27/2023 14:31:00
+
+Processing Record #25 of set 4 for city, port elizabeth.
+
+
+Timepoint: 08/27/2023 14:31:00
+
+Processing Record #26 of set 4 for city, boende.
+
+
+Timepoint: 08/27/2023 14:31:00
+
+Processing Record #27 of set 4 for city, happy valley-goose bay.
+
+
+Timepoint: 08/27/2023 14:31:01
+
+Processing Record #28 of set 4 for city, chonchi.
+
+
+Timepoint: 08/27/2023 14:31:01
+
+Processing Record #29 of set 4 for city, 'ohonua.
+
+
+Timepoint: 08/27/2023 14:31:01
+The script did not find the city, 'ohonua. Skipping...
+
+
+Timepoint: 08/27/2023 14:31:01
+
+Processing Record #30 of set 4 for city, viedma.
+
+
+Timepoint: 08/27/2023 14:31:01
+
+Processing Record #31 of set 4 for city, manokwari.
+
+
+Timepoint: 08/27/2023 14:31:01
+
+Processing Record #32 of set 4 for city, nayoro.
+
+
+Timepoint: 08/27/2023 14:31:02
+
+Processing Record #33 of set 4 for city, rimouski.
+
+
+Timepoint: 08/27/2023 14:31:02
+
+Processing Record #34 of set 4 for city, el jadid.
+
+
+Timepoint: 08/27/2023 14:31:03
+
+Processing Record #35 of set 4 for city, cabo san lucas.
+
+
+Timepoint: 08/27/2023 14:31:03
+
+Processing Record #36 of set 4 for city, hoyerswerda.
+
+
+Timepoint: 08/27/2023 14:31:05
+
+Processing Record #37 of set 4 for city, fort mcmurray.
+
+
+Timepoint: 08/27/2023 14:31:05
+
+Processing Record #38 of set 4 for city, tralee.
+
+
+Timepoint: 08/27/2023 14:31:05
+
+Processing Record #39 of set 4 for city, morehead city.
+
+
+Timepoint: 08/27/2023 14:31:05
+
+Processing Record #40 of set 4 for city, ghanzi.
+
+
+Timepoint: 08/27/2023 14:31:05
+
+Processing Record #41 of set 4 for city, rio grande.
+
+
+Timepoint: 08/27/2023 14:31:05
+
+Processing Record #42 of set 4 for city, tevragh zeina.
+
+
+Timepoint: 08/27/2023 14:31:06
+The script did not find the city, tevragh zeina. Skipping...
+
+
+Timepoint: 08/27/2023 14:31:06
+
+Processing Record #43 of set 4 for city, talnakh.
+
+
+Timepoint: 08/27/2023 14:31:06
+
+Processing Record #44 of set 4 for city, leava.
+
+
+Timepoint: 08/27/2023 14:31:06
+
+Processing Record #45 of set 4 for city, tual.
+
+
+Timepoint: 08/27/2023 14:31:07
+
+Processing Record #46 of set 4 for city, hasaki.
+
+
+Timepoint: 08/27/2023 14:31:07
+
+Processing Record #47 of set 4 for city, mountain home.
+
+
+Timepoint: 08/27/2023 14:31:09
+
+Processing Record #48 of set 4 for city, vernon.
+
+
+Timepoint: 08/27/2023 14:31:11
+
+Processing Record #49 of set 4 for city, tobelo.
+
+
+Timepoint: 08/27/2023 14:31:12
+
+Processing Record #50 of set 4 for city, san luis de la loma.
+
+
+Timepoint: 08/27/2023 14:31:12
+
+Processing Record #1 of set 5 for city, ust'-ilimsk.
+
+
+Timepoint: 08/27/2023 14:31:12
+
+Processing Record #2 of set 5 for city, latimer.
+
+
+Timepoint: 08/27/2023 14:31:13
+
+Processing Record #3 of set 5 for city, la romana.
+
+
+Timepoint: 08/27/2023 14:31:13
+
+Processing Record #4 of set 5 for city, walvis bay.
+
+
+Timepoint: 08/27/2023 14:31:13
+
+Processing Record #5 of set 5 for city, inari.
+
+
+Timepoint: 08/27/2023 14:31:14
+
+Processing Record #6 of set 5 for city, suntar.
+
+
+Timepoint: 08/27/2023 14:31:14
+
+Processing Record #7 of set 5 for city, champerico.
+
+
+Timepoint: 08/27/2023 14:31:17
+
+Processing Record #8 of set 5 for city, cam ranh.
+
+
+Timepoint: 08/27/2023 14:31:17
+
+Processing Record #9 of set 5 for city, freetown.
+
+
+Timepoint: 08/27/2023 14:31:21
+
+Processing Record #10 of set 5 for city, cole harbour.
+
+
+Timepoint: 08/27/2023 14:31:22
+
+Processing Record #11 of set 5 for city, codrington.
+
+
+Timepoint: 08/27/2023 14:31:22
+
+Processing Record #12 of set 5 for city, castillos.
+
+
+Timepoint: 08/27/2023 14:31:22
+
+Processing Record #13 of set 5 for city, nogliki.
+
+
+Timepoint: 08/27/2023 14:31:22
+
+Processing Record #14 of set 5 for city, constantia.
+
+
+Timepoint: 08/27/2023 14:31:22
+
+Processing Record #15 of set 5 for city, pangody.
+
+
+Timepoint: 08/27/2023 14:31:23
+
+Processing Record #16 of set 5 for city, saudarkrokur.
+
+
+Timepoint: 08/27/2023 14:31:23
+
+Processing Record #17 of set 5 for city, mount gambier.
+
+
+Timepoint: 08/27/2023 14:31:23
+
+Processing Record #18 of set 5 for city, nuuk.
+
+
+Timepoint: 08/27/2023 14:31:23
+
+Processing Record #19 of set 5 for city, nurota.
+
+
+Timepoint: 08/27/2023 14:31:23
+
+Processing Record #20 of set 5 for city, badiyah.
+
+
+Timepoint: 08/27/2023 14:31:24
+
+Processing Record #21 of set 5 for city, barcelos.
+
+
+Timepoint: 08/27/2023 14:31:24
+
+Processing Record #22 of set 5 for city, melfort.
+
+
+Timepoint: 08/27/2023 14:31:24
+
+Processing Record #23 of set 5 for city, port glaud.
+
+
+Timepoint: 08/27/2023 14:31:24
+The script did not find the city, port glaud. Skipping...
+
+
+Timepoint: 08/27/2023 14:31:24
+
+Processing Record #24 of set 5 for city, kruisfontein.
+
+
+Timepoint: 08/27/2023 14:31:25
+
+Processing Record #25 of set 5 for city, afaahiti.
+
+
+Timepoint: 08/27/2023 14:31:25
+
+Processing Record #26 of set 5 for city, enewetak.
+
+
+Timepoint: 08/27/2023 14:31:25
+
+Processing Record #27 of set 5 for city, taoudenni.
+
+
+Timepoint: 08/27/2023 14:31:25
+
+Processing Record #28 of set 5 for city, juneau.
+
+
+Timepoint: 08/27/2023 14:31:25
+
+Processing Record #29 of set 5 for city, masterton.
+
+
+Timepoint: 08/27/2023 14:31:26
+
+Processing Record #30 of set 5 for city, bhandara.
+
+
+Timepoint: 08/27/2023 14:31:26
+
+Processing Record #31 of set 5 for city, warman.
+
+
+Timepoint: 08/27/2023 14:31:27
+
+Processing Record #32 of set 5 for city, dayrut.
+
+
+Timepoint: 08/27/2023 14:31:27
+
+Processing Record #33 of set 5 for city, manadhoo.
+
+
+Timepoint: 08/27/2023 14:31:27
+
+Processing Record #34 of set 5 for city, neryungri.
+
+
+Timepoint: 08/27/2023 14:31:28
+
+Processing Record #35 of set 5 for city, praia da vitoria.
+
+
+Timepoint: 08/27/2023 14:31:28
+
+Processing Record #36 of set 5 for city, caconda.
+
+
+Timepoint: 08/27/2023 14:31:28
+
+Processing Record #37 of set 5 for city, opelika.
+
+
+Timepoint: 08/27/2023 14:31:28
+
+Processing Record #38 of set 5 for city, batyrevo.
+
+
+Timepoint: 08/27/2023 14:31:29
+
+Processing Record #39 of set 5 for city, caraubas.
+
+
+Timepoint: 08/27/2023 14:31:29
+
+Processing Record #40 of set 5 for city, tomatlan.
+
+
+Timepoint: 08/27/2023 14:31:29
+
+Processing Record #41 of set 5 for city, lazaro cardenas.
+
+
+Timepoint: 08/27/2023 14:31:30
+
+Processing Record #42 of set 5 for city, urengoy.
+
+
+Timepoint: 08/27/2023 14:31:30
+
+Processing Record #43 of set 5 for city, nahiyat ash shinafiyah.
+
+
+Timepoint: 08/27/2023 14:31:30
+
+Processing Record #44 of set 5 for city, tazovsky.
+
+
+Timepoint: 08/27/2023 14:31:30
+
+Processing Record #45 of set 5 for city, sarmiento.
+
+
+Timepoint: 08/27/2023 14:31:31
+
+Processing Record #46 of set 5 for city, shalkar.
+
+
+Timepoint: 08/27/2023 14:31:31
+
+Processing Record #47 of set 5 for city, rincon de nicolas romero (cedros tercera manzana).
+
+
+Timepoint: 08/27/2023 14:31:31
+The script did not find the city, rincon de nicolas romero (cedros tercera manzana). Skipping...
+
+
+Timepoint: 08/27/2023 14:31:31
+
+Processing Record #48 of set 5 for city, chibougamau.
+
+
+Timepoint: 08/27/2023 14:31:31
+
+Processing Record #49 of set 5 for city, fort bragg.
+
+
+Timepoint: 08/27/2023 14:31:32
+
+Processing Record #50 of set 5 for city, la ronge.
+
+
+Timepoint: 08/27/2023 14:31:32
+
+Processing Record #1 of set 6 for city, ocean shores.
+
+
+Timepoint: 08/27/2023 14:31:33
+
+Processing Record #2 of set 6 for city, la'ie.
+
+
+Timepoint: 08/27/2023 14:31:33
+
+Processing Record #3 of set 6 for city, gazojak.
+
+
+Timepoint: 08/27/2023 14:31:34
+
+Processing Record #4 of set 6 for city, uturoa.
+
+
+Timepoint: 08/27/2023 14:31:34
+
+Processing Record #5 of set 6 for city, booue.
+
+
+Timepoint: 08/27/2023 14:31:34
+
+Processing Record #6 of set 6 for city, bengkulu.
+
+
+Timepoint: 08/27/2023 14:31:35
+
+Processing Record #7 of set 6 for city, arno.
+
+
+Timepoint: 08/27/2023 14:31:35
+
+Processing Record #8 of set 6 for city, new norfolk.
+
+
+Timepoint: 08/27/2023 14:31:35
+
+Processing Record #9 of set 6 for city, rexburg.
+
+
+Timepoint: 08/27/2023 14:31:36
+
+Processing Record #10 of set 6 for city, aripuana.
+
+
+Timepoint: 08/27/2023 14:31:36
+
+Processing Record #11 of set 6 for city, bhattarai danda.
+
+
+Timepoint: 08/27/2023 14:31:36
+
+Processing Record #12 of set 6 for city, hirara.
+
+
+Timepoint: 08/27/2023 14:31:36
+
+Processing Record #13 of set 6 for city, nova vicosa.
+
+
+Timepoint: 08/27/2023 14:31:37
+
+Processing Record #14 of set 6 for city, kulia village.
+
+
+Timepoint: 08/27/2023 14:31:37
+The script did not find the city, kulia village. Skipping...
+
+
+Timepoint: 08/27/2023 14:31:37
+
+Processing Record #15 of set 6 for city, ad dilam.
+
+
+Timepoint: 08/27/2023 14:31:37
+
+Processing Record #16 of set 6 for city, alice springs.
+
+
+Timepoint: 08/27/2023 14:31:37
+
+Processing Record #17 of set 6 for city, san fernando.
+
+
+Timepoint: 08/27/2023 14:31:37
+
+Processing Record #18 of set 6 for city, saurimo.
+
+
+Timepoint: 08/27/2023 14:31:38
+
+Processing Record #19 of set 6 for city, arraial do cabo.
+
+
+Timepoint: 08/27/2023 14:31:38
+
+Processing Record #20 of set 6 for city, malone.
+
+
+Timepoint: 08/27/2023 14:31:38
+
+Processing Record #21 of set 6 for city, port lincoln.
+
+
+Timepoint: 08/27/2023 14:31:38
+
+Processing Record #22 of set 6 for city, nadi.
+
+
+Timepoint: 08/27/2023 14:31:38
+
+Processing Record #23 of set 6 for city, lompoc.
+
+
+Timepoint: 08/27/2023 14:31:39
+
+Processing Record #24 of set 6 for city, al hazm.
+
+
+Timepoint: 08/27/2023 14:31:39
+
+Processing Record #25 of set 6 for city, bontang.
+
+
+Timepoint: 08/27/2023 14:31:39
+
+Processing Record #26 of set 6 for city, port isabel.
+
+
+Timepoint: 08/27/2023 14:31:39
+
+Processing Record #27 of set 6 for city, itaituba.
+
+
+Timepoint: 08/27/2023 14:31:40
+
+Processing Record #28 of set 6 for city, skovorodino.
+
+
+Timepoint: 08/27/2023 14:31:40
+
+Processing Record #29 of set 6 for city, sosnytsya.
+
+
+Timepoint: 08/27/2023 14:31:40
+
+Processing Record #30 of set 6 for city, altamont.
+
+
+Timepoint: 08/27/2023 14:31:40
+
+Processing Record #31 of set 6 for city, mingguang.
+
+
+Timepoint: 08/27/2023 14:31:40
+
+Processing Record #32 of set 6 for city, shahr-e babak.
+
+
+Timepoint: 08/27/2023 14:31:41
+
+Processing Record #33 of set 6 for city, puerto san carlos.
+
+
+Timepoint: 08/27/2023 14:31:41
+The script did not find the city, puerto san carlos. Skipping...
+
+
+Timepoint: 08/27/2023 14:31:41
+
+Processing Record #34 of set 6 for city, turtas.
+
+
+Timepoint: 08/27/2023 14:31:41
+
+Processing Record #35 of set 6 for city, kodiak.
+
+
+Timepoint: 08/27/2023 14:31:41
+
+Processing Record #36 of set 6 for city, barcelona.
+
+
+Timepoint: 08/27/2023 14:31:42
+
+Processing Record #37 of set 6 for city, ascencion de guarayos.
+
+
+Timepoint: 08/27/2023 14:31:42
+The script did not find the city, ascencion de guarayos. Skipping...
+
+
+Timepoint: 08/27/2023 14:31:42
+
+Processing Record #38 of set 6 for city, kailua-kona.
+
+
+Timepoint: 08/27/2023 14:31:42
+
+Processing Record #39 of set 6 for city, porto novo.
+
+
+Timepoint: 08/27/2023 14:31:42
+
+Processing Record #40 of set 6 for city, minas de marcona.
+
+
+Timepoint: 08/27/2023 14:31:42
+
+Processing Record #41 of set 6 for city, las lomitas.
+
+
+Timepoint: 08/27/2023 14:31:43
+
+Processing Record #42 of set 6 for city, taroa.
+
+
+Timepoint: 08/27/2023 14:31:43
+
+Processing Record #43 of set 6 for city, ponta delgada.
+
+
+Timepoint: 08/27/2023 14:31:43
+
+Processing Record #44 of set 6 for city, nova sintra.
+
+
+Timepoint: 08/27/2023 14:31:43
+
+Processing Record #45 of set 6 for city, byron bay.
+
+
+Timepoint: 08/27/2023 14:31:43
+
+Processing Record #46 of set 6 for city, vila franca do campo.
+
+
+Timepoint: 08/27/2023 14:31:44
+
+Processing Record #47 of set 6 for city, nyurba.
+
+
+Timepoint: 08/27/2023 14:31:44
+
+Processing Record #48 of set 6 for city, tsiombe.
+
+
+Timepoint: 08/27/2023 14:31:44
+
+Processing Record #49 of set 6 for city, kiunga.
+
+
+Timepoint: 08/27/2023 14:31:44
+
+Processing Record #50 of set 6 for city, al burayqah.
+
+
+Timepoint: 08/27/2023 14:31:44
+
+Processing Record #1 of set 7 for city, crestline.
+
+
+Timepoint: 08/27/2023 14:31:45
+
+Processing Record #2 of set 7 for city, camlachie.
+
+
+Timepoint: 08/27/2023 14:31:45
+
+Processing Record #3 of set 7 for city, sayat.
+
+
+Timepoint: 08/27/2023 14:31:45
+
+Processing Record #4 of set 7 for city, saint-philippe.
+
+
+Timepoint: 08/27/2023 14:31:45
+
+Processing Record #5 of set 7 for city, santa pola.
+
+
+Timepoint: 08/27/2023 14:31:45
+
+Processing Record #6 of set 7 for city, remire-montjoly.
+
+
+Timepoint: 08/27/2023 14:31:46
+
+Processing Record #7 of set 7 for city, st. john's.
+
+
+Timepoint: 08/27/2023 14:31:46
+
+Processing Record #8 of set 7 for city, lakhipur.
+
+
+Timepoint: 08/27/2023 14:31:46
+
+Processing Record #9 of set 7 for city, beira.
+
+
+Timepoint: 08/27/2023 14:31:46
+
+Processing Record #10 of set 7 for city, xinqing.
+
+
+Timepoint: 08/27/2023 14:31:46
+
+Processing Record #11 of set 7 for city, pedernales.
+
+
+Timepoint: 08/27/2023 14:31:47
+
+Processing Record #12 of set 7 for city, cabedelo.
+
+
+Timepoint: 08/27/2023 14:31:47
+
+Processing Record #13 of set 7 for city, villa bruzual.
+
+
+Timepoint: 08/27/2023 14:31:47
+
+Processing Record #14 of set 7 for city, port blair.
+
+
+Timepoint: 08/27/2023 14:31:47
+
+Processing Record #15 of set 7 for city, vila velha.
+
+
+Timepoint: 08/27/2023 14:31:47
+
+Processing Record #16 of set 7 for city, san antonio.
+
+
+Timepoint: 08/27/2023 14:31:48
+
+Processing Record #17 of set 7 for city, la palma.
+
+
+Timepoint: 08/27/2023 14:31:48
+
+Processing Record #18 of set 7 for city, same.
+
+
+Timepoint: 08/27/2023 14:31:48
+
+Processing Record #19 of set 7 for city, santa teresa.
+
+
+Timepoint: 08/27/2023 14:31:48
+
+Processing Record #20 of set 7 for city, ardakan.
+
+
+Timepoint: 08/27/2023 14:31:48
+
+Processing Record #21 of set 7 for city, odacho-oda.
+
+
+Timepoint: 08/27/2023 14:31:49
+
+Processing Record #22 of set 7 for city, fauske.
+
+
+Timepoint: 08/27/2023 14:31:49
+
+Processing Record #23 of set 7 for city, tosontsengel.
+
+
+Timepoint: 08/27/2023 14:31:49
+
+Processing Record #24 of set 7 for city, sorsk.
+
+
+Timepoint: 08/27/2023 14:31:50
+
+Processing Record #25 of set 7 for city, erenhot.
+
+
+Timepoint: 08/27/2023 14:31:50
+
+Processing Record #26 of set 7 for city, qamdo.
+
+
+Timepoint: 08/27/2023 14:31:50
+
+Processing Record #27 of set 7 for city, gospic.
+
+
+Timepoint: 08/27/2023 14:31:50
+
+Processing Record #28 of set 7 for city, nago.
+
+
+Timepoint: 08/27/2023 14:31:51
+
+Processing Record #29 of set 7 for city, kamaishi.
+
+
+Timepoint: 08/27/2023 14:31:51
+
+Processing Record #30 of set 7 for city, ceerigaabo.
+
+
+Timepoint: 08/27/2023 14:31:51
+
+Processing Record #31 of set 7 for city, belyy yar.
+
+
+Timepoint: 08/27/2023 14:31:51
+
+Processing Record #32 of set 7 for city, christchurch.
+
+
+Timepoint: 08/27/2023 14:31:51
+
+Processing Record #33 of set 7 for city, mejit.
+
+
+Timepoint: 08/27/2023 14:31:52
+
+Processing Record #34 of set 7 for city, burao.
+
+
+Timepoint: 08/27/2023 14:31:52
+
+Processing Record #35 of set 7 for city, ulsteinvik.
+
+
+Timepoint: 08/27/2023 14:31:52
+
+Processing Record #36 of set 7 for city, posto fiscal rolim de moura.
+
+
+Timepoint: 08/27/2023 14:31:52
+
+Processing Record #37 of set 7 for city, anna regina.
+
+
+Timepoint: 08/27/2023 14:31:52
+
+Processing Record #38 of set 7 for city, eraan.
+
+
+Timepoint: 08/27/2023 14:31:53
+
+Processing Record #39 of set 7 for city, maintirano.
+
+
+Timepoint: 08/27/2023 14:31:53
+
+Processing Record #40 of set 7 for city, gorontalo.
+
+
+Timepoint: 08/27/2023 14:31:53
+
+Processing Record #41 of set 7 for city, kayangel.
+
+
+Timepoint: 08/27/2023 14:31:53
+
+Processing Record #42 of set 7 for city, holualoa.
+
+
+Timepoint: 08/27/2023 14:31:53
+
+Processing Record #43 of set 7 for city, aswan.
+
+
+Timepoint: 08/27/2023 14:31:54
+
+Processing Record #44 of set 7 for city, punta del este.
+
+
+Timepoint: 08/27/2023 14:31:54
+
+Processing Record #45 of set 7 for city, lysekil.
+
+
+Timepoint: 08/27/2023 14:31:54
+
+Processing Record #46 of set 7 for city, el calafate.
+
+
+Timepoint: 08/27/2023 14:31:55
+
+Processing Record #47 of set 7 for city, orkney.
+
+
+Timepoint: 08/27/2023 14:31:55
+
+Processing Record #48 of set 7 for city, nelspruit.
+
+
+Timepoint: 08/27/2023 14:31:55
+
+Processing Record #49 of set 7 for city, roswell.
+
+
+Timepoint: 08/27/2023 14:31:55
+
+Processing Record #50 of set 7 for city, dalandzadgad.
+
+
+Timepoint: 08/27/2023 14:31:56
+
+Processing Record #1 of set 8 for city, kavieng.
+
+
+Timepoint: 08/27/2023 14:31:56
+
+Processing Record #2 of set 8 for city, hadibu.
+
+
+Timepoint: 08/27/2023 14:31:56
+
+Processing Record #3 of set 8 for city, carinhanha.
+
+
+Timepoint: 08/27/2023 14:31:56
+
+Processing Record #4 of set 8 for city, sao jose da coroa grande.
+
+
+Timepoint: 08/27/2023 14:31:56
+
+Processing Record #5 of set 8 for city, khilok.
+
+
+Timepoint: 08/27/2023 14:31:57
+
+Processing Record #6 of set 8 for city, fort valley.
+
+
+Timepoint: 08/27/2023 14:31:57
+
+Processing Record #7 of set 8 for city, vilyuchinsk.
+
+
+Timepoint: 08/27/2023 14:31:57
+
+Processing Record #8 of set 8 for city, temiskaming shores.
+
+
+Timepoint: 08/27/2023 14:31:57
+
+Processing Record #9 of set 8 for city, labrador city.
+
+
+Timepoint: 08/27/2023 14:31:57
+
+Processing Record #10 of set 8 for city, bavly.
+
+
+Timepoint: 08/27/2023 14:31:58
+
+Processing Record #11 of set 8 for city, greymouth.
+
+
+Timepoint: 08/27/2023 14:31:58
+
+Processing Record #12 of set 8 for city, cascais.
+
+
+Timepoint: 08/27/2023 14:31:58
+
+Processing Record #13 of set 8 for city, tierra colorada.
+
+
+Timepoint: 08/27/2023 14:31:58
+
+Processing Record #14 of set 8 for city, la peca.
+
+
+Timepoint: 08/27/2023 14:31:59
+
+Processing Record #15 of set 8 for city, shenjiamen.
+
+
+Timepoint: 08/27/2023 14:31:59
+
+Processing Record #16 of set 8 for city, rio san juan.
+
+
+Timepoint: 08/27/2023 14:31:59
+
+Processing Record #17 of set 8 for city, altay.
+
+
+Timepoint: 08/27/2023 14:31:59
+
+Processing Record #18 of set 8 for city, tukrah.
+
+
+Timepoint: 08/27/2023 14:31:59
+
+Processing Record #19 of set 8 for city, port hueneme.
+
+
+Timepoint: 08/27/2023 14:32:00
+
+Processing Record #20 of set 8 for city, bloomfield.
+
+
+Timepoint: 08/27/2023 14:32:00
+
+Processing Record #21 of set 8 for city, klyetsk.
+
+
+Timepoint: 08/27/2023 14:32:00
+
+Processing Record #22 of set 8 for city, den burg.
+
+
+Timepoint: 08/27/2023 14:32:00
+
+Processing Record #23 of set 8 for city, tyuratam.
+
+
+Timepoint: 08/27/2023 14:32:00
+
+Processing Record #24 of set 8 for city, susuman.
+
+
+Timepoint: 08/27/2023 14:32:01
+
+Processing Record #25 of set 8 for city, abyek.
+
+
+Timepoint: 08/27/2023 14:32:01
+
+Processing Record #26 of set 8 for city, tazacorte.
+
+
+Timepoint: 08/27/2023 14:32:01
+
+Processing Record #27 of set 8 for city, andalgala.
+
+
+Timepoint: 08/27/2023 14:32:02
+
+Processing Record #28 of set 8 for city, ust-tsilma.
+
+
+Timepoint: 08/27/2023 14:32:02
+
+Processing Record #29 of set 8 for city, klyuchi.
+
+
+Timepoint: 08/27/2023 14:32:02
+
+Processing Record #30 of set 8 for city, dossor.
+
+
+Timepoint: 08/27/2023 14:32:03
+
+Processing Record #31 of set 8 for city, launceston.
+
+
+Timepoint: 08/27/2023 14:32:03
+
+Processing Record #32 of set 8 for city, mount isa.
+
+
+Timepoint: 08/27/2023 14:32:03
+
+Processing Record #33 of set 8 for city, sparti.
+
+
+Timepoint: 08/27/2023 14:32:03
+
+Processing Record #34 of set 8 for city, akureyri.
+
+
+Timepoint: 08/27/2023 14:32:04
+
+Processing Record #35 of set 8 for city, bodden town.
+
+
+Timepoint: 08/27/2023 14:32:04
+
+Processing Record #36 of set 8 for city, odobesti.
+
+
+Timepoint: 08/27/2023 14:32:04
+
+Processing Record #37 of set 8 for city, tilcara.
+
+
+Timepoint: 08/27/2023 14:32:05
+
+Processing Record #38 of set 8 for city, saint marys.
+
+
+Timepoint: 08/27/2023 14:32:05
+
+Processing Record #39 of set 8 for city, muzayri'.
+
+
+Timepoint: 08/27/2023 14:32:05
+The script did not find the city, muzayri'. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:05
+
+Processing Record #40 of set 8 for city, kouroussa.
+
+
+Timepoint: 08/27/2023 14:32:05
+
+Processing Record #41 of set 8 for city, xilin hot.
+
+
+Timepoint: 08/27/2023 14:32:05
+
+Processing Record #42 of set 8 for city, vanimo.
+
+
+Timepoint: 08/27/2023 14:32:06
+
+Processing Record #43 of set 8 for city, hammerfest.
+
+
+Timepoint: 08/27/2023 14:32:06
+
+Processing Record #44 of set 8 for city, kadnikov.
+
+
+Timepoint: 08/27/2023 14:32:06
+
+Processing Record #45 of set 8 for city, jamestown.
+
+
+Timepoint: 08/27/2023 14:32:06
+
+Processing Record #46 of set 8 for city, poso.
+
+
+Timepoint: 08/27/2023 14:32:07
+
+Processing Record #47 of set 8 for city, puerto baquerizo moreno.
+
+
+Timepoint: 08/27/2023 14:32:07
+
+Processing Record #48 of set 8 for city, haining.
+
+
+Timepoint: 08/27/2023 14:32:07
+
+Processing Record #49 of set 8 for city, el dorado.
+
+
+Timepoint: 08/27/2023 14:32:08
+
+Processing Record #50 of set 8 for city, okha.
+
+
+Timepoint: 08/27/2023 14:32:08
+
+Processing Record #1 of set 9 for city, kalmunai.
+
+
+Timepoint: 08/27/2023 14:32:08
+
+Processing Record #2 of set 9 for city, raja.
+
+
+Timepoint: 08/27/2023 14:32:08
+
+Processing Record #3 of set 9 for city, newton.
+
+
+Timepoint: 08/27/2023 14:32:08
+
+Processing Record #4 of set 9 for city, inhambane.
+
+
+Timepoint: 08/27/2023 14:32:09
+
+Processing Record #5 of set 9 for city, sao joao da barra.
+
+
+Timepoint: 08/27/2023 14:32:09
+
+Processing Record #6 of set 9 for city, port alfred.
+
+
+Timepoint: 08/27/2023 14:32:09
+
+Processing Record #7 of set 9 for city, oranjemund.
+
+
+Timepoint: 08/27/2023 14:32:09
+
+Processing Record #8 of set 9 for city, lakheri.
+
+
+Timepoint: 08/27/2023 14:32:10
+
+Processing Record #9 of set 9 for city, lospalos.
+
+
+Timepoint: 08/27/2023 14:32:10
+
+Processing Record #10 of set 9 for city, rice lake.
+
+
+Timepoint: 08/27/2023 14:32:10
+
+Processing Record #11 of set 9 for city, belomorsk.
+
+
+Timepoint: 08/27/2023 14:32:11
+
+Processing Record #12 of set 9 for city, kristiansund.
+
+
+Timepoint: 08/27/2023 14:32:11
+
+Processing Record #13 of set 9 for city, cable beach.
+
+
+Timepoint: 08/27/2023 14:32:11
+The script did not find the city, cable beach. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:11
+
+Processing Record #14 of set 9 for city, al ghayzah.
+
+
+Timepoint: 08/27/2023 14:32:11
+
+Processing Record #15 of set 9 for city, argo.
+
+
+Timepoint: 08/27/2023 14:32:12
+
+Processing Record #16 of set 9 for city, arteche.
+
+
+Timepoint: 08/27/2023 14:32:12
+
+Processing Record #17 of set 9 for city, dudinka.
+
+
+Timepoint: 08/27/2023 14:32:12
+
+Processing Record #18 of set 9 for city, kamyzyak.
+
+
+Timepoint: 08/27/2023 14:32:12
+
+Processing Record #19 of set 9 for city, aur.
+
+
+Timepoint: 08/27/2023 14:32:13
+
+Processing Record #20 of set 9 for city, howrah.
+
+
+Timepoint: 08/27/2023 14:32:13
+
+Processing Record #21 of set 9 for city, qa'en.
+
+
+Timepoint: 08/27/2023 14:32:13
+
+Processing Record #22 of set 9 for city, liupanshui.
+
+
+Timepoint: 08/27/2023 14:32:13
+The script did not find the city, liupanshui. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:13
+
+Processing Record #23 of set 9 for city, bubaque.
+
+
+Timepoint: 08/27/2023 14:32:13
+
+Processing Record #24 of set 9 for city, iwanai.
+
+
+Timepoint: 08/27/2023 14:32:14
+
+Processing Record #25 of set 9 for city, cargados carajos.
+
+
+Timepoint: 08/27/2023 14:32:14
+The script did not find the city, cargados carajos. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:14
+
+Processing Record #26 of set 9 for city, ola.
+
+
+Timepoint: 08/27/2023 14:32:14
+
+Processing Record #27 of set 9 for city, verkhnevilyuysk.
+
+
+Timepoint: 08/27/2023 14:32:15
+
+Processing Record #28 of set 9 for city, kodinsk.
+
+
+Timepoint: 08/27/2023 14:32:15
+
+Processing Record #29 of set 9 for city, miyanoura.
+
+
+Timepoint: 08/27/2023 14:32:15
+The script did not find the city, miyanoura. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:15
+
+Processing Record #30 of set 9 for city, deder.
+
+
+Timepoint: 08/27/2023 14:32:16
+
+Processing Record #31 of set 9 for city, hermanus.
+
+
+Timepoint: 08/27/2023 14:32:16
+
+Processing Record #32 of set 9 for city, chahar burj.
+
+
+Timepoint: 08/27/2023 14:32:16
+
+Processing Record #33 of set 9 for city, whitby.
+
+
+Timepoint: 08/27/2023 14:32:17
+
+Processing Record #34 of set 9 for city, chivhu.
+
+
+Timepoint: 08/27/2023 14:32:17
+
+Processing Record #35 of set 9 for city, turaif.
+
+
+Timepoint: 08/27/2023 14:32:17
+
+Processing Record #36 of set 9 for city, at-bashi.
+
+
+Timepoint: 08/27/2023 14:32:17
+
+Processing Record #37 of set 9 for city, revda.
+
+
+Timepoint: 08/27/2023 14:32:18
+
+Processing Record #38 of set 9 for city, kencong.
+
+
+Timepoint: 08/27/2023 14:32:18
+
+Processing Record #39 of set 9 for city, taunggyi.
+
+
+Timepoint: 08/27/2023 14:32:22
+
+Processing Record #40 of set 9 for city, saynshand.
+
+
+Timepoint: 08/27/2023 14:32:22
+
+Processing Record #41 of set 9 for city, zaragoza.
+
+
+Timepoint: 08/27/2023 14:32:22
+
+Processing Record #42 of set 9 for city, novyy urgal.
+
+
+Timepoint: 08/27/2023 14:32:23
+
+Processing Record #43 of set 9 for city, davyd-haradok.
+
+
+Timepoint: 08/27/2023 14:32:24
+
+Processing Record #44 of set 9 for city, kone.
+
+
+Timepoint: 08/27/2023 14:32:24
+
+Processing Record #45 of set 9 for city, lorengau.
+
+
+Timepoint: 08/27/2023 14:32:24
+
+Processing Record #46 of set 9 for city, paphos.
+
+
+Timepoint: 08/27/2023 14:32:24
+
+Processing Record #47 of set 9 for city, taulaga.
+
+
+Timepoint: 08/27/2023 14:32:25
+
+Processing Record #48 of set 9 for city, pervari.
+
+
+Timepoint: 08/27/2023 14:32:25
+
+Processing Record #49 of set 9 for city, lhasa.
+
+
+Timepoint: 08/27/2023 14:32:26
+
+Processing Record #50 of set 9 for city, mitsamiouli.
+
+
+Timepoint: 08/27/2023 14:32:26
+
+Processing Record #1 of set 10 for city, isangel.
+
+
+Timepoint: 08/27/2023 14:32:26
+
+Processing Record #2 of set 10 for city, as sulayyil.
+
+
+Timepoint: 08/27/2023 14:32:26
+
+Processing Record #3 of set 10 for city, touros.
+
+
+Timepoint: 08/27/2023 14:32:26
+
+Processing Record #4 of set 10 for city, nar'yan-mar.
+
+
+Timepoint: 08/27/2023 14:32:27
+
+Processing Record #5 of set 10 for city, praia.
+
+
+Timepoint: 08/27/2023 14:32:27
+
+Processing Record #6 of set 10 for city, priozersk.
+
+
+Timepoint: 08/27/2023 14:32:27
+
+Processing Record #7 of set 10 for city, igrim.
+
+
+Timepoint: 08/27/2023 14:32:28
+
+Processing Record #8 of set 10 for city, romny.
+
+
+Timepoint: 08/27/2023 14:32:28
+
+Processing Record #9 of set 10 for city, shingu.
+
+
+Timepoint: 08/27/2023 14:32:28
+
+Processing Record #10 of set 10 for city, san jose village.
+
+
+Timepoint: 08/27/2023 14:32:28
+The script did not find the city, san jose village. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:28
+
+Processing Record #11 of set 10 for city, san felipe.
+
+
+Timepoint: 08/27/2023 14:32:29
+
+Processing Record #12 of set 10 for city, papao.
+
+
+Timepoint: 08/27/2023 14:32:29
+
+Processing Record #13 of set 10 for city, hovd.
+
+
+Timepoint: 08/27/2023 14:32:29
+
+Processing Record #14 of set 10 for city, yangor.
+
+
+Timepoint: 08/27/2023 14:32:29
+The script did not find the city, yangor. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:29
+
+Processing Record #15 of set 10 for city, kingston.
+
+
+Timepoint: 08/27/2023 14:32:29
+
+Processing Record #16 of set 10 for city, jacksonville.
+
+
+Timepoint: 08/27/2023 14:32:29
+
+Processing Record #17 of set 10 for city, bridgewater.
+
+
+Timepoint: 08/27/2023 14:32:30
+
+Processing Record #18 of set 10 for city, douarnenez.
+
+
+Timepoint: 08/27/2023 14:32:30
+
+Processing Record #19 of set 10 for city, slavyanka.
+
+
+Timepoint: 08/27/2023 14:32:30
+
+Processing Record #20 of set 10 for city, basco.
+
+
+Timepoint: 08/27/2023 14:32:30
+
+Processing Record #21 of set 10 for city, saldanha.
+
+
+Timepoint: 08/27/2023 14:32:31
+
+Processing Record #22 of set 10 for city, verkhniy rohachyk.
+
+
+Timepoint: 08/27/2023 14:32:31
+
+Processing Record #23 of set 10 for city, westport.
+
+
+Timepoint: 08/27/2023 14:32:31
+
+Processing Record #24 of set 10 for city, cockburn town.
+
+
+Timepoint: 08/27/2023 14:32:31
+
+Processing Record #25 of set 10 for city, ouellah.
+
+
+Timepoint: 08/27/2023 14:32:32
+The script did not find the city, ouellah. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:32
+
+Processing Record #26 of set 10 for city, kurchatov.
+
+
+Timepoint: 08/27/2023 14:32:32
+
+Processing Record #27 of set 10 for city, smithers.
+
+
+Timepoint: 08/27/2023 14:32:32
+
+Processing Record #28 of set 10 for city, umm kaddadah.
+
+
+Timepoint: 08/27/2023 14:32:32
+
+Processing Record #29 of set 10 for city, xincheng.
+
+
+Timepoint: 08/27/2023 14:32:33
+
+Processing Record #30 of set 10 for city, meiganga.
+
+
+Timepoint: 08/27/2023 14:32:33
+
+Processing Record #31 of set 10 for city, waddan.
+
+
+Timepoint: 08/27/2023 14:32:33
+
+Processing Record #32 of set 10 for city, cooper's town.
+
+
+Timepoint: 08/27/2023 14:32:33
+
+Processing Record #33 of set 10 for city, geldermalsen.
+
+
+Timepoint: 08/27/2023 14:32:34
+
+Processing Record #34 of set 10 for city, huilong.
+
+
+Timepoint: 08/27/2023 14:32:34
+
+Processing Record #35 of set 10 for city, jiaojiang.
+
+
+Timepoint: 08/27/2023 14:32:34
+
+Processing Record #36 of set 10 for city, acapulco de juarez.
+
+
+Timepoint: 08/27/2023 14:32:34
+
+Processing Record #37 of set 10 for city, talcahuano.
+
+
+Timepoint: 08/27/2023 14:32:35
+
+Processing Record #38 of set 10 for city, contai.
+
+
+Timepoint: 08/27/2023 14:32:35
+
+Processing Record #39 of set 10 for city, lhokseumawe.
+
+
+Timepoint: 08/27/2023 14:32:35
+
+Processing Record #40 of set 10 for city, lai chau.
+
+
+Timepoint: 08/27/2023 14:32:35
+
+Processing Record #41 of set 10 for city, maralal.
+
+
+Timepoint: 08/27/2023 14:32:35
+
+Processing Record #42 of set 10 for city, ulaangom.
+
+
+Timepoint: 08/27/2023 14:32:36
+
+Processing Record #43 of set 10 for city, fuvahmulah.
+
+
+Timepoint: 08/27/2023 14:32:36
+The script did not find the city, fuvahmulah. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:36
+
+Processing Record #44 of set 10 for city, mil'kovo.
+
+
+Timepoint: 08/27/2023 14:32:36
+
+Processing Record #45 of set 10 for city, yuzhno-kurilsk.
+
+
+Timepoint: 08/27/2023 14:32:36
+
+Processing Record #46 of set 10 for city, tarime.
+
+
+Timepoint: 08/27/2023 14:32:37
+
+Processing Record #47 of set 10 for city, quinte west.
+
+
+Timepoint: 08/27/2023 14:32:37
+
+Processing Record #48 of set 10 for city, mormugao.
+
+
+Timepoint: 08/27/2023 14:32:37
+
+Processing Record #49 of set 10 for city, arthur's town.
+
+
+Timepoint: 08/27/2023 14:32:37
+The script did not find the city, arthur's town. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:37
+
+Processing Record #50 of set 10 for city, laguna.
+
+
+Timepoint: 08/27/2023 14:32:37
+
+Processing Record #1 of set 11 for city, batie.
+
+
+Timepoint: 08/27/2023 14:32:38
+
+Processing Record #2 of set 11 for city, zeya.
+
+
+Timepoint: 08/27/2023 14:32:38
+
+Processing Record #3 of set 11 for city, aktau.
+
+
+Timepoint: 08/27/2023 14:32:38
+
+Processing Record #4 of set 11 for city, kyongwon.
+
+
+Timepoint: 08/27/2023 14:32:38
+
+Processing Record #5 of set 11 for city, bestobe.
+
+
+Timepoint: 08/27/2023 14:32:39
+
+Processing Record #6 of set 11 for city, karacasu.
+
+
+Timepoint: 08/27/2023 14:32:39
+
+Processing Record #7 of set 11 for city, laurel.
+
+
+Timepoint: 08/27/2023 14:32:39
+
+Processing Record #8 of set 11 for city, wyndham.
+
+
+Timepoint: 08/27/2023 14:32:39
+
+Processing Record #9 of set 11 for city, lishu.
+
+
+Timepoint: 08/27/2023 14:32:39
+
+Processing Record #10 of set 11 for city, yemva.
+
+
+Timepoint: 08/27/2023 14:32:40
+
+Processing Record #11 of set 11 for city, kingman.
+
+
+Timepoint: 08/27/2023 14:32:40
+
+Processing Record #12 of set 11 for city, manggar.
+
+
+Timepoint: 08/27/2023 14:32:40
+
+Processing Record #13 of set 11 for city, pakxan.
+
+
+Timepoint: 08/27/2023 14:32:40
+
+Processing Record #14 of set 11 for city, larreynaga.
+
+
+Timepoint: 08/27/2023 14:32:40
+
+Processing Record #15 of set 11 for city, turpan.
+
+
+Timepoint: 08/27/2023 14:32:41
+
+Processing Record #16 of set 11 for city, takoradi.
+
+
+Timepoint: 08/27/2023 14:32:41
+
+Processing Record #17 of set 11 for city, midvagur.
+
+
+Timepoint: 08/27/2023 14:32:41
+
+Processing Record #18 of set 11 for city, kidal.
+
+
+Timepoint: 08/27/2023 14:32:42
+
+Processing Record #19 of set 11 for city, kismayo.
+
+
+Timepoint: 08/27/2023 14:32:42
+
+Processing Record #20 of set 11 for city, lillehammer.
+
+
+Timepoint: 08/27/2023 14:32:42
+
+Processing Record #21 of set 11 for city, galle.
+
+
+Timepoint: 08/27/2023 14:32:42
+
+Processing Record #22 of set 11 for city, ust'-kulom.
+
+
+Timepoint: 08/27/2023 14:32:43
+
+Processing Record #23 of set 11 for city, tweed heads.
+
+
+Timepoint: 08/27/2023 14:32:44
+
+Processing Record #24 of set 11 for city, kibiti.
+
+
+Timepoint: 08/27/2023 14:32:44
+
+Processing Record #25 of set 11 for city, toga village.
+
+
+Timepoint: 08/27/2023 14:32:44
+The script did not find the city, toga village. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:44
+
+Processing Record #26 of set 11 for city, ksar chellala.
+
+
+Timepoint: 08/27/2023 14:32:45
+
+Processing Record #27 of set 11 for city, es castell.
+
+
+Timepoint: 08/27/2023 14:32:45
+
+Processing Record #28 of set 11 for city, versailles.
+
+
+Timepoint: 08/27/2023 14:32:45
+
+Processing Record #29 of set 11 for city, bowen.
+
+
+Timepoint: 08/27/2023 14:32:45
+
+Processing Record #30 of set 11 for city, ladario.
+
+
+Timepoint: 08/27/2023 14:32:45
+
+Processing Record #31 of set 11 for city, kirensk.
+
+
+Timepoint: 08/27/2023 14:32:46
+
+Processing Record #32 of set 11 for city, sesimbra.
+
+
+Timepoint: 08/27/2023 14:32:46
+
+Processing Record #33 of set 11 for city, box elder.
+
+
+Timepoint: 08/27/2023 14:32:46
+
+Processing Record #34 of set 11 for city, arkhangel'sk.
+
+
+Timepoint: 08/27/2023 14:32:46
+
+Processing Record #35 of set 11 for city, bobo-dioulasso.
+
+
+Timepoint: 08/27/2023 14:32:46
+
+Processing Record #36 of set 11 for city, kununurra.
+
+
+Timepoint: 08/27/2023 14:32:47
+
+Processing Record #37 of set 11 for city, karatuzskoye.
+
+
+Timepoint: 08/27/2023 14:32:47
+
+Processing Record #38 of set 11 for city, pionerskiy.
+
+
+Timepoint: 08/27/2023 14:32:47
+
+Processing Record #39 of set 11 for city, kindu.
+
+
+Timepoint: 08/27/2023 14:32:47
+
+Processing Record #40 of set 11 for city, statesboro.
+
+
+Timepoint: 08/27/2023 14:32:47
+
+Processing Record #41 of set 11 for city, puerto ayacucho.
+
+
+Timepoint: 08/27/2023 14:32:48
+
+Processing Record #42 of set 11 for city, embalse.
+
+
+Timepoint: 08/27/2023 14:32:48
+
+Processing Record #43 of set 11 for city, port alberni.
+
+
+Timepoint: 08/27/2023 14:32:48
+
+Processing Record #44 of set 11 for city, ta`u.
+
+
+Timepoint: 08/27/2023 14:32:48
+
+Processing Record #45 of set 11 for city, saint-leu.
+
+
+Timepoint: 08/27/2023 14:32:49
+
+Processing Record #46 of set 11 for city, huittinen.
+
+
+Timepoint: 08/27/2023 14:32:49
+
+Processing Record #47 of set 11 for city, tubarjal.
+
+
+Timepoint: 08/27/2023 14:32:49
+
+Processing Record #48 of set 11 for city, selfoss.
+
+
+Timepoint: 08/27/2023 14:32:49
+
+Processing Record #49 of set 11 for city, fort st. john.
+
+
+Timepoint: 08/27/2023 14:32:49
+
+Processing Record #50 of set 11 for city, sarh.
+
+
+Timepoint: 08/27/2023 14:32:50
+
+Processing Record #1 of set 12 for city, santarem.
+
+
+Timepoint: 08/27/2023 14:32:50
+
+Processing Record #2 of set 12 for city, concordia.
+
+
+Timepoint: 08/27/2023 14:32:50
+
+Processing Record #3 of set 12 for city, nadym.
+
+
+Timepoint: 08/27/2023 14:32:50
+
+Processing Record #4 of set 12 for city, fortaleza.
+
+
+Timepoint: 08/27/2023 14:32:50
+
+Processing Record #5 of set 12 for city, neelankarai.
+
+
+Timepoint: 08/27/2023 14:32:51
+
+Processing Record #6 of set 12 for city, alta.
+
+
+Timepoint: 08/27/2023 14:32:51
+
+Processing Record #7 of set 12 for city, kamalganj.
+
+
+Timepoint: 08/27/2023 14:32:51
+
+Processing Record #8 of set 12 for city, puerto san jose.
+
+
+Timepoint: 08/27/2023 14:32:51
+
+Processing Record #9 of set 12 for city, degerfors.
+
+
+Timepoint: 08/27/2023 14:32:51
+
+Processing Record #10 of set 12 for city, caleta de carquin.
+
+
+Timepoint: 08/27/2023 14:32:52
+
+Processing Record #11 of set 12 for city, aleksandrovsk-sakhalinskiy.
+
+
+Timepoint: 08/27/2023 14:32:52
+
+Processing Record #12 of set 12 for city, verdal.
+
+
+Timepoint: 08/27/2023 14:32:52
+
+Processing Record #13 of set 12 for city, ancud.
+
+
+Timepoint: 08/27/2023 14:32:52
+
+Processing Record #14 of set 12 for city, chiang klang.
+
+
+Timepoint: 08/27/2023 14:32:52
+
+Processing Record #15 of set 12 for city, bairnsdale.
+
+
+Timepoint: 08/27/2023 14:32:53
+
+Processing Record #16 of set 12 for city, tolanaro.
+
+
+Timepoint: 08/27/2023 14:32:53
+
+Processing Record #17 of set 12 for city, nizhneangarsk.
+
+
+Timepoint: 08/27/2023 14:32:53
+
+Processing Record #18 of set 12 for city, lata.
+
+
+Timepoint: 08/27/2023 14:32:53
+
+Processing Record #19 of set 12 for city, yoro.
+
+
+Timepoint: 08/27/2023 14:32:53
+
+Processing Record #20 of set 12 for city, ismailia.
+
+
+Timepoint: 08/27/2023 14:32:54
+
+Processing Record #21 of set 12 for city, tvoroyri.
+
+
+Timepoint: 08/27/2023 14:32:54
+
+Processing Record #22 of set 12 for city, le krib.
+
+
+Timepoint: 08/27/2023 14:32:54
+
+Processing Record #23 of set 12 for city, mirnyy.
+
+
+Timepoint: 08/27/2023 14:32:54
+
+Processing Record #24 of set 12 for city, misratah.
+
+
+Timepoint: 08/27/2023 14:32:55
+
+Processing Record #25 of set 12 for city, borogontsy.
+
+
+Timepoint: 08/27/2023 14:32:55
+
+Processing Record #26 of set 12 for city, ulladulla.
+
+
+Timepoint: 08/27/2023 14:32:55
+
+Processing Record #27 of set 12 for city, yangquan.
+
+
+Timepoint: 08/27/2023 14:32:55
+
+Processing Record #28 of set 12 for city, rodolfo sanchez taboada.
+
+
+Timepoint: 08/27/2023 14:32:55
+
+Processing Record #29 of set 12 for city, kondapalle.
+
+
+Timepoint: 08/27/2023 14:32:56
+
+Processing Record #30 of set 12 for city, kabalo.
+
+
+Timepoint: 08/27/2023 14:32:56
+
+Processing Record #31 of set 12 for city, rabigh.
+
+
+Timepoint: 08/27/2023 14:32:56
+
+Processing Record #32 of set 12 for city, boali.
+
+
+Timepoint: 08/27/2023 14:32:56
+
+Processing Record #33 of set 12 for city, ndende.
+
+
+Timepoint: 08/27/2023 14:32:56
+
+Processing Record #34 of set 12 for city, esquina.
+
+
+Timepoint: 08/27/2023 14:32:57
+
+Processing Record #35 of set 12 for city, golfito.
+
+
+Timepoint: 08/27/2023 14:32:57
+
+Processing Record #36 of set 12 for city, margate.
+
+
+Timepoint: 08/27/2023 14:32:57
+
+Processing Record #37 of set 12 for city, sol'-iletsk.
+
+
+Timepoint: 08/27/2023 14:32:58
+
+Processing Record #38 of set 12 for city, qarah zia' od din.
+
+
+Timepoint: 08/27/2023 14:32:58
+
+Processing Record #39 of set 12 for city, bandar abbas.
+
+
+Timepoint: 08/27/2023 14:32:58
+
+Processing Record #40 of set 12 for city, ganye.
+
+
+Timepoint: 08/27/2023 14:32:58
+
+Processing Record #41 of set 12 for city, prince rupert.
+
+
+Timepoint: 08/27/2023 14:32:58
+
+Processing Record #42 of set 12 for city, saint-pierre.
+
+
+Timepoint: 08/27/2023 14:32:59
+
+Processing Record #43 of set 12 for city, borujen.
+
+
+Timepoint: 08/27/2023 14:32:59
+
+Processing Record #44 of set 12 for city, north battleford.
+
+
+Timepoint: 08/27/2023 14:32:59
+
+Processing Record #45 of set 12 for city, changping.
+
+
+Timepoint: 08/27/2023 14:32:59
+
+Processing Record #46 of set 12 for city, bryne.
+
+
+Timepoint: 08/27/2023 14:32:59
+
+Processing Record #47 of set 12 for city, san antonio del estrecho.
+
+
+Timepoint: 08/27/2023 14:32:59
+The script did not find the city, san antonio del estrecho. Skipping...
+
+
+Timepoint: 08/27/2023 14:32:59
+
+Processing Record #48 of set 12 for city, buchach.
+
+
+Timepoint: 08/27/2023 14:33:00
+
+Processing Record #49 of set 12 for city, makhambet.
+
+
+Timepoint: 08/27/2023 14:33:00
+
+Processing Record #50 of set 12 for city, pierre.
+
+
+Timepoint: 08/27/2023 14:33:00
+
+Processing Record #1 of set 13 for city, island harbour.
+
+
+Timepoint: 08/27/2023 14:33:00
+
+Processing Record #2 of set 13 for city, salinopolis.
+
+
+Timepoint: 08/27/2023 14:33:00
+
+Processing Record #3 of set 13 for city, prince george.
+
+
+Timepoint: 08/27/2023 14:33:02
+
+Processing Record #4 of set 13 for city, duvall.
+
+
+Timepoint: 08/27/2023 14:33:02
+
+Processing Record #5 of set 13 for city, vuktyl.
+
+
+Timepoint: 08/27/2023 14:33:02
+
+Processing Record #6 of set 13 for city, luau.
+
+
+Timepoint: 08/27/2023 14:33:02
+
+Processing Record #7 of set 13 for city, alghero.
+
+
+Timepoint: 08/27/2023 14:33:03
+
+Processing Record #8 of set 13 for city, bucerias.
+
+
+Timepoint: 08/27/2023 14:33:04
+
+Processing Record #9 of set 13 for city, plouzane.
+
+
+Timepoint: 08/27/2023 14:33:04
+
+Processing Record #10 of set 13 for city, tanki leendert.
+
+
+Timepoint: 08/27/2023 14:33:04
+The script did not find the city, tanki leendert. Skipping...
+
+
+Timepoint: 08/27/2023 14:33:04
+
+Processing Record #11 of set 13 for city, pundong.
+
+
+Timepoint: 08/27/2023 14:33:05
+
+Data Retrieval for city weather DataFrame is complete.
+
+
+Timepoint: 08/27/2023 14:33:05
+r-value:     -0.0560
+
+
+Timepoint: 08/27/2023 14:33:05
+r-squared:   0.0031
+
+
+Timepoint: 08/27/2023 14:33:05
+correlation: -0.0560
+
+
+Timepoint: 08/27/2023 14:33:06
+r-value:     0.8118
+
+
+Timepoint: 08/27/2023 14:33:06
+r-squared:   0.6590
+
+
+Timepoint: 08/27/2023 14:33:06
+correlation: -0.0560
+
+
+Timepoint: 08/27/2023 14:33:07
+r-value:     0.0115
+
+
+Timepoint: 08/27/2023 14:33:07
+r-squared:   0.0001
+
+
+Timepoint: 08/27/2023 14:33:07
+correlation: 0.0115
+
+
+Timepoint: 08/27/2023 14:33:07
+r-value:     0.1492
+
+
+Timepoint: 08/27/2023 14:33:07
+r-squared:   0.0223
+
+
+Timepoint: 08/27/2023 14:33:07
+correlation: 0.0115
+
+
+Timepoint: 08/27/2023 14:33:08
+r-value:     0.0440
+
+
+Timepoint: 08/27/2023 14:33:08
+r-squared:   0.0019
+
+
+Timepoint: 08/27/2023 14:33:08
+correlation: 0.0440
+
+
+Timepoint: 08/27/2023 14:33:08
+r-value:     0.1636
+
+
+Timepoint: 08/27/2023 14:33:08
+r-squared:   0.0268
+
+
+Timepoint: 08/27/2023 14:33:08
+correlation: 0.0440
+
+
+Timepoint: 08/27/2023 14:33:09
+r-value:     -0.1310
+
+
+Timepoint: 08/27/2023 14:33:09
+r-squared:   0.0172
+
+
+Timepoint: 08/27/2023 14:33:09
+correlation: -0.1310
+
+
+Timepoint: 08/27/2023 14:33:10
+r-value:     -0.1310
+
+
+Timepoint: 08/27/2023 14:33:10
+r-squared:   0.0172
+
+
+Timepoint: 08/27/2023 14:33:10
+correlation: -0.1310
+
+
+Timepoint: 08/27/2023 14:33:10
+r-value:     -0.7208
+
+
+Timepoint: 08/27/2023 14:33:10
+r-squared:   0.5195
+
+
+Timepoint: 08/27/2023 14:33:10
+correlation: -0.7208
+
+
+Timepoint: 08/27/2023 14:33:11
+r-value:     0.8482
+
+
+Timepoint: 08/27/2023 14:33:11
+r-squared:   0.7194
+
+
+Timepoint: 08/27/2023 14:33:11
+correlation: 0.8482
+
+
+Timepoint: 08/27/2023 14:33:11
+r-value:     0.0479
+
+
+Timepoint: 08/27/2023 14:33:11
+r-squared:   0.0023
+
+
+Timepoint: 08/27/2023 14:33:11
+correlation: 0.0479
+
+
+Timepoint: 08/27/2023 14:33:11
+r-value:     -0.0482
+
+
+Timepoint: 08/27/2023 14:33:11
+r-squared:   0.0023
+
+
+Timepoint: 08/27/2023 14:33:11
+correlation: -0.0482
+
+
+Timepoint: 08/27/2023 14:33:12
+r-value:     0.0580
+
+
+Timepoint: 08/27/2023 14:33:12
+r-squared:   0.0034
+
+
+Timepoint: 08/27/2023 14:33:12
+correlation: 0.0580
+
+
+Timepoint: 08/27/2023 14:33:12
+r-value:     0.0043
+
+
+Timepoint: 08/27/2023 14:33:12
+r-squared:   0.0000
+
+
+Timepoint: 08/27/2023 14:33:12
+correlation: 0.0043
+
+
+Timepoint: 08/27/2023 14:33:12
+r-value:     -0.1064
+
+
+Timepoint: 08/27/2023 14:33:12
+r-squared:   0.0113
+
+
+Timepoint: 08/27/2023 14:33:12
+correlation: -0.1064
+
+
+Timepoint: 08/27/2023 14:33:13
+r-value:     -0.0793
+
+
+Timepoint: 08/27/2023 14:33:13
+r-squared:   0.0063
+
+
+Timepoint: 08/27/2023 14:33:13
+correlation: -0.0793
+
+
+Timepoint: 08/27/2023 14:33:13
+Program execution ends at 08/27/2023 14:33:13.
+
+
+
+
+

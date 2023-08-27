@@ -1,0 +1,158 @@
+
+Timepoint: 08/27/2023 14:37:37
+Program execution begins...
+
+
+
+Timepoint: 08/27/2023 14:37:40
+Starting hotel search...
+
+
+
+
+Timepoint: 08/27/2023 14:37:41
+Located the following hotel...Hampton Inn Danbury in bethel, US
+
+
+
+
+Timepoint: 08/27/2023 14:37:42
+Located the following hotel...Nomad Hotel and Suites in fort mcmurray, CA
+
+
+
+
+Timepoint: 08/27/2023 14:37:43
+Located the following hotel...Ainos Hotel in argostolion, GR
+
+
+
+
+Timepoint: 08/27/2023 14:37:45
+Located the following hotel...North Vista Manor in hamilton, US
+
+
+
+
+Timepoint: 08/27/2023 14:37:46
+Located the following hotel...Smoha Zahran Haus (7th floor) in alexandria, EG
+
+
+
+
+Timepoint: 08/27/2023 14:37:47
+Located the following hotel...Jo-An Palace in rethymno, GR
+
+
+
+
+Timepoint: 08/27/2023 14:37:48
+Located the following hotel...Hotel Dale in holdrege, US
+
+
+
+
+Timepoint: 08/27/2023 14:37:51
+Located the following hotel...Days Inn by Wyndham Oil City Conference Center in oil city, US
+
+
+
+
+Timepoint: 08/27/2023 14:37:54
+Located the following hotel...the Hoxton in portland, US
+
+
+
+
+Timepoint: 08/27/2023 14:37:54
+Hotel search complete
+
+
+
+
+Timepoint: 08/27/2023 14:37:54
+Program execution ends at 08/27/2023 14:37:54.
+
+
+
+
+
+
+Timepoint: 08/27/2023 14:38:44
+Program execution begins...
+
+
+
+Timepoint: 08/27/2023 14:38:46
+Starting hotel search...
+
+
+
+
+Timepoint: 08/27/2023 14:38:47
+Located the following hotel...Hampton Inn Danbury in bethel, US
+
+
+
+
+Timepoint: 08/27/2023 14:38:48
+Located the following hotel...Nomad Hotel and Suites in fort mcmurray, CA
+
+
+
+
+Timepoint: 08/27/2023 14:38:49
+Located the following hotel...Ainos Hotel in argostolion, GR
+
+
+
+
+Timepoint: 08/27/2023 14:38:50
+Located the following hotel...North Vista Manor in hamilton, US
+
+
+
+
+Timepoint: 08/27/2023 14:38:52
+Located the following hotel...Smoha Zahran Haus (7th floor) in alexandria, EG
+
+
+
+
+Timepoint: 08/27/2023 14:38:53
+Located the following hotel...Jo-An Palace in rethymno, GR
+
+
+
+
+Timepoint: 08/27/2023 14:38:53
+Located the following hotel...Hotel Dale in holdrege, US
+
+
+
+
+Timepoint: 08/27/2023 14:38:56
+Located the following hotel...Days Inn by Wyndham Oil City Conference Center in oil city, US
+
+
+
+
+Timepoint: 08/27/2023 14:38:59
+Located the following hotel...the Hoxton in portland, US
+
+
+
+
+Timepoint: 08/27/2023 14:38:59
+Hotel search complete
+
+
+
+
+Timepoint: 08/27/2023 14:39:00
+Program execution ends at 08/27/2023 14:39:00.
+
+
+
+
+
