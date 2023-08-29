@@ -1,0 +1,303 @@
+
+Timepoint: 08/29/2023 15:29:29
+Program execution begins...
+
+
+
+
+                   City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                               
+0        puerto natales  -51.7236   -72.4875        37.17        95   
+1               ushuaia  -54.8000   -68.3000        46.06        49   
+2           yellowknife   62.4560  -114.3525        81.41        47   
+3                 jagna    9.6531   124.3697        80.35        84   
+4               aasiaat   68.7098   -52.8699        38.70        95   
+...                 ...       ...        ...          ...       ...   
+579               horta   38.5333   -28.6333        73.02        90   
+580           carbonear   47.7332   -53.2148        64.09        71   
+581           rochester   43.1548   -77.6156        73.81        77   
+582             kittila   67.6647    24.8936        46.54       100   
+583             achinsk   56.2694    90.4993        53.89        96   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0               100        4.18      CL  2023-08-29 15:25:29  
+1                 0        4.61      AR  2023-08-29 15:26:01  
+2                75       11.50      CA  2023-08-29 15:26:08  
+3                61       10.87      PH  2023-08-29 15:26:08  
+4               100       10.13      GL  2023-08-29 15:26:08  
+...             ...         ...     ...                  ...  
+579              92        8.99      PT  2023-08-29 15:28:39  
+580             100       10.16      CA  2023-08-29 15:28:39  
+581              40       10.36      US  2023-08-29 15:26:27  
+582               0        3.44      FI  2023-08-29 15:28:39  
+583             100        4.54      RU  2023-08-29 15:28:39  
+
+[584 rows x 9 columns]
+
+
+
+                     City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                 
+22            peace river   56.2501  -117.2860        80.91        53   
+67       katsuren-haebaru   26.3369   127.8719        84.49        74   
+80                  datca   36.7378    27.6842        78.75        67   
+102                   kos   36.8933    27.2889        78.24        74   
+390           tamanrasset   22.7850     5.5228        76.91        41   
+405            khairagarh   26.9500    77.8167        81.27        65   
+431             greenwood   34.1668   -82.1165        82.27        62   
+447      nea alikarnassos   35.3333    25.1667        76.96        70   
+480      neon karlovasion   37.7903    26.7044        78.17        64   
+537              hamilton   39.1834   -84.5333        80.56        42   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+22                0        6.91      CA  2023-08-29 15:26:12  
+67                0        8.05      JP  2023-08-29 15:26:23  
+80                0        9.08      TR  2023-08-29 15:26:26  
+102               0        3.74      GR  2023-08-29 15:26:31  
+390               0        3.44      DZ  2023-08-29 15:27:51  
+405               4        7.78      IN  2023-08-29 15:27:56  
+431               0        9.22      US  2023-08-29 15:28:02  
+447               0        5.75      GR  2023-08-29 15:28:05  
+480               0        7.63      GR  2023-08-29 15:28:14  
+537               0        9.22      US  2023-08-29 15:24:50  
+
+
+
+               City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0       peace river   56.2501  -117.2860        80.91        53           0   
+1  katsuren-haebaru   26.3369   127.8719        84.49        74           0   
+2             datca   36.7378    27.6842        78.75        67           0   
+3               kos   36.8933    27.2889        78.24        74           0   
+4       tamanrasset   22.7850     5.5228        76.91        41           0   
+5        khairagarh   26.9500    77.8167        81.27        65           4   
+6         greenwood   34.1668   -82.1165        82.27        62           0   
+7  nea alikarnassos   35.3333    25.1667        76.96        70           0   
+8  neon karlovasion   37.7903    26.7044        78.17        64           0   
+9          hamilton   39.1834   -84.5333        80.56        42           0   
+
+   Wind Speed Country            Date/Time  
+0        6.91      CA  2023-08-29 15:26:12  
+1        8.05      JP  2023-08-29 15:26:23  
+2        9.08      TR  2023-08-29 15:26:26  
+3        3.74      GR  2023-08-29 15:26:31  
+4        3.44      DZ  2023-08-29 15:27:51  
+5        7.78      IN  2023-08-29 15:27:56  
+6        9.22      US  2023-08-29 15:28:02  
+7        5.75      GR  2023-08-29 15:28:05  
+8        7.63      GR  2023-08-29 15:28:14  
+9        9.22      US  2023-08-29 15:24:50  
+
+
+
+               City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0       peace river   56.2501  -117.2860        80.91        53           0   
+1  katsuren-haebaru   26.3369   127.8719        84.49        74           0   
+2             datca   36.7378    27.6842        78.75        67           0   
+3               kos   36.8933    27.2889        78.24        74           0   
+4       tamanrasset   22.7850     5.5228        76.91        41           0   
+5        khairagarh   26.9500    77.8167        81.27        65           4   
+6         greenwood   34.1668   -82.1165        82.27        62           0   
+7  nea alikarnassos   35.3333    25.1667        76.96        70           0   
+8  neon karlovasion   37.7903    26.7044        78.17        64           0   
+9          hamilton   39.1834   -84.5333        80.56        42           0   
+
+   Wind Speed Country            Date/Time Hotel Name  
+0        6.91      CA  2023-08-29 15:26:12        NaN  
+1        8.05      JP  2023-08-29 15:26:23        NaN  
+2        9.08      TR  2023-08-29 15:26:26        NaN  
+3        3.74      GR  2023-08-29 15:26:31        NaN  
+4        3.44      DZ  2023-08-29 15:27:51        NaN  
+5        7.78      IN  2023-08-29 15:27:56        NaN  
+6        9.22      US  2023-08-29 15:28:02        NaN  
+7        5.75      GR  2023-08-29 15:28:05        NaN  
+8        7.63      GR  2023-08-29 15:28:14        NaN  
+9        9.22      US  2023-08-29 15:24:50        NaN  
+
+
+Timepoint: 08/29/2023 15:33:55
+Program execution begins...
+
+
+
+
+                           City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                       
+0        hawaiian paradise park   19.5933  -154.9731        81.90        71   
+1              flying fish cove  -10.4217   105.6791        74.88        83   
+2                   ust'-ilimsk   58.0006   102.6619        61.93        83   
+3                       xiaoshi   41.2971   124.1209        60.75        96   
+4                      lhuentse   27.6679    91.1839        69.51        94   
+...                         ...       ...        ...          ...       ...   
+557          brisas de zicatela   15.8369   -97.0419        86.52        54   
+558                      kuanda   56.3161   116.0806        61.38        60   
+559                    alaghsas   17.0187     8.0168        88.38        38   
+560                        soio   -6.1349    12.3689        71.78        94   
+561                      macapa    0.0389   -51.0664        87.78        62   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0                40       10.36      US  2023-08-29 15:24:31  
+1                75        9.22      CX  2023-08-29 15:28:14  
+2                49        2.17      RU  2023-08-29 15:31:03  
+3               100        2.19      CN  2023-08-29 15:31:03  
+4                88        1.12      BT  2023-08-29 15:31:04  
+...             ...         ...     ...                  ...  
+557              75        2.30      MX  2023-08-29 15:33:22  
+558               6        0.31      RU  2023-08-29 15:33:22  
+559              64       16.13      NE  2023-08-29 15:27:57  
+560              68        4.12      AO  2023-08-29 15:33:23  
+561              20        9.22      BR  2023-08-29 15:33:23  
+
+[562 rows x 9 columns]
+
+
+
+                     City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                 
+46               hamilton   39.1834   -84.5333        80.56        42   
+101                mandan   46.8267  -100.8896        84.13        45   
+183            brokopondo    4.7500   -55.1667        85.78        57   
+263      katsuren-haebaru   26.3369   127.8719        84.49        74   
+289         fort mcmurray   56.7268  -111.3810        83.71        44   
+523         san cristobal    7.7669   -72.2250        82.58        72   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+46                0        9.22      US  2023-08-29 15:24:50  
+101               0        9.22      US  2023-08-29 15:31:31  
+183               2        8.25      SR  2023-08-29 15:31:54  
+263               0        8.05      JP  2023-08-29 15:26:23  
+289               0        9.22      CA  2023-08-29 15:27:20  
+523               5        4.81      VE  2023-08-29 15:33:15  
+
+
+
+               City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0          hamilton   39.1834   -84.5333        80.56        42           0   
+1            mandan   46.8267  -100.8896        84.13        45           0   
+2        brokopondo    4.7500   -55.1667        85.78        57           2   
+3  katsuren-haebaru   26.3369   127.8719        84.49        74           0   
+4     fort mcmurray   56.7268  -111.3810        83.71        44           0   
+5     san cristobal    7.7669   -72.2250        82.58        72           5   
+
+   Wind Speed Country            Date/Time  
+0        9.22      US  2023-08-29 15:24:50  
+1        9.22      US  2023-08-29 15:31:31  
+2        8.25      SR  2023-08-29 15:31:54  
+3        8.05      JP  2023-08-29 15:26:23  
+4        9.22      CA  2023-08-29 15:27:20  
+5        4.81      VE  2023-08-29 15:33:15  
+
+
+
+               City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0          hamilton   39.1834   -84.5333        80.56        42           0   
+1            mandan   46.8267  -100.8896        84.13        45           0   
+2        brokopondo    4.7500   -55.1667        85.78        57           2   
+3  katsuren-haebaru   26.3369   127.8719        84.49        74           0   
+4     fort mcmurray   56.7268  -111.3810        83.71        44           0   
+5     san cristobal    7.7669   -72.2250        82.58        72           5   
+
+   Wind Speed Country            Date/Time Hotel Name  
+0        9.22      US  2023-08-29 15:24:50        NaN  
+1        9.22      US  2023-08-29 15:31:31        NaN  
+2        8.25      SR  2023-08-29 15:31:54        NaN  
+3        8.05      JP  2023-08-29 15:26:23        NaN  
+4        9.22      CA  2023-08-29 15:27:20        NaN  
+5        4.81      VE  2023-08-29 15:33:15        NaN  
+
+
+Timepoint: 08/29/2023 15:35:25
+Program execution begins...
+
+
+
+
+                           City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                       
+0        hawaiian paradise park   19.5933  -154.9731        81.90        71   
+1              flying fish cove  -10.4217   105.6791        74.88        83   
+2                   ust'-ilimsk   58.0006   102.6619        61.93        83   
+3                       xiaoshi   41.2971   124.1209        60.75        96   
+4                      lhuentse   27.6679    91.1839        69.51        94   
+...                         ...       ...        ...          ...       ...   
+557          brisas de zicatela   15.8369   -97.0419        86.52        54   
+558                      kuanda   56.3161   116.0806        61.38        60   
+559                    alaghsas   17.0187     8.0168        88.38        38   
+560                        soio   -6.1349    12.3689        71.78        94   
+561                      macapa    0.0389   -51.0664        87.78        62   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0                40       10.36      US  2023-08-29 15:24:31  
+1                75        9.22      CX  2023-08-29 15:28:14  
+2                49        2.17      RU  2023-08-29 15:31:03  
+3               100        2.19      CN  2023-08-29 15:31:03  
+4                88        1.12      BT  2023-08-29 15:31:04  
+...             ...         ...     ...                  ...  
+557              75        2.30      MX  2023-08-29 15:33:22  
+558               6        0.31      RU  2023-08-29 15:33:22  
+559              64       16.13      NE  2023-08-29 15:27:57  
+560              68        4.12      AO  2023-08-29 15:33:23  
+561              20        9.22      BR  2023-08-29 15:33:23  
+
+[562 rows x 9 columns]
+
+
+
+                     City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                 
+46               hamilton   39.1834   -84.5333        80.56        42   
+101                mandan   46.8267  -100.8896        84.13        45   
+183            brokopondo    4.7500   -55.1667        85.78        57   
+263      katsuren-haebaru   26.3369   127.8719        84.49        74   
+289         fort mcmurray   56.7268  -111.3810        83.71        44   
+523         san cristobal    7.7669   -72.2250        82.58        72   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+46                0        9.22      US  2023-08-29 15:24:50  
+101               0        9.22      US  2023-08-29 15:31:31  
+183               2        8.25      SR  2023-08-29 15:31:54  
+263               0        8.05      JP  2023-08-29 15:26:23  
+289               0        9.22      CA  2023-08-29 15:27:20  
+523               5        4.81      VE  2023-08-29 15:33:15  
+
+
+
+               City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0          hamilton   39.1834   -84.5333        80.56        42           0   
+1            mandan   46.8267  -100.8896        84.13        45           0   
+2        brokopondo    4.7500   -55.1667        85.78        57           2   
+3  katsuren-haebaru   26.3369   127.8719        84.49        74           0   
+4     fort mcmurray   56.7268  -111.3810        83.71        44           0   
+5     san cristobal    7.7669   -72.2250        82.58        72           5   
+
+   Wind Speed Country            Date/Time  
+0        9.22      US  2023-08-29 15:24:50  
+1        9.22      US  2023-08-29 15:31:31  
+2        8.25      SR  2023-08-29 15:31:54  
+3        8.05      JP  2023-08-29 15:26:23  
+4        9.22      CA  2023-08-29 15:27:20  
+5        4.81      VE  2023-08-29 15:33:15  
+
+
+
+               City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0          hamilton   39.1834   -84.5333        80.56        42           0   
+1            mandan   46.8267  -100.8896        84.13        45           0   
+2        brokopondo    4.7500   -55.1667        85.78        57           2   
+3  katsuren-haebaru   26.3369   127.8719        84.49        74           0   
+4     fort mcmurray   56.7268  -111.3810        83.71        44           0   
+5     san cristobal    7.7669   -72.2250        82.58        72           5   
+
+   Wind Speed Country            Date/Time Hotel Name  
+0        9.22      US  2023-08-29 15:24:50        NaN  
+1        9.22      US  2023-08-29 15:31:31        NaN  
+2        8.25      SR  2023-08-29 15:31:54        NaN  
+3        8.05      JP  2023-08-29 15:26:23        NaN  
+4        9.22      CA  2023-08-29 15:27:20        NaN  
+5        4.81      VE  2023-08-29 15:33:15        NaN  
+
