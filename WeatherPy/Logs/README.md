@@ -1,0 +1,1 @@
+This folder holds the log and debug files for two consecutive runs of the Jupyter Notebooks, WeatherPy.ipynb and VacationPy.ipynb. In both cases, the Jupyter Notebooks are running in log mode and debug mode.
