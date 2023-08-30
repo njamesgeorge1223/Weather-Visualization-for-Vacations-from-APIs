@@ -1,4 +1,5 @@
-The Jupyter Notebooks, WeatherPy.ipynb and VacationPy.ipynb, require the following Python scripts in the same folder with it:
+The IPython notebooks, WeatherPy.ipynb and VacationPy.ipynb, require the following 
+Python scripts with them in the same folder:
 
 PyConstants.py
 
@@ -20,34 +21,38 @@ WeatherPyConstants.py
 
 WeatherPyFunctions.py
 
+If the computer has Anaconda, Jupyter Notebook, and a recent version of Python, the 
+IPython notebook already has the following dependencies installed: datetime, io, json, 
+matplotlib, numpy, pandas, pathlib, os, pandas, requests, requests_html, and scipy.
 
-If the computer has Anaconda and a recent version of Python, the Jupyter notebook already has the following dependencies 
-installed: datetime, io, json, pandas, pathlib, os, pandas, requests.
+In addition to those modules, the IPython notebook needs the following to execute: 
+citipy, hvplot, panel.
 
-In addition to those modules, the Jupyter Notebook needs the following to execute: citipy, hvplot,
-matplotlib, numpy, panel, requests_html, scipy.  
-
-Here are the requisite Terminal commands for installation of these peripheral modules:
+Here are the requisite Terminal commands for installation of these peripheral modules
+(in this order):
 
 python3 -m pip install citipy
 
 python3 -m pip install hvplot
 
-python3 -m pip install matplotlib
-
-python3 -m pip install numpy
-
 python3 -m pip install panel
 
-python3 -m pip install requests_html
+For the conda environment, these are the requisite Terminal commands:
 
-python3 -m pip install scipy
+conda install citipy
 
-If the folders, Resources, Logs, and Images are not present, the Jupyter Notebook will create them.  Weather.ipynb generates
-the file, CitiesWeather.csv, in the Resources folder: this file is the input file for VacationPy.ipynb.
+conda install hvplot
 
-To place the Jupyter Notebook in log mode, debug mode,or image mode set the parameter for the appropriate subroutine in cell #2 
-to True.  In debug mode, the program displays the debug information and writes it to a debug file in the Logs folder; the same 
-is true in log mode for log information sent to a log file in the same folder.  If the program is in log mode but not debug mode, 
-it displays no debug information, but writes that information to the log file. If the program is in image mode, it writes all the
-plots to png files in the Images folder.
+conda install panel
+
+If the folders, Resources, Logs, and Images are not present, the IPython otebook will 
+create them.  Weather.ipynb generates the file in the Resources folder, CitiesWeather.csv: 
+this file is the input file for VacationPy.ipynb.
+
+To place the IPython notebook in log mode, debug mode,or image mode set the parameter for
+the appropriate subroutine in cell #2 to True.  In debug mode, the program displays the 
+debug information and writes it to a debug file in the Logs folder; the same is true in 
+log mode for log information sent to a log file in the same folder.  If the program is in 
+log mode but not debug mode, it displays no debug information, but writes that information 
+to the log file. If the program is in image mode, it writes all the plots to png files in 
+the Images folder.
