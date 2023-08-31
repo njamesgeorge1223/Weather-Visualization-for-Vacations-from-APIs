@@ -40,6 +40,7 @@ python3 -m pip install panel
 For the conda environment, these are the requisite Terminal commands:
 
 conda config --add channels conda-forge
+
 conda config --set channel_priority strict
 
 conda install citipy
