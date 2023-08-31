@@ -26,7 +26,7 @@ IPython notebook already has the following dependencies installed: datetime, io,
 matplotlib, numpy, pandas, pathlib, os, pandas, requests, requests_html, and scipy.
 
 In addition to those modules, the IPython notebook needs the following to execute: 
-citipy, hvplot, panel, geoviews.
+citipy, hvplot, panel, geoviews, and geopy.
 
 Here are the requisite Terminal commands for installation of these peripheral modules
 (in this order):
@@ -36,6 +36,10 @@ python3 -m pip install citipy
 python3 -m pip install hvplot
 
 python3 -m pip install panel
+
+python3 -m pip install geoviews
+
+python3 -m pip install geopy
 
 For the conda environment, these are the requisite Terminal commands:
 
@@ -51,6 +55,8 @@ conda install hvplot
 conda install panel
 
 conda install -c conda-forge geoviews
+
+conda install -c conda-forge geopy
 
 If the folders, Resources, Logs, and Images are not present, the IPython otebook will 
 create them.  Weather.ipynb generates the file in the Resources folder, CitiesWeather.csv: 
