@@ -183,7 +183,7 @@ def ReturnWeatherDataFrame \
     
     log_subroutine \
         .PrintAndLogWriteText \
-            ('\nData Retrieval for city weather DataFrame begins....\n')
+            ('\nDATA RETRIEVAL FOR CITY WEATHER DATAFRAME BEGINS...\n')
 
 
     for index, cityName in enumerate(citiesListOfStringsParameter):
@@ -200,8 +200,8 @@ def ReturnWeatherDataFrame \
             
         log_subroutine \
             .PrintAndLogWriteText \
-                (f'\nProcessing Record #{recordCountIntegerVariable+1} ' \
-                    + f'of set {setOfCitiesCountIntegerVariable} for city, {cityName}.')
+                (f'\nPROCESSING RECORD #{recordCountIntegerVariable+1} ' \
+                    + f'OF SET {setOfCitiesCountIntegerVariable} FOR CITY, {cityName}.')
             
 
         cityURLStringVariable \
@@ -289,7 +289,7 @@ def ReturnWeatherDataFrame \
         
             log_subroutine \
                 .PrintAndLogWriteText \
-                    (f"The script did not find the city, {cityName}. Skipping...")
+                    (f'\nThe script did not find the city, {cityName}. Skipping...')
 
             
     log_subroutine \

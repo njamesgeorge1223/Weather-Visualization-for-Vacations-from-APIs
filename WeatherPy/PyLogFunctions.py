@@ -27,8 +27,6 @@
 
 import PyLogConstants as log_constant
 
-import datetime
-
 from datetime import date
 from datetime import datetime
 
@@ -209,7 +207,7 @@ def ReturnTimePointMessage \
         timePointMessageStringVariable
 
 
-# In[1]:
+# In[7]:
 
 
 #*******************************************************************************************
