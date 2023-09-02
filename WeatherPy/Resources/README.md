@@ -1,1 +1,1 @@
-This folder holds the output file from WeatherPy.ipynb, CitiesWeather.csv, which is the input file for Vacation.ipynb.
+This folder holds the file, CitiesWeather.csv, which is the output file from the IPython notebook, WeatherPy.ipynb, and the input file for the IPython notebook, Vacation.ipynb.
