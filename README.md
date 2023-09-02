@@ -1,1 +1,1 @@
-This repository includes the folder and files for the WeatherPy/VacationPy Challenge.
+This repository the WeatherPy/VacationPy Challenge files in folders.
