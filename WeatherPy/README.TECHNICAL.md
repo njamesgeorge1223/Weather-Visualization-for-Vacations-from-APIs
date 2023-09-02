@@ -43,11 +43,11 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 
 
-conda install citipy
+conda install -c conda-forge citipy
 
-conda install hvplot
+conda install -c conda-forge hvplot
 
-conda install panel
+conda install -c conda-forge panel
 
 conda install -c conda-forge geoviews
 
