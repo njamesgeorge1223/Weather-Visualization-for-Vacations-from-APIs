@@ -1,1 +1,1 @@
-This folder holds the log and debug files for two consecutive runs of the IPython notebooks, WeatherPy.ipynb and VacationPy.ipynb. In both cases, the IPython notebooks are running in log mode and debug mode.
+This folder holds the log and debug files for the IPython notebooks, WeatherPy.ipynb and VacationPy.ipynb.
