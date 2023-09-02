@@ -1,1 +1,1 @@
-The files in this folder belong to the WeatherPy deliverable.
+The files in this folder belong to the WeatherPy/VacationPy Challenge.
