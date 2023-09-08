@@ -36,23 +36,6 @@ python3 -m pip install geoviews
 
 python3 -m pip install geopy
 
-For the conda environment, these are the requisite Terminal commands:
-
-conda config --add channels conda-forge
-
-conda config --set channel_priority strict
-
-
-conda install -c conda-forge citipy
-
-conda install -c conda-forge hvplot
-
-conda install -c conda-forge panel
-
-conda install -c conda-forge geoviews
-
-conda install -c conda-forge geopy
-
 If the folders, Resources, Logs, and Images are not present, the IPython otebook will create them.  Weather.ipynb generates the file in the Resources folder, CitiesWeather.csv, the input file for VacationPy.ipynb.
 
 To place the IPython notebook in log mode, debug mode,or image mode set the parameter forthe appropriate subroutine in cell #2 to True.  In debug mode, the program displays the debug information and writes it to a debug file in the Logs folder; the same is true in log mode for log information sent to a log file in the same folder.  If the program is in log mode but not debug mode, it displays no debug information, but writes that information to the log file. If the program is in image mode, it writes all the plots to png files in the Images folder.
