@@ -1,0 +1,198 @@
+
+Timepoint: 09/18/2023 09:54:43
+Program execution begins...
+
+
+
+
+                            City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                        
+0                         badger   64.8000  -147.5333        39.24        96   
+1                        ushuaia  -54.8000   -68.3000        35.26        69   
+2                    vilyuchinsk   52.9306   158.4028        35.87        84   
+3                       bilibino   68.0546   166.4372        31.53        96   
+4                      adamstown  -25.0660  -130.1015        65.01        59   
+...                          ...       ...        ...          ...       ...   
+575               chernyshevskiy   63.0128   112.4714        30.22        74   
+576                     cidreira  -30.1811   -50.2056        70.14        82   
+577                       vilino   44.8456    33.6716        70.07        53   
+578                     tyuratam   45.6507    63.3156        72.30        24   
+579      puerto baquerizo moreno   -0.9000   -89.6000        77.99        83   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0               100        1.01      US  2023-09-18 09:52:12  
+1                75       17.27      AR  2023-09-18 09:52:13  
+2                20        9.40      RU  2023-09-18 09:52:13  
+3               100        2.93      RU  2023-09-18 09:52:13  
+4                61        2.19      PN  2023-09-18 09:52:13  
+...             ...         ...     ...                  ...  
+575              92        3.98      RU  2023-09-18 09:54:16  
+576              76       10.89      BR  2023-09-18 09:53:36  
+577               0       13.04      UA  2023-09-18 09:54:16  
+578              87        5.32      KZ  2023-09-18 09:54:16  
+579             100       13.80      EC  2023-09-18 09:54:16  
+
+[580 rows x 9 columns]
+
+
+
+                           City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                       
+7                     jalalabad   34.4265    70.4515        84.38        53   
+251                      neosho   36.8690   -94.3680        79.61        50   
+255              cabo san lucas   22.8909  -109.9124        89.65        62   
+364                      lovech   43.1333    24.7167        77.77        46   
+434                   demopolis   32.5176   -87.8364        80.55        44   
+435      ciudad lazaro cardenas   17.9583  -102.2000        86.65        58   
+571                    galesong   -5.3166   119.3661        80.62        68   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+7                 3        4.85      AF  2023-09-18 09:52:14  
+251               7        5.01      US  2023-09-18 09:53:07  
+255               6        5.99      MX  2023-09-18 09:50:28  
+364               0        4.41      BG  2023-09-18 09:53:32  
+434               0        4.61      US  2023-09-18 09:53:46  
+435               6        3.20      MX  2023-09-18 09:53:47  
+571               7        4.03      ID  2023-09-18 09:54:15  
+
+
+
+                     City  Latitude  Longitude  Temperature  Humidity  \
+0               jalalabad   34.4265    70.4515        84.38        53   
+1                  neosho   36.8690   -94.3680        79.61        50   
+2          cabo san lucas   22.8909  -109.9124        89.65        62   
+3                  lovech   43.1333    24.7167        77.77        46   
+4               demopolis   32.5176   -87.8364        80.55        44   
+5  ciudad lazaro cardenas   17.9583  -102.2000        86.65        58   
+6                galesong   -5.3166   119.3661        80.62        68   
+
+   Cloudiness  Wind Speed Country            Date/Time  
+0           3        4.85      AF  2023-09-18 09:52:14  
+1           7        5.01      US  2023-09-18 09:53:07  
+2           6        5.99      MX  2023-09-18 09:50:28  
+3           0        4.41      BG  2023-09-18 09:53:32  
+4           0        4.61      US  2023-09-18 09:53:46  
+5           6        3.20      MX  2023-09-18 09:53:47  
+6           7        4.03      ID  2023-09-18 09:54:15  
+
+
+
+                     City  Latitude  Longitude  Temperature  Humidity  \
+0               jalalabad   34.4265    70.4515        84.38        53   
+1                  neosho   36.8690   -94.3680        79.61        50   
+2          cabo san lucas   22.8909  -109.9124        89.65        62   
+3                  lovech   43.1333    24.7167        77.77        46   
+4               demopolis   32.5176   -87.8364        80.55        44   
+5  ciudad lazaro cardenas   17.9583  -102.2000        86.65        58   
+6                galesong   -5.3166   119.3661        80.62        68   
+
+   Cloudiness  Wind Speed Country            Date/Time Hotel Name  
+0           3        4.85      AF  2023-09-18 09:52:14        NaN  
+1           7        5.01      US  2023-09-18 09:53:07        NaN  
+2           6        5.99      MX  2023-09-18 09:50:28        NaN  
+3           0        4.41      BG  2023-09-18 09:53:32        NaN  
+4           0        4.61      US  2023-09-18 09:53:46        NaN  
+5           6        3.20      MX  2023-09-18 09:53:47        NaN  
+6           7        4.03      ID  2023-09-18 09:54:15        NaN  
+
+
+Timepoint: 09/18/2023 10:00:36
+Program execution begins...
+
+
+
+
+                      City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                  
+0                   kodiak   57.7900  -152.4072        44.11        81   
+1          lazaro cardenas   17.9583  -102.2000        86.65        58   
+2           puerto natales  -51.7236   -72.4875        40.23        52   
+3                  iqaluit   63.7506   -68.5145        32.70        74   
+4        port-aux-francais  -49.3500    70.2167        40.15        95   
+...                    ...       ...        ...          ...       ...   
+557                 warman   52.3168  -106.5679        62.51        59   
+558               antalaha  -14.9003    50.2788        72.27        79   
+559              essaouira   31.5125    -9.7700        81.90        44   
+560                xichang   27.8964   102.2634        67.33        82   
+561             ust-tsilma   65.4410    52.1498        47.46        95   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0               100        5.75      US  2023-09-18 09:52:40  
+1                 6        3.20      MX  2023-09-18 09:53:49  
+2                36        5.91      CL  2023-09-18 09:52:21  
+3               100        4.61      CA  2023-09-18 09:52:18  
+4               100       23.71      TF  2023-09-18 09:52:17  
+...             ...         ...     ...                  ...  
+557              20        9.22      CA  2023-09-18 09:58:06  
+558              51        9.44      MG  2023-09-18 09:53:52  
+559              20       18.41      MA  2023-09-18 09:52:57  
+560              95        3.06      CN  2023-09-18 09:59:17  
+561             100        7.92      RU  2023-09-18 09:59:18  
+
+[562 rows x 9 columns]
+
+
+
+                               City  Latitude  Longitude  Temperature  \
+City ID                                                                 
+1                   lazaro cardenas   17.9583  -102.2000        86.65   
+13       doctor alberto oviedo mota   32.2275  -115.1697        86.00   
+152                        marshall   34.3834   -86.3333        76.12   
+352                  cabo san lucas   22.8909  -109.9124        89.65   
+396                        imbituba  -28.2400   -48.6703        83.86   
+407                        kot addu   30.4692    70.9671        86.52   
+414           coahuayana de hidalgo   18.7000  -103.6583        90.03   
+
+         Humidity  Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                                 
+1              58           6        3.20      MX  2023-09-18 09:53:49  
+13             40           0        3.78      MX  2023-09-18 09:57:22  
+152            53           0        3.44      US  2023-09-18 09:55:05  
+352            62           6        5.99      MX  2023-09-18 09:50:28  
+396            42           2        8.30      BR  2023-09-18 09:58:41  
+407            55           1        9.10      PK  2023-09-18 09:58:43  
+414            54           8        3.31      MX  2023-09-18 09:58:44  
+
+
+
+                         City  Latitude  Longitude  Temperature  Humidity  \
+0             lazaro cardenas   17.9583  -102.2000        86.65        58   
+1  doctor alberto oviedo mota   32.2275  -115.1697        86.00        40   
+2                    marshall   34.3834   -86.3333        76.12        53   
+3              cabo san lucas   22.8909  -109.9124        89.65        62   
+4                    imbituba  -28.2400   -48.6703        83.86        42   
+5                    kot addu   30.4692    70.9671        86.52        55   
+6       coahuayana de hidalgo   18.7000  -103.6583        90.03        54   
+
+   Cloudiness  Wind Speed Country            Date/Time  
+0           6        3.20      MX  2023-09-18 09:53:49  
+1           0        3.78      MX  2023-09-18 09:57:22  
+2           0        3.44      US  2023-09-18 09:55:05  
+3           6        5.99      MX  2023-09-18 09:50:28  
+4           2        8.30      BR  2023-09-18 09:58:41  
+5           1        9.10      PK  2023-09-18 09:58:43  
+6           8        3.31      MX  2023-09-18 09:58:44  
+
+
+
+                         City  Latitude  Longitude  Temperature  Humidity  \
+0             lazaro cardenas   17.9583  -102.2000        86.65        58   
+1  doctor alberto oviedo mota   32.2275  -115.1697        86.00        40   
+2                    marshall   34.3834   -86.3333        76.12        53   
+3              cabo san lucas   22.8909  -109.9124        89.65        62   
+4                    imbituba  -28.2400   -48.6703        83.86        42   
+5                    kot addu   30.4692    70.9671        86.52        55   
+6       coahuayana de hidalgo   18.7000  -103.6583        90.03        54   
+
+   Cloudiness  Wind Speed Country            Date/Time Hotel Name  
+0           6        3.20      MX  2023-09-18 09:53:49        NaN  
+1           0        3.78      MX  2023-09-18 09:57:22        NaN  
+2           0        3.44      US  2023-09-18 09:55:05        NaN  
+3           6        5.99      MX  2023-09-18 09:50:28        NaN  
+4           2        8.30      BR  2023-09-18 09:58:41        NaN  
+5           1        9.10      PK  2023-09-18 09:58:43        NaN  
+6           8        3.31      MX  2023-09-18 09:58:44        NaN  
+
