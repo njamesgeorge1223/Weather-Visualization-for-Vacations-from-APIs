@@ -1,32 +1,16 @@
-The IPython notebooks, WeatherPy.ipynb and VacationPy.ipynb, require the following Python scripts with them in the same folder:
+# **Weather Visualization for Ideal vacations from APIs**
 
-PyConstants.py
+----
 
-PyFunctions.py
+### **Installation:**
 
-PyLogConstants.py
+----
 
-PyLogFunctions.py
+If the computer has Anaconda, Jupyter Notebook, and a recent version of Python, the IPython notebook already has the following dependencies installed: datetime, io, json, matplotlib, numpy, pandas, pathlib, os, pandas, requests, requests_html, and scipy.
 
-PyLogSubRoutines.py
+In addition to those modules, the Jupyter Notebook requires the following to execute: holoviews, hvplot, panel, geoviews, geopy, aspose-words, dataframe-image, citypy.
 
-PySubroutines.py
-
-WeatherPyAPIFunctions.py
-
-WeatherPyAPIKeys.py
-
-WeatherPyConstants.py
-
-WeatherPyFunctions.py
-
-If the computer has Anaconda, Jupyter Notebook, and a recent version of Python, the IPython notebook already has the following dependencies installed: datetime, io, json, matplotlib, numpy, pandas, pathlib, os, pandas, requests, requests_html, scipy.
-
-In addition to those modules, the IPython notebook needs the following to execute: citipy, holoviews, hvplot, panel, geoviews, geopy, aspose-words, dataframe-image.
-
-Here are the requisite Terminal commands for installation of these peripheral modules (in this order):
-
-python3 -m pip install citipy
+Here are the requisite Terminal commands for installation of these peripheral modules:
 
 python3 -m pip install holoviews
 
@@ -42,6 +26,185 @@ python3 -m pip install aspose-words
 
 python3 -m pip install dataframe-image
 
-If the folders, Resources, Logs, and Images are not present, the IPython otebook will create them.  Weather.ipynb generates the file in the Resources folder, CitiesWeather.csv, the input file for VacationPy.ipynb.
+python3 -m pip install citypy
 
-To place the IPython notebook in log mode, debug mode,or image mode set the parameter forthe appropriate subroutine in cell #2 to True.  In debug mode, the program displays the debug information and writes it to a debug file in the Logs folder; the same is true in log mode for log information sent to a log file in the same folder.  If the program is in log mode but not debug mode, it displays no debug information, but writes that information to the log file. If the program is in image mode, it writes all the plots to png files in the Images folder.
+----
+
+### **Usage:**
+
+----
+
+The IPython notebook, WeatherPy.ipynb, generates the CSV file, CitiesWeather.csv, which acts as input to VacationPy.ipynb.  These IPython Notebooks must have the following Python scripts in the same folder with it:
+
+PyConstants.py
+
+PyFunctions.py
+
+PyLogConstants.py
+
+PyLogFunctions.py
+
+PySubroutines.py
+
+WeatherPyAPIFunctions.py
+
+WeatherPyAPIKeys.py
+
+WeatherPyConstants.py
+
+WeatherPyFunctions.py
+
+If the folders, Resources, Logs, and Images are not present, the IPython notebook will create them.  The Resources folder contains the output file from WeatherPy.ipynb, CitiesWeather.csv, which is the input file for VacationPy.ipynb; the Logs folder contains debug and log files from testing the IPython Notebooks; and the Images folder has the PNG image files of the IPython Notebooks' tables and plots.
+
+To place the IPython notebook in log mode, debug mode, or image mode set the parameter for the appropriate subroutine in coding cell #2 to True. In debug mode, the program displays the debug information and writes it to a debug file in the Logs folder; the same is true in log mode for log information sent to a log file. If the program is in log mode but not debug mode, it displays no debug information, but writes that information to the log file. If the program is in image mode, it writes all DataFrames, hvplot maps, and matplotlib plots to png files in the Images folder.
+
+----
+
+### **Resource Summary:**
+
+----
+
+#### Source code
+
+WeatherPy.ipynb, VacationPy.ipynb, PyConstants.py, PyFunctions.py, PyLogConstants.py, PyLogFunctions.py, PySubroutines.py, WeatherPyAPIFunctions.py, WeatherPyAPIKeys.py, WeatherPyConstants.py, WeatherPyFunctions.py
+
+#### Input files
+
+CitiesWeather.csv (VacationPy.ipynb)
+
+#### Output files
+
+CitiesWeather.csv (WeatherPy.ipynb)
+
+#### SQL script
+
+n/a
+
+#### Software
+
+Jupyter Notebook, Python 3.11.4, Pandas
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+----
+
+### **GitHub Repository Branches:**
+
+----
+
+#### main branch 
+
+|&rarr; [./PyConstants.py](./PyConstants.py)
+
+|&rarr; [./PyFunctions.py](./PyFunctions.py)
+
+|&rarr; [./PyLogConstants.py](./PyLogConstants.py)
+
+|&rarr; [./PyLogFunctions.py](./PyLogFunctions.py)
+
+|&rarr; [./PyLogSubRoutines.py](./PyLogSubRoutines.py)
+
+|&rarr; [./PySubRoutines.py](./PySubRoutines.py)
+
+|&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
+
+|&rarr; [./README.md](./README.md)
+
+|&rarr; [./VacationPy.ipynb](./VacationPy.ipynb)
+
+|&rarr; [./WeatherPy.ipynb](./WeatherPy.ipynb)
+
+|&rarr; [./WeatherPyAPIFunctions.py](./WeatherPyAPIFunctions.py)
+
+|&rarr; [./WeatherPyAPIKeys.py](./WeatherPyAPIKeys.py)
+
+|&rarr; [./WeatherPyConstants.py](./WeatherPyConstants.py)
+
+|&rarr; [./WeatherPyFunctions.py](./WeatherPyFunctions.py)
+
+|&rarr; [./Images/](./Images/)
+
+  &emsp; |&rarr; [./Images/README.md](./Images/README.md)
+
+  &emsp; |&rarr; [./Images/VacationPyFigure11CityWeatherInformationonMap.png](./Images/VacationPyFigure11CityWeatherInformationonMap.png)
+  
+  &emsp; |&rarr; [./Images/VacationPyFigure21IdealVacationLocations.png](./Images/VacationPyFigure21IdealVacationLocations.png)
+  
+  &emsp; |&rarr; [./Images/VacationPyFigure31HotelLocations.png](./Images/VacationPyFigure31HotelLocations.png)
+  
+  &emsp; |&rarr; [./Images/VacationPyTable11CityWeatherInformation.png](./Images/VacationPyTable11CityWeatherInformation.png)
+  
+  &emsp; |&rarr; [./Images/VacationPyTable21IdealVacationLocations.png](./Images/VacationPyTable21IdealVacationLocations.png)
+  
+  &emsp; |&rarr; [./Images/VacationPyTable31HotelLocations.png](./Images/VacationPyTable31HotelLocations.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure121TemperatureVsLatitudeScatterPlot.png](./Images/WeatherPyFigure121TemperatureVsLatitudeScatterPlot.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure122HumidityVsLatitudeScatterPlot.png](./Images/WeatherPyFigure122HumidityVsLatitudeScatterPlot.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure123CloudinessVsLatitudeScatterPlot.png](./Images/WeatherPyFigure123CloudinessVsLatitudeScatterPlot.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure124WindSpeedvsLatitudeScatterPlot.png](./Images/WeatherPyFigure124WindSpeedvsLatitudeScatterPlot.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure131TemperaturevsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure131TemperaturevsLatitudeNorthernHemisphere.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure132TemperaturevsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure132TemperaturevsLatitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure133HumidityvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure133HumidityvsLatitudeNorthernHemisphere.png)
+  
+  &emsp; |&rarr; 
+[./Images/WeatherPyFigure134HumidityvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure134HumidityvsLatitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure135CloudinessvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure135CloudinessvsLatitudeNorthernHemisphere.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure136CloudinessvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure136CloudinessvsLatitudeSouthernHemisphere.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure137WindSpeedvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure137WindSpeedvsLatitudeNorthernHemisphere.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure138WindSpeedvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure138WindSpeedvsLatitudeSouthernHemisphere.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure1211TemperatureVsLatitudeScatterPlotwRegression.png](./Images/WeatherPyFigure1211TemperatureVsLatitudeScatterPlotwRegression.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyTable111CityWeatherInformation.png](./Images/WeatherPyTable111CityWeatherInformation.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyTable112CityWeatherInformation.png](./Images/WeatherPyTable112CityWeatherInformation.png)
+
+|&rarr; [./Logs/](./Logs/)
+
+  &emsp; |&rarr; [./Logs/README.md](./Logs/README.md)
+
+  &emsp; |&rarr; [./Logs/20230922VacationPyDebug.txt](./Logs/20230922VacationPyDebug.txt)
+
+  &emsp; |&rarr; [./Logs/20230922VacationPyLog.txt](./Logs/20230922VacationPyLog.txt)
+
+  &emsp; |&rarr; [./Logs/20230922WeatherPyDebug.txt](./Logs/20230922WeatherPyDebug.txt)
+
+  &emsp; |&rarr; [./Logs/20230922WeatherPyLog.txt](./Logs/20230922WeatherPyLog.txt)
+
+|&rarr; [./Resources/](./Resources/)
+
+  &emsp; |&rarr; [./Resources/CitiesWeather.csv](./Resources/CitiesWeather.csv)
+
+  &emsp; |&rarr; [./Resources/README.md](./Resources/README.md)
+
+----
+
+### **References:**
+
+----
+
+[Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/) \
+
+[Python Documentation](https://docs.python.org/3/contents.html) \
+
+[Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html) \
+
+----
+
+### **Authors and Acknowledgment:**
+
+----
+
+### Copyright
+
+N. James George © 2023. All Rights Reserved.
