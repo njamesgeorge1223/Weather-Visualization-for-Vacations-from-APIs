@@ -193,9 +193,9 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
 [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
 
-[Python Documentation](https://docs.python.org/3/contents.html)
-
 [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+
+[Python Documentation](https://docs.python.org/3/contents.html)
 
 ----
 
