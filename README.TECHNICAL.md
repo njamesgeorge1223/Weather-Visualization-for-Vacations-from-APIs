@@ -8,15 +8,13 @@
 
 If the computer has Anaconda, Jupyter Notebook, and a recent version of Python, the IPython notebook already has the following dependencies installed: datetime, io, json, matplotlib, numpy, pandas, pathlib, os, pandas, requests, requests_html, and scipy.
 
-In addition to those modules, the Jupyter Notebook requires the following to execute: holoviews, hvplot, panel, geoviews, geopy, aspose-words, dataframe-image, citypy.
+In addition to those modules, the Jupyter Notebook requires the following to execute: holoviews, hvplot, geoviews, geopy, aspose-words, dataframe-image, citypy.
 
 Here are the requisite Terminal commands for installation of these peripheral modules:
 
 python3 -m pip install holoviews
 
 python3 -m pip install hvplot
-
-python3 -m pip install panel
 
 python3 -m pip install geoviews
 
