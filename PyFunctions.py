@@ -78,7 +78,8 @@ import hvplot.pandas
 import numpy as np
 import pandas as pd
 
-from datetime import datetime, timedelta
+from datetime import timedelta
+from datetime import datetime as dt
 from pathlib import Path
 
 
@@ -2458,11 +2459,16 @@ def ReturnStylerObjectStandardFormatForSeries \
  #          dataTypeDictionary
  #                          This parameter is the Dictionary of the Worksheet's column data 
  #                          types.
+ #  Dictionary
+ #          converterTypeDictionary
+ #                          This parameter is the Dictionary of functions for converting
+ #                          worksheet values.
  #
  #
  #  Date                Description                                 Programmer
  #  ---------------     ------------------------------------        ------------------
- #  9/21/2023           Initial Development                         N. James George
+ #  09/21/2023          Initial Development                         N. James George
+ #  09/25/2023          Added Converter Dictionary parameter        N. James George
  #
  #******************************************************************************************/
 
@@ -2475,6 +2481,8 @@ def ReturnExcelFileAsDataFrame \
          indexColumnInteger \
             = None,
          dataTypeDictionary \
+            = None,
+         converterTypeDictionary \
             = None):
     
     try:
@@ -2491,7 +2499,9 @@ def ReturnExcelFileAsDataFrame \
                      index_col \
                         = indexColumnInteger,
                      dtype \
-                        = dataTypeDictionary) 
+                        = dataTypeDictionary,
+                     converters \
+                        = converterTypeDictionary) 
         
     except:
         
@@ -2500,7 +2510,7 @@ def ReturnExcelFileAsDataFrame \
                 (f'The function, ReturnExcelFileAsDataFrame, '
                  + f'in source file, {CONSTANT_LOCAL_FILE_NAME}, '
                  + f'was unable to return an Excel file as a DataFrame, '
-                 + f'{filePathStringParameter}.')
+                 + f'{filePathString}.')
     
         return \
             None
