@@ -52,7 +52,7 @@ WeatherPyConstants.py
 
 WeatherPyFunctions.py
 
-If the folders, Resources, Logs, and Images are not present, the IPython notebook will create them.  The Resources folder contains the output file from WeatherPy.ipynb, CitiesWeather.csv, which is the input file for VacationPy.ipynb; the Logs folder contains debug and log files from testing the IPython Notebooks; and the Images folder has the PNG image files of the IPython Notebooks' tables and plots.
+If the folders, Resources, Logs, and Images are not present, an IPython notebook will create them.  The Resources folder contains the output file from WeatherPy.ipynb, CitiesWeather.csv, which is the input file for VacationPy.ipynb; the Logs folder contains debug and log files from testing the IPython Notebooks; and the Images folder has the PNG image files of the IPython Notebooks' tables and plots.
 
 To place the IPython notebook in Log Mode, Debug Mode, or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. In Debug Mode, the program displays the debug information and writes it to a debug file in the Logs folder; the same is true in Log Mode for log information sent to a log file. If the program is in Log Mode but NOT Debug Mode, it displays no debug information, but writes that information to the log file. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG files in the Images Folder.
 
