@@ -1480,7 +1480,7 @@ def ConvertSeriesFromDateStringsToDateObjects \
         return \
              inputSeriesParameter \
                 .apply \
-                    (lambda x: datetime.strptime(x,'%Y-%m-%d').date())   
+                    (lambda x: dt.strptime(x,'%Y-%m-%d').date())   
         
     except:
         
@@ -2230,7 +2230,7 @@ def ReturnDateFromOneYearPriorAsString \
     try:
 
         mostRecentDateTimeObject \
-            = datetime \
+            = dt \
                 .strptime \
                     (currentDateStringParameter, 
                         '%Y-%m-%d')
@@ -2255,7 +2255,7 @@ def ReturnDateFromOneYearPriorAsString \
 
     
         return \
-            datetime \
+            dt \
                 .strftime \
                     (oneYearPriorToMostRecentDateTimeObject, 
                      '%Y-%m-%d') 
