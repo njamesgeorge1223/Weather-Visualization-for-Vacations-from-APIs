@@ -46,6 +46,7 @@
 >> ### **Display Wind Speed vs. Latitude (Northern Hemisphere)**
 >> ### **Display Wind Speed vs. Latitude (Southern Hemisphere)**
 
+
 ----
 
 ## Table of Contents (VacationPy.ipynb)
