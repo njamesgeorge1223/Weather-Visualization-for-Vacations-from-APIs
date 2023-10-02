@@ -45,3 +45,9 @@ WEATHER_DATA_FILE_PATH \
 WEATHER_DATA_FILE_INDEX_NAME \
     = 'City ID'
 
+weatherConditionsDictionary \
+    = {'temperatureIntegerList': [0, 120],
+       'humidityIntegerList': [0, 100],
+       'cloudinessIntegerList': [0, 100],
+       'windSpeedIntegerList': [0, 100]}
+

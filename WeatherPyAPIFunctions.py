@@ -303,15 +303,15 @@ def ReturnWeatherDataFrame \
                 (weatherDataForEachCityList)
 
 
-# In[4]:
+# In[5]:
 
 
 #*******************************************************************************************
  #
- #  Function Name:  ReturnUpdatedHotelLocationDataFrame
+ #  Function Name:  ReturnUpdatedLocationDataFrame
  #
  #  Function Description:
- #      This function takes a hotel location DataFrame, populated the hotel name column,
+ #      This function takes a ocation DataFrame, populates the location name column,
  #      and returns the updated DataFrame to the caller.
  #
  #
@@ -339,8 +339,9 @@ def ReturnWeatherDataFrame \
  #
  #******************************************************************************************/
 
-def ReturnUpdatedHotelLocationDataFrame \
+def ReturnUpdatedLocationDataFrame \
         (inputDataFrameParameter,
+         columnNameString,
          categoriesStringOrListParameter \
             ='accommodation.hotel',
          radiusIntegerParameter \
@@ -353,43 +354,50 @@ def ReturnUpdatedHotelLocationDataFrame \
     
     
     parameterDictionary \
-        = {'categories': 
-               categoriesStringOrListParameter,
-           'filter': 
-               '',
-           'bias':
-               '',
-           'limit': 
-               limitIntegerParameter,
-           'lang': 
-               'en',
-           'apiKey': 
-               geoapify_key}
+        = {'categories': categoriesStringOrListParameter,
+           'filter': '',
+           'bias': '',
+           'limit': limitIntegerParameter,
+           'lang': 'en',
+           'apiKey': geoapify_key}
 
+    if categoriesStringOrListParameter == 'accommodation.hotel':
+        
+        categoryNameString = 'hotel'
+    
+    elif categoriesStringOrListParameter == 'catering.restaurant':
+        
+        categoryNameString = 'restaurant'
+        
+    elif categoriesStringOrListParameter == 'tourism.attraction':
+        
+        categoryNameString = 'tourism attraction'
+        
+    else:
+        
+        return \
+            inputDataFrame
+        
     
     log_subroutine \
         .PrintAndLogWriteText \
-            ('Starting hotel search...\n\n')
+            (f'Starting {categoryNameString} search...\n\n')
 
              
-    citiesWithHotelsListOfStrings \
+    citiesStringList \
         = []
 
-    hotelNameList \
+    locationNameStringList \
         = []
 
 
     for index, row in inputDataFrame.iterrows():
 
         latitudeStringVariable \
-            = inputDataFrame \
-                 ['Latitude'] \
-                     [index]
+            = inputDataFrame['Latitude'][index]
     
         longitudeStringVariable \
-            = inputDataFrame \
-                 ['Longitude'] \
-                     [index]
+            = inputDataFrame['Longitude'][index]
 
     
         parameterDictionary \
@@ -408,34 +416,31 @@ def ReturnUpdatedHotelLocationDataFrame \
         responseObject \
             = requests \
                  .get \
-                     (url \
-                          = urlStringVariable,
-                      params \
-                          = parameterDictionary) \
+                     (url = urlStringVariable,
+                      params = parameterDictionary) \
                  .json()
+
 
         if len( responseObject['features'] ) == 0:
         
             continue
         
         
-        for hotelIndex, hotel in enumerate( responseObject['features'] ):
+        for locationIndex, location in enumerate( responseObject['features'] ):
         
             try:
                 
-                hotelNameStringVariable \
-                    = hotel \
-                        ['properties'] \
-                            ['name']
-             
-                hotelNameList \
+                locationNameString \
+                    = location['properties']['name']
+
+                locationNameStringList \
                     .append \
-                        (hotelNameStringVariable)
+                        (locationNameString)
                 
                 log_subroutine \
                     .PrintAndLogWriteText \
-                        ('Located the following hotel...' \
-                         + f'{hotelNameStringVariable} ' \
+                        (f'Located the following {categoryNameString}...' \
+                         + f'{locationNameString} ' \
                          + f"in {inputDataFrame['City'][index]}, " \
                          + f"{inputDataFrame['Country'][index]}\n\n")
 
@@ -446,37 +451,34 @@ def ReturnUpdatedHotelLocationDataFrame \
                 continue
         
         
-        citiesWithHotelsListOfStrings.append(row['City'])
+        citiesStringList.append(row['City'])
 
 
-    tempHotelDataFrame \
+    tempDataFrame \
         = function \
             .ReturnDataFrameRowsWithValue \
                     (inputDataFrame,
                      'City',
-                     citiesWithHotelsListOfStrings)
+                     citiesStringList)
 
-    tempHotelDataFrame \
+    tempDataFrame \
         .reset_index \
-            (drop \
-                = True, 
-             inplace \
-                = True)
+            (drop = True, 
+             inplace = True)
              
-    tempHotelDataFrame \
-        ['Hotel Name'] \
-            = pd \
-                 .Series \
-                     (hotelNameList)
+    tempDataFrame \
+        [columnNameString] \
+            = pd.Series \
+                (locationNameStringList)
     
     
     log_subroutine \
         .PrintAndLogWriteText \
-            ('Hotel search complete\n\n')
+            (f'{categoryNameString} search complete\n\n')
             
              
     return \
-        tempHotelDataFrame
+        tempDataFrame
 
 
 # In[ ]:
