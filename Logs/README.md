@@ -1,4 +1,4 @@
-This folder holds the log and debug files for the IPython notebooks, WeatherPy.ipynb and VacationPy.ipynb: the IPython Notebooks generate the files in Debug and Log Modes, respectively (see README.TECHNICAL.md).
+This folder holds the log and debug files for the IPython notebooks, WeatherPy.ipynb and VacationPy.ipynb: the IPython Notebooks generate the files in Debug and Log Modes, respectively (see [README.TECHNICAL.md](./README.TECHNICAL.md)).
 
 ----
 
