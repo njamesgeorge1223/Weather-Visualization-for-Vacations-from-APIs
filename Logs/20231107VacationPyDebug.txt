@@ -1,0 +1,513 @@
+
+Timepoint: 11/07/2023 18:58:58
+Program execution begins...
+
+
+
+
+                      City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                  
+0                 tazovsky   67.4667    78.7000        26.73        96   
+1                  udachny   66.4167   112.4000        -7.51       100   
+2              kapuskasing   49.4169   -82.4331        17.60        93   
+3        port-aux-francais  -49.3500    70.2167        39.65        86   
+4                  college   64.8569  -147.8028        13.48        89   
+...                    ...       ...        ...          ...       ...   
+573                   faro   37.0194    -7.9322        53.42        87   
+574           altentreptow   53.6833    13.2500        47.59        79   
+575               sabzevar   36.2126    57.6819        56.05        63   
+576         augusto correa   -1.0217   -46.6350        78.51        81   
+577                decorah   43.3033   -91.7857        47.32        71   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0               100       12.35      RU  2023-11-07 18:55:25  
+1                84        3.24      RU  2023-11-07 18:55:25  
+2                 0        5.75      CA  2023-11-07 18:55:26  
+3                76       29.84      TF  2023-11-07 18:55:26  
+4                40        3.44      US  2023-11-07 18:55:27  
+...             ...         ...     ...                  ...  
+573               0        2.30      PT  2023-11-07 18:58:28  
+574             100       13.44      DE  2023-11-07 18:58:28  
+575              91        3.27      IR  2023-11-07 18:58:28  
+576              74        4.41      BR  2023-11-07 18:58:29  
+577               0       10.36      US  2023-11-07 18:57:08  
+
+[578 rows x 9 columns]
+
+
+
+                           City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                       
+20       hawaiian paradise park   19.5933  -154.9731        80.71        62   
+222                        hilo   19.7297  -155.0900        82.54        61   
+309                       aswan   24.0934    32.9070        81.70        47   
+335                        tezu   27.9167    96.1667        72.93        41   
+336                     yanchep  -31.5500   115.6833        78.46        37   
+349                        duba   27.3513    35.6901        84.15        38   
+354                     mafinga   -7.2500    35.0667        72.61        64   
+451                    kuraymah   18.5500    31.8500        76.55        59   
+506                   geraldton  -28.7667   114.6000        74.34        53   
+543                     astorga  -23.2325   -51.6656        77.23        60   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+20                0        3.44      US  2023-11-07 18:55:32  
+222               0        5.99      US  2023-11-07 18:56:02  
+309               0        3.44      EG  2023-11-07 18:57:04  
+335               0        0.87      IN  2023-11-07 18:57:13  
+336               6        3.91      AU  2023-11-07 18:57:13  
+349               0        5.08      SA  2023-11-07 18:57:17  
+354               4        3.78      TZ  2023-11-07 18:56:34  
+451               0        8.95      SD  2023-11-07 18:57:50  
+506               6        5.10      AU  2023-11-07 18:58:06  
+543               0        9.80      BR  2023-11-07 18:58:18  
+
+
+
+                     City  Latitude  Longitude  Temperature  Humidity  \
+0  hawaiian paradise park   19.5933  -154.9731        80.71        62   
+1                    hilo   19.7297  -155.0900        82.54        61   
+2                   aswan   24.0934    32.9070        81.70        47   
+3                    tezu   27.9167    96.1667        72.93        41   
+4                 yanchep  -31.5500   115.6833        78.46        37   
+5                    duba   27.3513    35.6901        84.15        38   
+6                 mafinga   -7.2500    35.0667        72.61        64   
+7                kuraymah   18.5500    31.8500        76.55        59   
+8               geraldton  -28.7667   114.6000        74.34        53   
+9                 astorga  -23.2325   -51.6656        77.23        60   
+
+   Cloudiness  Wind Speed Country            Date/Time  
+0           0        3.44      US  2023-11-07 18:55:32  
+1           0        5.99      US  2023-11-07 18:56:02  
+2           0        3.44      EG  2023-11-07 18:57:04  
+3           0        0.87      IN  2023-11-07 18:57:13  
+4           6        3.91      AU  2023-11-07 18:57:13  
+5           0        5.08      SA  2023-11-07 18:57:17  
+6           4        3.78      TZ  2023-11-07 18:56:34  
+7           0        8.95      SD  2023-11-07 18:57:50  
+8           6        5.10      AU  2023-11-07 18:58:06  
+9           0        9.80      BR  2023-11-07 18:58:18  
+
+
+
+                     City  Latitude  Longitude  Temperature  Humidity  \
+0  hawaiian paradise park   19.5933  -154.9731        80.71        62   
+1                    hilo   19.7297  -155.0900        82.54        61   
+2                   aswan   24.0934    32.9070        81.70        47   
+3                    tezu   27.9167    96.1667        72.93        41   
+4                 yanchep  -31.5500   115.6833        78.46        37   
+5                    duba   27.3513    35.6901        84.15        38   
+6                 mafinga   -7.2500    35.0667        72.61        64   
+7                kuraymah   18.5500    31.8500        76.55        59   
+8               geraldton  -28.7667   114.6000        74.34        53   
+9                 astorga  -23.2325   -51.6656        77.23        60   
+
+   Cloudiness  Wind Speed Country            Date/Time Hotel Name  
+0           0        3.44      US  2023-11-07 18:55:32        NaN  
+1           0        5.99      US  2023-11-07 18:56:02        NaN  
+2           0        3.44      EG  2023-11-07 18:57:04        NaN  
+3           0        0.87      IN  2023-11-07 18:57:13        NaN  
+4           6        3.91      AU  2023-11-07 18:57:13        NaN  
+5           0        5.08      SA  2023-11-07 18:57:17        NaN  
+6           4        3.78      TZ  2023-11-07 18:56:34        NaN  
+7           0        8.95      SD  2023-11-07 18:57:50        NaN  
+8           6        5.10      AU  2023-11-07 18:58:06        NaN  
+9           0        9.80      BR  2023-11-07 18:58:18        NaN  
+
+
+
+        City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0       hilo   19.7297  -155.0900        82.54        61           0   
+1      aswan   24.0934    32.9070        81.70        47           0   
+2    yanchep  -31.5500   115.6833        78.46        37           6   
+3   kuraymah   18.5500    31.8500        76.55        59           0   
+4  geraldton  -28.7667   114.6000        74.34        53           6   
+
+   Wind Speed Country            Date/Time          Hotel Name  
+0        5.99      US  2023-11-07 18:56:02   Dolphin Bay Hotel  
+1        3.44      EG  2023-11-07 18:57:04        Yaseen hotel  
+2        3.91      AU  2023-11-07 18:57:13         Yanchep Inn  
+3        8.95      SD  2023-11-07 18:57:50     Hotel al Nasser  
+4        5.10      AU  2023-11-07 18:58:06  Ocean Centre Hotel  
+
+
+
+        City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0       hilo   19.7297  -155.0900        82.54        61           0   
+1      aswan   24.0934    32.9070        81.70        47           0   
+2    yanchep  -31.5500   115.6833        78.46        37           6   
+3   kuraymah   18.5500    31.8500        76.55        59           0   
+4  geraldton  -28.7667   114.6000        74.34        53           6   
+
+   Wind Speed Country            Date/Time          Hotel Name Restaurant Name  
+0        5.99      US  2023-11-07 18:56:02   Dolphin Bay Hotel             NaN  
+1        3.44      EG  2023-11-07 18:57:04        Yaseen hotel             NaN  
+2        3.91      AU  2023-11-07 18:57:13         Yanchep Inn             NaN  
+3        8.95      SD  2023-11-07 18:57:50     Hotel al Nasser             NaN  
+4        5.10      AU  2023-11-07 18:58:06  Ocean Centre Hotel             NaN  
+
+
+
+        City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0       hilo   19.7297  -155.0900        82.54        61           0   
+1      aswan   24.0934    32.9070        81.70        47           0   
+2    yanchep  -31.5500   115.6833        78.46        37           6   
+3   kuraymah   18.5500    31.8500        76.55        59           0   
+4  geraldton  -28.7667   114.6000        74.34        53           6   
+
+   Wind Speed Country            Date/Time          Hotel Name  \
+0        5.99      US  2023-11-07 18:56:02   Dolphin Bay Hotel   
+1        3.44      EG  2023-11-07 18:57:04        Yaseen hotel   
+2        3.91      AU  2023-11-07 18:57:13         Yanchep Inn   
+3        8.95      SD  2023-11-07 18:57:50     Hotel al Nasser   
+4        5.10      AU  2023-11-07 18:58:06  Ocean Centre Hotel   
+
+             Restaurant Name  
+0      Mohala’s Fish & Chips  
+1                Chef Kahlil  
+2              Yanchep Pizza  
+3  Rahma Restaurant - Marawi  
+4                 L‘Italiano  
+
+
+
+        City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0       hilo   19.7297  -155.0900        82.54        61           0   
+1      aswan   24.0934    32.9070        81.70        47           0   
+2    yanchep  -31.5500   115.6833        78.46        37           6   
+3   kuraymah   18.5500    31.8500        76.55        59           0   
+4  geraldton  -28.7667   114.6000        74.34        53           6   
+
+   Wind Speed Country            Date/Time          Hotel Name  \
+0        5.99      US  2023-11-07 18:56:02   Dolphin Bay Hotel   
+1        3.44      EG  2023-11-07 18:57:04        Yaseen hotel   
+2        3.91      AU  2023-11-07 18:57:13         Yanchep Inn   
+3        8.95      SD  2023-11-07 18:57:50     Hotel al Nasser   
+4        5.10      AU  2023-11-07 18:58:06  Ocean Centre Hotel   
+
+             Restaurant Name Tourism Attraction  
+0      Mohala’s Fish & Chips                NaN  
+1                Chef Kahlil                NaN  
+2              Yanchep Pizza                NaN  
+3  Rahma Restaurant - Marawi                NaN  
+4                 L‘Italiano                NaN  
+
+
+
+        City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0       hilo   19.7297  -155.0900        82.54        61           0   
+1      aswan   24.0934    32.9070        81.70        47           0   
+2    yanchep  -31.5500   115.6833        78.46        37           6   
+3   kuraymah   18.5500    31.8500        76.55        59           0   
+4  geraldton  -28.7667   114.6000        74.34        53           6   
+
+   Wind Speed Country            Date/Time          Hotel Name  \
+0        5.99      US  2023-11-07 18:56:02   Dolphin Bay Hotel   
+1        3.44      EG  2023-11-07 18:57:04        Yaseen hotel   
+2        3.91      AU  2023-11-07 18:57:13         Yanchep Inn   
+3        8.95      SD  2023-11-07 18:57:50     Hotel al Nasser   
+4        5.10      AU  2023-11-07 18:58:06  Ocean Centre Hotel   
+
+             Restaurant Name         Tourism Attraction  
+0      Mohala’s Fish & Chips  Kathmandu Trading Company  
+1                Chef Kahlil             شارع سعد زغلول  
+2              Yanchep Pizza             Wetlands Trail  
+3  Rahma Restaurant - Marawi             منزل علي العطا  
+4                 L‘Italiano                  Esplanade  
+
+
+Timepoint: 11/07/2023 19:05:22
+Program execution begins...
+
+
+
+
+               City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+City ID                                                                       
+0          qaqortoq   60.7167   -46.0333        35.31        59         100   
+1        porto novo    6.4965     2.6036        78.31        87          92   
+2         adamstown  -25.0660  -130.1015        72.88        86         100   
+3             hotan   37.0997    79.9269        45.54        22          37   
+4            bethel   41.3712   -73.4140        53.80        61           0   
+...             ...       ...        ...          ...       ...         ...   
+576        nhamunda   -2.1861   -56.7131        76.82        93         100   
+577           minot   48.2325  -101.2963        39.42        93           0   
+578        cabedelo   -6.9811   -34.8339        77.67        82           7   
+579         matinha   -3.1006   -45.0336        76.03        84         100   
+580           ravar   31.2656    56.8055        59.65        50           0   
+
+         Wind Speed Country            Date/Time  
+City ID                                           
+0              2.93      GL  2023-11-07 19:00:13  
+1              3.96      BJ  2023-11-07 19:00:14  
+2             19.35      PN  2023-11-07 18:55:29  
+3              4.56      CN  2023-11-07 19:00:17  
+4              6.91      US  2023-11-07 18:55:46  
+...             ...     ...                  ...  
+576            2.62      BR  2023-11-07 19:04:34  
+577            4.61      US  2023-11-07 19:00:07  
+578            6.20      BR  2023-11-07 19:00:58  
+579            3.38      BR  2023-11-07 19:04:36  
+580            3.38      IR  2023-11-07 19:04:36  
+
+[581 rows x 9 columns]
+
+
+
+                        City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                    
+18                 geraldton  -28.7667   114.6000        74.34        53   
+110             stephenville   32.2207   -98.2023        74.39        64   
+240             raghunathpur   23.5500    86.6667        71.31        49   
+243      presidente epitacio  -21.7633   -52.1156        77.47        47   
+263             port hedland  -20.3167   118.5667        91.45        55   
+290               costa rica  -23.4167   -54.6500        71.91        57   
+313                 el bauga   18.2620    33.9081        76.71        64   
+316           sawai madhopur   25.9833    76.3667        70.90        39   
+321                   ormara   25.2088    64.6357        77.97        52   
+331                   araria   26.1500    87.5167        71.58        63   
+455          masjed soleyman   31.9364    49.3039        70.77        40   
+495                myitkyina   25.3833    97.4000        71.78        54   
+542                andalgala  -27.5819   -66.3165        72.91        38   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+18                6        5.10      AU  2023-11-07 18:58:06  
+110               0        8.05      US  2023-11-07 19:00:28  
+240               2        4.38      IN  2023-11-07 19:01:59  
+243               0        8.03      BR  2023-11-07 19:02:00  
+263              10        8.05      AU  2023-11-07 18:58:03  
+290               4        7.74      BR  2023-11-07 19:02:21  
+313               0        8.23      SD  2023-11-07 19:02:31  
+316               5        5.35      IN  2023-11-07 19:02:32  
+321               4        3.58      PK  2023-11-07 19:02:35  
+331               0        2.80      IN  2023-11-07 19:02:40  
+455               0        1.90      IR  2023-11-07 19:03:40  
+495               1        2.10      MM  2023-11-07 19:03:56  
+542               2        4.72      AR  2023-11-07 19:04:18  
+
+
+
+                   City  Latitude  Longitude  Temperature  Humidity  \
+0             geraldton  -28.7667   114.6000        74.34        53   
+1          stephenville   32.2207   -98.2023        74.39        64   
+2          raghunathpur   23.5500    86.6667        71.31        49   
+3   presidente epitacio  -21.7633   -52.1156        77.47        47   
+4          port hedland  -20.3167   118.5667        91.45        55   
+5            costa rica  -23.4167   -54.6500        71.91        57   
+6              el bauga   18.2620    33.9081        76.71        64   
+7        sawai madhopur   25.9833    76.3667        70.90        39   
+8                ormara   25.2088    64.6357        77.97        52   
+9                araria   26.1500    87.5167        71.58        63   
+10      masjed soleyman   31.9364    49.3039        70.77        40   
+11            myitkyina   25.3833    97.4000        71.78        54   
+12            andalgala  -27.5819   -66.3165        72.91        38   
+
+    Cloudiness  Wind Speed Country            Date/Time  
+0            6        5.10      AU  2023-11-07 18:58:06  
+1            0        8.05      US  2023-11-07 19:00:28  
+2            2        4.38      IN  2023-11-07 19:01:59  
+3            0        8.03      BR  2023-11-07 19:02:00  
+4           10        8.05      AU  2023-11-07 18:58:03  
+5            4        7.74      BR  2023-11-07 19:02:21  
+6            0        8.23      SD  2023-11-07 19:02:31  
+7            5        5.35      IN  2023-11-07 19:02:32  
+8            4        3.58      PK  2023-11-07 19:02:35  
+9            0        2.80      IN  2023-11-07 19:02:40  
+10           0        1.90      IR  2023-11-07 19:03:40  
+11           1        2.10      MM  2023-11-07 19:03:56  
+12           2        4.72      AR  2023-11-07 19:04:18  
+
+
+
+                   City  Latitude  Longitude  Temperature  Humidity  \
+0             geraldton  -28.7667   114.6000        74.34        53   
+1          stephenville   32.2207   -98.2023        74.39        64   
+2          raghunathpur   23.5500    86.6667        71.31        49   
+3   presidente epitacio  -21.7633   -52.1156        77.47        47   
+4          port hedland  -20.3167   118.5667        91.45        55   
+5            costa rica  -23.4167   -54.6500        71.91        57   
+6              el bauga   18.2620    33.9081        76.71        64   
+7        sawai madhopur   25.9833    76.3667        70.90        39   
+8                ormara   25.2088    64.6357        77.97        52   
+9                araria   26.1500    87.5167        71.58        63   
+10      masjed soleyman   31.9364    49.3039        70.77        40   
+11            myitkyina   25.3833    97.4000        71.78        54   
+12            andalgala  -27.5819   -66.3165        72.91        38   
+
+    Cloudiness  Wind Speed Country            Date/Time Hotel Name  
+0            6        5.10      AU  2023-11-07 18:58:06        NaN  
+1            0        8.05      US  2023-11-07 19:00:28        NaN  
+2            2        4.38      IN  2023-11-07 19:01:59        NaN  
+3            0        8.03      BR  2023-11-07 19:02:00        NaN  
+4           10        8.05      AU  2023-11-07 18:58:03        NaN  
+5            4        7.74      BR  2023-11-07 19:02:21        NaN  
+6            0        8.23      SD  2023-11-07 19:02:31        NaN  
+7            5        5.35      IN  2023-11-07 19:02:32        NaN  
+8            4        3.58      PK  2023-11-07 19:02:35        NaN  
+9            0        2.80      IN  2023-11-07 19:02:40        NaN  
+10           0        1.90      IR  2023-11-07 19:03:40        NaN  
+11           1        2.10      MM  2023-11-07 19:03:56        NaN  
+12           2        4.72      AR  2023-11-07 19:04:18        NaN  
+
+
+
+                  City  Latitude  Longitude  Temperature  Humidity  \
+0            geraldton  -28.7667   114.6000        74.34        53   
+1         stephenville   32.2207   -98.2023        74.39        64   
+2  presidente epitacio  -21.7633   -52.1156        77.47        47   
+3         port hedland  -20.3167   118.5667        91.45        55   
+4       sawai madhopur   25.9833    76.3667        70.90        39   
+5               araria   26.1500    87.5167        71.58        63   
+6      masjed soleyman   31.9364    49.3039        70.77        40   
+7            myitkyina   25.3833    97.4000        71.78        54   
+8            andalgala  -27.5819   -66.3165        72.91        38   
+
+   Cloudiness  Wind Speed Country            Date/Time  \
+0           6        5.10      AU  2023-11-07 18:58:06   
+1           0        8.05      US  2023-11-07 19:00:28   
+2           0        8.03      BR  2023-11-07 19:02:00   
+3          10        8.05      AU  2023-11-07 18:58:03   
+4           5        5.35      IN  2023-11-07 19:02:32   
+5           0        2.80      IN  2023-11-07 19:02:40   
+6           0        1.90      IR  2023-11-07 19:03:40   
+7           1        2.10      MM  2023-11-07 19:03:56   
+8           2        4.72      AR  2023-11-07 19:04:18   
+
+                 Hotel Name  
+0        Ocean Centre Hotel  
+1         Tri-L-Lodging.com  
+2       Pousada Orla do Sol  
+3       The Esplanade Hotel  
+4  Ranthambore Tiger Valley  
+5                  SHALIMAR  
+6              هتل جهانگردی  
+7           New Light Hotel  
+8       Residencial Ayucaba  
+
+
+
+                  City  Latitude  Longitude  Temperature  Humidity  \
+0            geraldton  -28.7667   114.6000        74.34        53   
+1         stephenville   32.2207   -98.2023        74.39        64   
+2  presidente epitacio  -21.7633   -52.1156        77.47        47   
+3         port hedland  -20.3167   118.5667        91.45        55   
+4       sawai madhopur   25.9833    76.3667        70.90        39   
+5               araria   26.1500    87.5167        71.58        63   
+6      masjed soleyman   31.9364    49.3039        70.77        40   
+7            myitkyina   25.3833    97.4000        71.78        54   
+8            andalgala  -27.5819   -66.3165        72.91        38   
+
+   Cloudiness  Wind Speed Country            Date/Time  \
+0           6        5.10      AU  2023-11-07 18:58:06   
+1           0        8.05      US  2023-11-07 19:00:28   
+2           0        8.03      BR  2023-11-07 19:02:00   
+3          10        8.05      AU  2023-11-07 18:58:03   
+4           5        5.35      IN  2023-11-07 19:02:32   
+5           0        2.80      IN  2023-11-07 19:02:40   
+6           0        1.90      IR  2023-11-07 19:03:40   
+7           1        2.10      MM  2023-11-07 19:03:56   
+8           2        4.72      AR  2023-11-07 19:04:18   
+
+                 Hotel Name Restaurant Name  
+0        Ocean Centre Hotel             NaN  
+1         Tri-L-Lodging.com             NaN  
+2       Pousada Orla do Sol             NaN  
+3       The Esplanade Hotel             NaN  
+4  Ranthambore Tiger Valley             NaN  
+5                  SHALIMAR             NaN  
+6              هتل جهانگردی             NaN  
+7           New Light Hotel             NaN  
+8       Residencial Ayucaba             NaN  
+
+
+
+                  City  Latitude  Longitude  Temperature  Humidity  \
+0            geraldton  -28.7667   114.6000        74.34        53   
+1         stephenville   32.2207   -98.2023        74.39        64   
+2  presidente epitacio  -21.7633   -52.1156        77.47        47   
+3       sawai madhopur   25.9833    76.3667        70.90        39   
+4               araria   26.1500    87.5167        71.58        63   
+5      masjed soleyman   31.9364    49.3039        70.77        40   
+6            myitkyina   25.3833    97.4000        71.78        54   
+
+   Cloudiness  Wind Speed Country            Date/Time  \
+0           6        5.10      AU  2023-11-07 18:58:06   
+1           0        8.05      US  2023-11-07 19:00:28   
+2           0        8.03      BR  2023-11-07 19:02:00   
+3           5        5.35      IN  2023-11-07 19:02:32   
+4           0        2.80      IN  2023-11-07 19:02:40   
+5           0        1.90      IR  2023-11-07 19:03:40   
+6           1        2.10      MM  2023-11-07 19:03:56   
+
+                 Hotel Name                       Restaurant Name  
+0        Ocean Centre Hotel                            L‘Italiano  
+1         Tri-L-Lodging.com                                Greers  
+2       Pousada Orla do Sol             Restaurante Osvaldo Yberê  
+3  Ranthambore Tiger Valley  VYANJAN THE FAMILY CAFE & RESTAURANT  
+4                  SHALIMAR                    Rukmini restaurant  
+5              هتل جهانگردی                            کبابی بشیر  
+6           New Light Hotel                     Orient Restaurant  
+
+
+
+                  City  Latitude  Longitude  Temperature  Humidity  \
+0            geraldton  -28.7667   114.6000        74.34        53   
+1         stephenville   32.2207   -98.2023        74.39        64   
+2  presidente epitacio  -21.7633   -52.1156        77.47        47   
+3       sawai madhopur   25.9833    76.3667        70.90        39   
+4               araria   26.1500    87.5167        71.58        63   
+5      masjed soleyman   31.9364    49.3039        70.77        40   
+6            myitkyina   25.3833    97.4000        71.78        54   
+
+   Cloudiness  Wind Speed Country            Date/Time  \
+0           6        5.10      AU  2023-11-07 18:58:06   
+1           0        8.05      US  2023-11-07 19:00:28   
+2           0        8.03      BR  2023-11-07 19:02:00   
+3           5        5.35      IN  2023-11-07 19:02:32   
+4           0        2.80      IN  2023-11-07 19:02:40   
+5           0        1.90      IR  2023-11-07 19:03:40   
+6           1        2.10      MM  2023-11-07 19:03:56   
+
+                 Hotel Name                       Restaurant Name  \
+0        Ocean Centre Hotel                            L‘Italiano   
+1         Tri-L-Lodging.com                                Greers   
+2       Pousada Orla do Sol             Restaurante Osvaldo Yberê   
+3  Ranthambore Tiger Valley  VYANJAN THE FAMILY CAFE & RESTAURANT   
+4                  SHALIMAR                    Rukmini restaurant   
+5              هتل جهانگردی                            کبابی بشیر   
+6           New Light Hotel                     Orient Restaurant   
+
+  Tourism Attraction  
+0                NaN  
+1                NaN  
+2                NaN  
+3                NaN  
+4                NaN  
+5                NaN  
+6                NaN  
+
+
+
+                  City  Latitude  Longitude  Temperature  Humidity  \
+0            geraldton  -28.7667   114.6000        74.34        53   
+1         stephenville   32.2207   -98.2023        74.39        64   
+2  presidente epitacio  -21.7633   -52.1156        77.47        47   
+3      masjed soleyman   31.9364    49.3039        70.77        40   
+4            myitkyina   25.3833    97.4000        71.78        54   
+
+   Cloudiness  Wind Speed Country            Date/Time           Hotel Name  \
+0           6        5.10      AU  2023-11-07 18:58:06   Ocean Centre Hotel   
+1           0        8.05      US  2023-11-07 19:00:28    Tri-L-Lodging.com   
+2           0        8.03      BR  2023-11-07 19:02:00  Pousada Orla do Sol   
+3           0        1.90      IR  2023-11-07 19:03:40         هتل جهانگردی   
+4           1        2.10      MM  2023-11-07 19:03:56      New Light Hotel   
+
+             Restaurant Name         Tourism Attraction  
+0                 L‘Italiano                  Esplanade  
+1                     Greers  John Tarleton Ranch House  
+2  Restaurante Osvaldo Yberê                       Pier  
+3                 کبابی بشیر    میدان جانباز (بانک ملی)  
+4          Orient Restaurant        Night Market Street  
+
