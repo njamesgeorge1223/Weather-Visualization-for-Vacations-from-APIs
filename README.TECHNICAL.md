@@ -148,9 +148,9 @@ Jupyter Notebook, Pandas, Python 3.11.4
   
   &emsp; |&rarr; [./Images/VacationPyTable53TourismAttractionLocations.png](./Images/VacationPyTable53TourismAttractionLocations.png)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure15CityWeatherLocations.png](./Images/WeatherPyFigure15CityWeatherLocations.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure15CityWeatherLocations.html](./Images/WeatherPyFigure15CityWeatherLocations.html)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure19ImportedCityWeatherLocations.png](./Images/WeatherPyFigure19ImportedCityWeatherLocations.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure19ImportedCityWeatherLocations.html](./Images/WeatherPyFigure19ImportedCityWeatherLocations.html)
 
   &emsp; |&rarr; [./Images/WeatherPyFigure22HumidityVsLatitudeScatterPlot.png](./Images/WeatherPyFigure22HumidityVsLatitudeScatterPlot.png)
   
@@ -167,21 +167,41 @@ Jupyter Notebook, Pandas, Python 3.11.4
   
   &emsp; |&rarr; [./Images/WeatherPyFigure34CityWeatherLocationsWesternHemisphere.html](./Images/WeatherPyFigure34CityWeatherLocationsWesternHemisphere.html)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure331TemperaturevsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure331TemperaturevsLatitudeNorthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure211TemperatureVsLatitudeScatterPlot.png](./Images/WeatherPyFigure211TemperatureVsLatitudeScatterPlot.png)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure332TemperaturevsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure332TemperaturevsLatitudeSouthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure212TemperatureVsLatitudeScatterPlotwRegression.png](./Images/WeatherPyFigure212TemperatureVsLatitudeScatterPlotwRegression.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure341HumidityvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure341HumidityvsLatitudeNorthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure411TemperaturevsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure411TemperaturevsLatitudeNorthernHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure342HumidityvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure342HumidityvsLatitudeSouthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure412TemperaturevsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure412TemperaturevsLatitudeSouthernHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure351CloudinessvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure351CloudinessvsLatitudeNorthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure413TemperaturevsLatitudeEasternHemisphere.png](./Images/WeatherPyFigure413TemperaturevsLatitudeEasternHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure352CloudinessvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure352CloudinessvsLatitudeSouthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure414TemperaturevsLatitudeWesternHemisphere.png](./Images/WeatherPyFigure414TemperaturevsLatitudeWesternHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure361WindSpeedvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure361WindSpeedvsLatitudeNorthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure422HumidityvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure422HumidityvsLatitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure423HumidityvsLatitudeEasternHemisphere.png](./Images/WeatherPyFigure423HumidityvsLatitudeEasternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure424HumidityvsLatitudeWesternHemisphere.png](./Images/WeatherPyFigure424HumidityvsLatitudeWesternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure431CloudinessvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure431CloudinessvsLatitudeNorthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure432CloudinessvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure432CloudinessvsLatitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure433CloudinessvsLatitudeEasternHemisphere.png](./Images/WeatherPyFigure433CloudinessvsLatitudeEasternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure434CloudinessvsLatitudeWesternHemisphere.png](./Images/WeatherPyFigure434CloudinessvsLatitudeWesternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure441WindSpeedvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure441WindSpeedvsLatitudeNorthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure442WindSpeedvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure442WindSpeedvsLatitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure443WindSpeedvsLatitudeEasternHemisphere.png](./Images/WeatherPyFigure443WindSpeedvsLatitudeEasternHemisphere.png)
 
   &emsp; |&rarr; [./Images/WeatherPyFigure362WindSpeedvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure362WindSpeedvsLatitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure444WindSpeedvsLatitudeEasternHemisphere.png](./Images/WeatherPyFigure444WindSpeedvsLatitudeEasternHemisphere.png)
 
   &emsp; |&rarr; [./Images/WeatherPyTable14CityWeatherInformation.png](./Images/WeatherPyTable14CityWeatherInformation.png)
 
