@@ -128,15 +128,15 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
   &emsp; |&rarr; [./Images/README.md](./Images/README.md)
 
-  &emsp; |&rarr; [./Images/VacationPyFigure13CityWeatherLocations.png](./Images/VacationPyFigure13CityWeatherLocations.png)
+  &emsp; |&rarr; [./Images/VacationPyFigure13CityWeatherLocations.html](./Images/VacationPyFigure13CityWeatherLocations.html)
   
-  &emsp; |&rarr; [./Images/VacationPyFigure24VacationLocations.png](./Images/VacationPyFigure24VacationLocations.png)
+  &emsp; |&rarr; [./Images/VacationPyFigure24VacationLocations.html](./Images/VacationPyFigure24VacationLocations.html)
   
-  &emsp; |&rarr; [./Images/VacationPyFigure34HotelLocations.png](./Images/VacationPyFigure34HotelLocations.png)
+  &emsp; |&rarr; [./Images/VacationPyFigure34HotelLocations.html](./Images/VacationPyFigure34HotelLocations.html)
   
-  &emsp; |&rarr; [./Images/VacationPyFigure44RestaurantLocations.png](./Images/VacationPyFigure44RestaurantLocations.png)
+  &emsp; |&rarr; [./Images/VacationPyFigure44RestaurantLocations.html](./Images/VacationPyFigure44RestaurantLocations.html)
   
-  &emsp; |&rarr; [./Images/VacationPyFigure54TourismAttractionLocations.png](./Images/VacationPyFigure54TourismAttractionLocations.png)
+  &emsp; |&rarr; [./Images/VacationPyFigure54TourismAttractionLocations.html](./Images/VacationPyFigure54TourismAttractionLocations.html)
   
   &emsp; |&rarr; [./Images/VacationPyTable12CityWeatherInformation.png](./Images/VacationPyTable12CityWeatherInformation.png)
   
@@ -152,12 +152,14 @@ Jupyter Notebook, Pandas, Python 3.11.4
   
   &emsp; |&rarr; [./Images/WeatherPyFigure19ImportedCityWeatherLocations.html](./Images/WeatherPyFigure19ImportedCityWeatherLocations.html)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure22HumidityVsLatitudeScatterPlot.png](./Images/WeatherPyFigure22HumidityVsLatitudeScatterPlot.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure21TemperatureVsLatitudeScatterPlotwRegression.png](./Images/WeatherPyFigure21TemperatureVsLatitudeScatterPlotwRegression.png)
   
   &emsp; |&rarr; 
-[./Images/WeatherPyFigure23CloudinessVsLatitudeScatterPlot.png](./Images/WeatherPyFigure23CloudinessVsLatitudeScatterPlot.png)
+[./Images/WeatherPyFigure22HumidityVsLatitudeScatterPlotwRegression.png](./Images/WeatherPyFigure22HumidityVsLatitudeScatterPlotwRegression.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure24WindSpeedvsLatitudeScatterPlot.png](./Images/WeatherPyFigure24WindSpeedvsLatitudeScatterPlot.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure23CloudinessVsLatitudeScatterPlotwRegression.png](./Images/WeatherPyFigure23CloudinessVsLatitudeScatterPlotwRegression.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure24WindSpeedvsLatitudeScatterPlotwRegression.png](./Images/WeatherPyFigure24WindSpeedvsLatitudeScatterPlotwRegression.png)
   
   &emsp; |&rarr; [./Images/WeatherPyFigure31CityWeatherLocationsNorthernHemisphere.html](./Images/WeatherPyFigure31CityWeatherLocationsNorthernHemisphere.html)
   
@@ -167,10 +169,6 @@ Jupyter Notebook, Pandas, Python 3.11.4
   
   &emsp; |&rarr; [./Images/WeatherPyFigure34CityWeatherLocationsWesternHemisphere.html](./Images/WeatherPyFigure34CityWeatherLocationsWesternHemisphere.html)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure211TemperatureVsLatitudeScatterPlot.png](./Images/WeatherPyFigure211TemperatureVsLatitudeScatterPlot.png)
-  
-  &emsp; |&rarr; [./Images/WeatherPyFigure212TemperatureVsLatitudeScatterPlotwRegression.png](./Images/WeatherPyFigure212TemperatureVsLatitudeScatterPlotwRegression.png)
-
   &emsp; |&rarr; [./Images/WeatherPyFigure411TemperaturevsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure411TemperaturevsLatitudeNorthernHemisphere.png)
 
   &emsp; |&rarr; [./Images/WeatherPyFigure412TemperaturevsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure412TemperaturevsLatitudeSouthernHemisphere.png)
@@ -178,6 +176,8 @@ Jupyter Notebook, Pandas, Python 3.11.4
   &emsp; |&rarr; [./Images/WeatherPyFigure413TemperaturevsLatitudeEasternHemisphere.png](./Images/WeatherPyFigure413TemperaturevsLatitudeEasternHemisphere.png)
 
   &emsp; |&rarr; [./Images/WeatherPyFigure414TemperaturevsLatitudeWesternHemisphere.png](./Images/WeatherPyFigure414TemperaturevsLatitudeWesternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure421HumidityvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure421HumidityvsLatitudeNorthernHemisphere.png)
 
   &emsp; |&rarr; [./Images/WeatherPyFigure422HumidityvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure422HumidityvsLatitudeSouthernHemisphere.png)
 
@@ -199,9 +199,39 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
   &emsp; |&rarr; [./Images/WeatherPyFigure443WindSpeedvsLatitudeEasternHemisphere.png](./Images/WeatherPyFigure443WindSpeedvsLatitudeEasternHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure362WindSpeedvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure362WindSpeedvsLatitudeSouthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure444WindSpeedvsLatitudeWesternHemisphere.png](./Images/WeatherPyFigure444WindSpeedvsLatitudeEasternHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure444WindSpeedvsLatitudeEasternHemisphere.png](./Images/WeatherPyFigure444WindSpeedvsLatitudeEasternHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure511TemperaturevsLongitudeNorthernHemisphere.png](./Images/WeatherPyFigure511TemperaturevsLongitudeNorthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure512TemperaturevsLongitudeSouthernHemisphere.png](./Images/WeatherPyFigure512TemperaturevsLongitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure513TemperaturevsLongitudeEasternHemisphere.png](./Images/WeatherPyFigure513TemperaturevsLongitudeEasternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure514TemperaturevsLongitudeWesternHemisphere.png](./Images/WeatherPyFigure514TemperaturevsLongitudeWesternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure521HumidityvsLongitudeNorthernHemisphere.png](./Images/WeatherPyFigure521HumidityvsLongitudeNorthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure522HumidityvsLongitudeSouthernHemisphere.png](./Images/WeatherPyFigure522HumidityvsLongitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure523HumidityvsLongitudeEasternHemisphere.png](./Images/WeatherPyFigure523HumidityvsLongitudeEasternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure524HumidityvsLongitudeWesternHemisphere.png](./Images/WeatherPyFigure524HumidityvsLongitudeWesternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure531CloudinessvsLongitudeNorthernHemisphere.png](./Images/WeatherPyFigure531CloudinessvsLongitudeNorthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure532CloudinessvsLongitudeSouthernHemisphere.png](./Images/WeatherPyFigure532CloudinessvsLongitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure533CloudinessvsLongitudeEasternHemisphere.png](./Images/WeatherPyFigure533CloudinessvsLongitudeEasternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure534CloudinessvsLongitudeWesternHemisphere.png](./Images/WeatherPyFigure534CloudinessvsLongitudeWesternHemisphere.png)
+  
+  &emsp; |&rarr; [./Images/WeatherPyFigure541WindSpeedvsLongitudeNorthernHemisphere.png](./Images/WeatherPyFigure541WindSpeedvsLongitudeNorthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure542WindSpeedvsLongitudeSouthernHemisphere.png](./Images/WeatherPyFigure542WindSpeedvsLongitudeSouthernHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure543WindSpeedvsLongitudeEasternHemisphere.png](./Images/WeatherPyFigure543WindSpeedvsLongitudeEasternHemisphere.png)
+
+  &emsp; |&rarr; [./Images/WeatherPyFigure544WindSpeedvsLongitudeWesternHemisphere.png](./Images/WeatherPyFigure544WindSpeedvsLongitudeWesternHemisphere.png)
 
   &emsp; |&rarr; [./Images/WeatherPyTable14CityWeatherInformation.png](./Images/WeatherPyTable14CityWeatherInformation.png)
 
@@ -209,13 +239,13 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
 |&rarr; [./Logs/](./Logs/)
 
-  &emsp; |&rarr; [./Logs/20231107VacationPyDebug.txt](./Logs/20231107VacationPyDebug.txt)
+  &emsp; |&rarr; [./Logs/20231108VacationPyDebug.txt](./Logs/20231108VacationPyDebug.txt)
 
-  &emsp; |&rarr; [./Logs/20231107VacationPyLog.txt](./Logs/20231107VacationPyLog.txt)
+  &emsp; |&rarr; [./Logs/20231108VacationPyLog.txt](./Logs/20231108VacationPyLog.txt)
 
-  &emsp; |&rarr; [./Logs/20231107WeatherPyDebug.txt](./Logs/20231107WeatherPyDebug.txt)
+  &emsp; |&rarr; [./Logs/20231108WeatherPyDebug.txt](./Logs/20231108WeatherPyDebug.txt)
 
-  &emsp; |&rarr; [./Logs/20231107WeatherPyLog.txt](./Logs/20231107WeatherPyLog.txt)
+  &emsp; |&rarr; [./Logs/20231108WeatherPyLog.txt](./Logs/20231108WeatherPyLog.txt)
 
   &emsp; |&rarr; [./Logs/README.md](./Logs/README.md)
 
