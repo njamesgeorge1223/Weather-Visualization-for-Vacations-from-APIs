@@ -1,0 +1,712 @@
+
+Timepoint: 11/08/2023 10:58:20
+Program execution begins...
+
+
+
+
+                           City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                       
+0        hawaiian paradise park   19.5933  -154.9731        70.36        80   
+1                      waitangi  -43.9535  -176.5597        46.81        93   
+2                     i-n-salah   27.1935     2.4607        86.14         8   
+3             wailua homesteads   22.0669  -159.3780        74.93        89   
+4                       shakawe  -18.3667    21.8500        88.52        31   
+...                         ...       ...        ...          ...       ...   
+546                     kodinsk   58.6881    99.1844         8.44        98   
+547                      mirnyy   62.5353   113.9611        -1.77        84   
+548                      tobruk   32.0836    23.9764        71.64        69   
+549                      newman   37.3138  -121.0208        59.70        45   
+550                   tremonton   41.7119  -112.1655        39.87        81   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0                 0        8.05      US  2023-11-08 10:51:17  
+1                86        3.00      NZ  2023-11-08 10:54:16  
+2                 2        8.32      DZ  2023-11-08 10:54:17  
+3                75       10.36      US  2023-11-08 10:54:17  
+4                41        6.73      BW  2023-11-08 10:54:17  
+...             ...         ...     ...                  ...  
+546              14        2.15      RU  2023-11-08 10:56:43  
+547              82        4.00      RU  2023-11-08 10:56:43  
+548              25        6.53      LY  2023-11-08 10:56:43  
+549               0       11.99      US  2023-11-08 10:54:15  
+550              30        7.00      US  2023-11-08 10:56:44  
+
+[551 rows x 9 columns]
+
+
+
+                 City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+City ID                                                                         
+56         siwa oasis   29.2041    25.5195        77.09        44           0   
+104       al fuwayliq   26.4432    43.2534        72.95        38           0   
+105            mlimba   -8.8000    35.8167        79.63        56           8   
+231           bushehr   28.9684    50.8385        77.09        61           0   
+237        fort bragg   35.1390   -79.0060        78.42        44           0   
+289            kharan   28.5833    65.4167        71.56        43           4   
+320        chongoyape   -6.6406   -79.3892        88.23        44           6   
+414         guarapari  -20.6667   -40.4975        78.89        57           0   
+445         al bawiti   28.3492    28.8659        74.16        52           0   
+449      marco island   25.9363   -81.7157        84.63        53           3   
+487       sao vicente  -23.9631   -46.3919        80.56        45           0   
+
+         Wind Speed Country            Date/Time  
+City ID                                           
+56             4.85      EG  2023-11-08 10:54:30  
+104            7.81      SA  2023-11-08 10:54:44  
+105            4.85      TZ  2023-11-08 10:54:44  
+231            4.61      IR  2023-11-08 10:55:20  
+237            4.61      US  2023-11-08 10:55:22  
+289            8.99      PK  2023-11-08 10:55:36  
+320            9.08      PE  2023-11-08 10:55:45  
+414            9.84      BR  2023-11-08 10:56:10  
+445            9.31      EG  2023-11-08 10:56:18  
+449            2.59      US  2023-11-08 10:56:19  
+487            5.75      BR  2023-11-08 10:56:28  
+
+
+
+            City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0     siwa oasis   29.2041    25.5195        77.09        44           0   
+1    al fuwayliq   26.4432    43.2534        72.95        38           0   
+2         mlimba   -8.8000    35.8167        79.63        56           8   
+3        bushehr   28.9684    50.8385        77.09        61           0   
+4     fort bragg   35.1390   -79.0060        78.42        44           0   
+5         kharan   28.5833    65.4167        71.56        43           4   
+6     chongoyape   -6.6406   -79.3892        88.23        44           6   
+7      guarapari  -20.6667   -40.4975        78.89        57           0   
+8      al bawiti   28.3492    28.8659        74.16        52           0   
+9   marco island   25.9363   -81.7157        84.63        53           3   
+10   sao vicente  -23.9631   -46.3919        80.56        45           0   
+
+    Wind Speed Country            Date/Time  
+0         4.85      EG  2023-11-08 10:54:30  
+1         7.81      SA  2023-11-08 10:54:44  
+2         4.85      TZ  2023-11-08 10:54:44  
+3         4.61      IR  2023-11-08 10:55:20  
+4         4.61      US  2023-11-08 10:55:22  
+5         8.99      PK  2023-11-08 10:55:36  
+6         9.08      PE  2023-11-08 10:55:45  
+7         9.84      BR  2023-11-08 10:56:10  
+8         9.31      EG  2023-11-08 10:56:18  
+9         2.59      US  2023-11-08 10:56:19  
+10        5.75      BR  2023-11-08 10:56:28  
+
+
+
+            City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0     siwa oasis   29.2041    25.5195        77.09        44           0   
+1    al fuwayliq   26.4432    43.2534        72.95        38           0   
+2         mlimba   -8.8000    35.8167        79.63        56           8   
+3        bushehr   28.9684    50.8385        77.09        61           0   
+4     fort bragg   35.1390   -79.0060        78.42        44           0   
+5         kharan   28.5833    65.4167        71.56        43           4   
+6     chongoyape   -6.6406   -79.3892        88.23        44           6   
+7      guarapari  -20.6667   -40.4975        78.89        57           0   
+8      al bawiti   28.3492    28.8659        74.16        52           0   
+9   marco island   25.9363   -81.7157        84.63        53           3   
+10   sao vicente  -23.9631   -46.3919        80.56        45           0   
+
+    Wind Speed Country            Date/Time Hotel Name  
+0         4.85      EG  2023-11-08 10:54:30        NaN  
+1         7.81      SA  2023-11-08 10:54:44        NaN  
+2         4.85      TZ  2023-11-08 10:54:44        NaN  
+3         4.61      IR  2023-11-08 10:55:20        NaN  
+4         4.61      US  2023-11-08 10:55:22        NaN  
+5         8.99      PK  2023-11-08 10:55:36        NaN  
+6         9.08      PE  2023-11-08 10:55:45        NaN  
+7         9.84      BR  2023-11-08 10:56:10        NaN  
+8         9.31      EG  2023-11-08 10:56:18        NaN  
+9         2.59      US  2023-11-08 10:56:19        NaN  
+10        5.75      BR  2023-11-08 10:56:28        NaN  
+
+
+
+           City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0    siwa oasis   29.2041    25.5195        77.09        44           0   
+1   al fuwayliq   26.4432    43.2534        72.95        38           0   
+2       bushehr   28.9684    50.8385        77.09        61           0   
+3    fort bragg   35.1390   -79.0060        78.42        44           0   
+4     guarapari  -20.6667   -40.4975        78.89        57           0   
+5     al bawiti   28.3492    28.8659        74.16        52           0   
+6  marco island   25.9363   -81.7157        84.63        53           3   
+7   sao vicente  -23.9631   -46.3919        80.56        45           0   
+
+   Wind Speed Country            Date/Time  \
+0        4.85      EG  2023-11-08 10:54:30   
+1        7.81      SA  2023-11-08 10:54:44   
+2        4.61      IR  2023-11-08 10:55:20   
+3        4.61      US  2023-11-08 10:55:22   
+4        9.84      BR  2023-11-08 10:56:10   
+5        9.31      EG  2023-11-08 10:56:18   
+6        2.59      US  2023-11-08 10:56:19   
+7        5.75      BR  2023-11-08 10:56:28   
+
+                              Hotel Name  
+0                          فندق الكيلانى  
+1                            فندق السلام  
+2                      هتل رستوران سیراف  
+3                   Airborne Inn Lodging  
+4                            Osmar Hotel  
+5                        Old Oasis Hotel  
+6  JW Marriott Marco Island Beach Resort  
+7                        Pousada Vitória  
+
+
+
+           City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0    siwa oasis   29.2041    25.5195        77.09        44           0   
+1   al fuwayliq   26.4432    43.2534        72.95        38           0   
+2       bushehr   28.9684    50.8385        77.09        61           0   
+3    fort bragg   35.1390   -79.0060        78.42        44           0   
+4     guarapari  -20.6667   -40.4975        78.89        57           0   
+5     al bawiti   28.3492    28.8659        74.16        52           0   
+6  marco island   25.9363   -81.7157        84.63        53           3   
+7   sao vicente  -23.9631   -46.3919        80.56        45           0   
+
+   Wind Speed Country            Date/Time  \
+0        4.85      EG  2023-11-08 10:54:30   
+1        7.81      SA  2023-11-08 10:54:44   
+2        4.61      IR  2023-11-08 10:55:20   
+3        4.61      US  2023-11-08 10:55:22   
+4        9.84      BR  2023-11-08 10:56:10   
+5        9.31      EG  2023-11-08 10:56:18   
+6        2.59      US  2023-11-08 10:56:19   
+7        5.75      BR  2023-11-08 10:56:28   
+
+                              Hotel Name Restaurant Name  
+0                          فندق الكيلانى             NaN  
+1                            فندق السلام             NaN  
+2                      هتل رستوران سیراف             NaN  
+3                   Airborne Inn Lodging             NaN  
+4                            Osmar Hotel             NaN  
+5                        Old Oasis Hotel             NaN  
+6  JW Marriott Marco Island Beach Resort             NaN  
+7                        Pousada Vitória             NaN  
+
+
+
+           City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0    siwa oasis   29.2041    25.5195        77.09        44           0   
+1   al fuwayliq   26.4432    43.2534        72.95        38           0   
+2       bushehr   28.9684    50.8385        77.09        61           0   
+3    fort bragg   35.1390   -79.0060        78.42        44           0   
+4     guarapari  -20.6667   -40.4975        78.89        57           0   
+5     al bawiti   28.3492    28.8659        74.16        52           0   
+6  marco island   25.9363   -81.7157        84.63        53           3   
+7   sao vicente  -23.9631   -46.3919        80.56        45           0   
+
+   Wind Speed Country            Date/Time  \
+0        4.85      EG  2023-11-08 10:54:30   
+1        7.81      SA  2023-11-08 10:54:44   
+2        4.61      IR  2023-11-08 10:55:20   
+3        4.61      US  2023-11-08 10:55:22   
+4        9.84      BR  2023-11-08 10:56:10   
+5        9.31      EG  2023-11-08 10:56:18   
+6        2.59      US  2023-11-08 10:56:19   
+7        5.75      BR  2023-11-08 10:56:28   
+
+                              Hotel Name              Restaurant Name  
+0                          فندق الكيلانى                  مطعم شهرزاد  
+1                            فندق السلام                         مطعم  
+2                      هتل رستوران سیراف                  جگرکی خاتون  
+3                   Airborne Inn Lodging  El Tucan Mexican Restaurant  
+4                            Osmar Hotel                Macarão & Cia  
+5                        Old Oasis Hotel           Popular Restaurant  
+6  JW Marriott Marco Island Beach Resort               Paradise Grill  
+7                        Pousada Vitória                       Gaudio  
+
+
+
+           City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0    siwa oasis   29.2041    25.5195        77.09        44           0   
+1   al fuwayliq   26.4432    43.2534        72.95        38           0   
+2       bushehr   28.9684    50.8385        77.09        61           0   
+3    fort bragg   35.1390   -79.0060        78.42        44           0   
+4     guarapari  -20.6667   -40.4975        78.89        57           0   
+5     al bawiti   28.3492    28.8659        74.16        52           0   
+6  marco island   25.9363   -81.7157        84.63        53           3   
+7   sao vicente  -23.9631   -46.3919        80.56        45           0   
+
+   Wind Speed Country            Date/Time  \
+0        4.85      EG  2023-11-08 10:54:30   
+1        7.81      SA  2023-11-08 10:54:44   
+2        4.61      IR  2023-11-08 10:55:20   
+3        4.61      US  2023-11-08 10:55:22   
+4        9.84      BR  2023-11-08 10:56:10   
+5        9.31      EG  2023-11-08 10:56:18   
+6        2.59      US  2023-11-08 10:56:19   
+7        5.75      BR  2023-11-08 10:56:28   
+
+                              Hotel Name              Restaurant Name  \
+0                          فندق الكيلانى                  مطعم شهرزاد   
+1                            فندق السلام                         مطعم   
+2                      هتل رستوران سیراف                  جگرکی خاتون   
+3                   Airborne Inn Lodging  El Tucan Mexican Restaurant   
+4                            Osmar Hotel                Macarão & Cia   
+5                        Old Oasis Hotel           Popular Restaurant   
+6  JW Marriott Marco Island Beach Resort               Paradise Grill   
+7                        Pousada Vitória                       Gaudio   
+
+  Tourism Attraction  
+0                NaN  
+1                NaN  
+2                NaN  
+3                NaN  
+4                NaN  
+5                NaN  
+6                NaN  
+7                NaN  
+
+
+
+           City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0    siwa oasis   29.2041    25.5195        77.09        44           0   
+1       bushehr   28.9684    50.8385        77.09        61           0   
+2     guarapari  -20.6667   -40.4975        78.89        57           0   
+3     al bawiti   28.3492    28.8659        74.16        52           0   
+4  marco island   25.9363   -81.7157        84.63        53           3   
+5   sao vicente  -23.9631   -46.3919        80.56        45           0   
+
+   Wind Speed Country            Date/Time  \
+0        4.85      EG  2023-11-08 10:54:30   
+1        4.61      IR  2023-11-08 10:55:20   
+2        9.84      BR  2023-11-08 10:56:10   
+3        9.31      EG  2023-11-08 10:56:18   
+4        2.59      US  2023-11-08 10:56:19   
+5        5.75      BR  2023-11-08 10:56:28   
+
+                              Hotel Name     Restaurant Name  \
+0                          فندق الكيلانى         مطعم شهرزاد   
+1                      هتل رستوران سیراف         جگرکی خاتون   
+2                            Osmar Hotel       Macarão & Cia   
+3                        Old Oasis Hotel  Popular Restaurant   
+4  JW Marriott Marco Island Beach Resort      Paradise Grill   
+5                        Pousada Vitória              Gaudio   
+
+            Tourism Attraction  
+0                    قلعة شالى  
+1                    قبر ژنرال  
+2             Gruta do Santana  
+3       English houses (ruins)  
+4  Wheel Chair Only Beach View  
+5                    Rua Japão  
+
+
+Timepoint: 11/08/2023 11:04:17
+Program execution begins...
+
+
+
+
+                             City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                                         
+0                          albany   42.6001   -73.9662        38.53        51   
+1                    nueva rosita   27.9500  -101.2167        83.21        36   
+2                     kapuskasing   49.4169   -82.4331        24.80        86   
+3                        waitangi  -43.9535  -176.5597        46.81        93   
+4        petropavlovsk-kamchatsky   53.0452   158.6483        25.45        73   
+...                           ...       ...        ...          ...       ...   
+617                       namdrik    5.5994   168.1028        75.92        91   
+618                        kiunga   -6.1219   141.2906        71.89       100   
+619                     polyarnyy   69.1989    33.4478        26.47        75   
+620                 spanish wells   26.3230   -81.7957        84.78        61   
+621                       lerwick   60.1545    -1.1494        44.60        89   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+0                36        9.06      US  2023-11-08 10:54:35  
+1                68        2.62      MX  2023-11-08 10:59:12  
+2               100       13.80      CA  2023-11-08 10:56:21  
+3                86        3.00      NZ  2023-11-08 10:54:16  
+4                20       21.00      RU  2023-11-08 10:54:47  
+...             ...         ...     ...                  ...  
+617             100       14.65      MH  2023-11-08 11:03:08  
+618              98        1.86      PG  2023-11-08 11:03:08  
+619             100        4.05      RU  2023-11-08 10:55:49  
+620               6        5.68      US  2023-11-08 11:03:09  
+621             100        6.46      GB  2023-11-08 10:51:41  
+
+[622 rows x 9 columns]
+
+
+
+                   City  Latitude  Longitude  Temperature  Humidity  \
+City ID                                                               
+80               gunjur   13.2019   -16.7339        89.67        40   
+155            linhares  -19.3911   -40.0722        84.18        40   
+241         sao vicente  -23.9631   -46.3919        80.56        45   
+260          greenville   35.6127   -77.3663        75.20        40   
+317           el colomo   19.0500  -104.2500        92.35        56   
+386           al bawiti   28.3492    28.8659        74.16        52   
+485       morehead city   34.7229   -76.7260        72.88        56   
+536            hurghada   27.2574    33.8129        82.44        47   
+548      mount pleasant   32.7941   -79.8626        80.56        55   
+559            valdosta   30.8327   -83.2785        79.34        44   
+564          al ghayzah   16.2079    52.1760        82.11        61   
+567               kasba   25.8500    87.5500        70.12        59   
+590          siwa oasis   29.2041    25.5195        77.09        44   
+620       spanish wells   26.3230   -81.7957        84.78        61   
+
+         Cloudiness  Wind Speed Country            Date/Time  
+City ID                                                       
+80                0        4.61      GM  2023-11-08 10:59:33  
+155               2        9.86      BR  2023-11-08 10:55:16  
+241               0        5.75      BR  2023-11-08 10:56:28  
+260               0        9.22      US  2023-11-08 10:49:59  
+317              10        4.41      MX  2023-11-08 11:01:24  
+386               0        9.31      EG  2023-11-08 10:56:18  
+485               0        8.05      US  2023-11-08 11:00:22  
+536               0        5.75      EG  2023-11-08 11:02:45  
+548               0        9.22      US  2023-11-08 11:02:48  
+559               0        3.44      US  2023-11-08 10:58:13  
+564               4        6.40      YE  2023-11-08 11:02:52  
+567               0        2.93      IN  2023-11-08 11:02:53  
+590               0        4.85      EG  2023-11-08 10:54:30  
+620               6        5.68      US  2023-11-08 11:03:09  
+
+
+
+              City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0           gunjur   13.2019   -16.7339        89.67        40           0   
+1         linhares  -19.3911   -40.0722        84.18        40           2   
+2      sao vicente  -23.9631   -46.3919        80.56        45           0   
+3       greenville   35.6127   -77.3663        75.20        40           0   
+4        el colomo   19.0500  -104.2500        92.35        56          10   
+5        al bawiti   28.3492    28.8659        74.16        52           0   
+6    morehead city   34.7229   -76.7260        72.88        56           0   
+7         hurghada   27.2574    33.8129        82.44        47           0   
+8   mount pleasant   32.7941   -79.8626        80.56        55           0   
+9         valdosta   30.8327   -83.2785        79.34        44           0   
+10      al ghayzah   16.2079    52.1760        82.11        61           4   
+11           kasba   25.8500    87.5500        70.12        59           0   
+12      siwa oasis   29.2041    25.5195        77.09        44           0   
+13   spanish wells   26.3230   -81.7957        84.78        61           6   
+
+    Wind Speed Country            Date/Time  
+0         4.61      GM  2023-11-08 10:59:33  
+1         9.86      BR  2023-11-08 10:55:16  
+2         5.75      BR  2023-11-08 10:56:28  
+3         9.22      US  2023-11-08 10:49:59  
+4         4.41      MX  2023-11-08 11:01:24  
+5         9.31      EG  2023-11-08 10:56:18  
+6         8.05      US  2023-11-08 11:00:22  
+7         5.75      EG  2023-11-08 11:02:45  
+8         9.22      US  2023-11-08 11:02:48  
+9         3.44      US  2023-11-08 10:58:13  
+10        6.40      YE  2023-11-08 11:02:52  
+11        2.93      IN  2023-11-08 11:02:53  
+12        4.85      EG  2023-11-08 10:54:30  
+13        5.68      US  2023-11-08 11:03:09  
+
+
+
+              City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0           gunjur   13.2019   -16.7339        89.67        40           0   
+1         linhares  -19.3911   -40.0722        84.18        40           2   
+2      sao vicente  -23.9631   -46.3919        80.56        45           0   
+3       greenville   35.6127   -77.3663        75.20        40           0   
+4        el colomo   19.0500  -104.2500        92.35        56          10   
+5        al bawiti   28.3492    28.8659        74.16        52           0   
+6    morehead city   34.7229   -76.7260        72.88        56           0   
+7         hurghada   27.2574    33.8129        82.44        47           0   
+8   mount pleasant   32.7941   -79.8626        80.56        55           0   
+9         valdosta   30.8327   -83.2785        79.34        44           0   
+10      al ghayzah   16.2079    52.1760        82.11        61           4   
+11           kasba   25.8500    87.5500        70.12        59           0   
+12      siwa oasis   29.2041    25.5195        77.09        44           0   
+13   spanish wells   26.3230   -81.7957        84.78        61           6   
+
+    Wind Speed Country            Date/Time Hotel Name  
+0         4.61      GM  2023-11-08 10:59:33        NaN  
+1         9.86      BR  2023-11-08 10:55:16        NaN  
+2         5.75      BR  2023-11-08 10:56:28        NaN  
+3         9.22      US  2023-11-08 10:49:59        NaN  
+4         4.41      MX  2023-11-08 11:01:24        NaN  
+5         9.31      EG  2023-11-08 10:56:18        NaN  
+6         8.05      US  2023-11-08 11:00:22        NaN  
+7         5.75      EG  2023-11-08 11:02:45        NaN  
+8         9.22      US  2023-11-08 11:02:48        NaN  
+9         3.44      US  2023-11-08 10:58:13        NaN  
+10        6.40      YE  2023-11-08 11:02:52        NaN  
+11        2.93      IN  2023-11-08 11:02:53        NaN  
+12        4.85      EG  2023-11-08 10:54:30        NaN  
+13        5.68      US  2023-11-08 11:03:09        NaN  
+
+
+
+              City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0           gunjur   13.2019   -16.7339        89.67        40           0   
+1         linhares  -19.3911   -40.0722        84.18        40           2   
+2      sao vicente  -23.9631   -46.3919        80.56        45           0   
+3       greenville   35.6127   -77.3663        75.20        40           0   
+4        el colomo   19.0500  -104.2500        92.35        56          10   
+5        al bawiti   28.3492    28.8659        74.16        52           0   
+6    morehead city   34.7229   -76.7260        72.88        56           0   
+7         hurghada   27.2574    33.8129        82.44        47           0   
+8   mount pleasant   32.7941   -79.8626        80.56        55           0   
+9         valdosta   30.8327   -83.2785        79.34        44           0   
+10      al ghayzah   16.2079    52.1760        82.11        61           4   
+11      siwa oasis   29.2041    25.5195        77.09        44           0   
+12   spanish wells   26.3230   -81.7957        84.78        61           6   
+
+    Wind Speed Country            Date/Time  \
+0         4.61      GM  2023-11-08 10:59:33   
+1         9.86      BR  2023-11-08 10:55:16   
+2         5.75      BR  2023-11-08 10:56:28   
+3         9.22      US  2023-11-08 10:49:59   
+4         4.41      MX  2023-11-08 11:01:24   
+5         9.31      EG  2023-11-08 10:56:18   
+6         8.05      US  2023-11-08 11:00:22   
+7         5.75      EG  2023-11-08 11:02:45   
+8         9.22      US  2023-11-08 11:02:48   
+9         3.44      US  2023-11-08 10:58:13   
+10        6.40      YE  2023-11-08 11:02:52   
+11        4.85      EG  2023-11-08 10:54:30   
+12        5.68      US  2023-11-08 11:03:09   
+
+                                           Hotel Name  
+0                                 Footsteps Eco Lodge  
+1                                   Days Inn Linhares  
+2                                     Pousada Vitória  
+3                                         Quality Inn  
+4                          Hotel Marina Puerto Dorado  
+5                                     Old Oasis Hotel  
+6   Bask Hotel Big Rock Landing, Trademark Collect...  
+7                                     Sea Horse Hotel  
+8                              Old Village Post House  
+9                                Comfort Inn & Suites  
+10                                     فندق تاج العرب  
+11                                      فندق الكيلانى  
+12     Baymont by Wyndham Bonita Springs Naples North  
+
+
+
+              City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0           gunjur   13.2019   -16.7339        89.67        40           0   
+1         linhares  -19.3911   -40.0722        84.18        40           2   
+2      sao vicente  -23.9631   -46.3919        80.56        45           0   
+3       greenville   35.6127   -77.3663        75.20        40           0   
+4        el colomo   19.0500  -104.2500        92.35        56          10   
+5        al bawiti   28.3492    28.8659        74.16        52           0   
+6    morehead city   34.7229   -76.7260        72.88        56           0   
+7         hurghada   27.2574    33.8129        82.44        47           0   
+8   mount pleasant   32.7941   -79.8626        80.56        55           0   
+9         valdosta   30.8327   -83.2785        79.34        44           0   
+10      al ghayzah   16.2079    52.1760        82.11        61           4   
+11      siwa oasis   29.2041    25.5195        77.09        44           0   
+12   spanish wells   26.3230   -81.7957        84.78        61           6   
+
+    Wind Speed Country            Date/Time  \
+0         4.61      GM  2023-11-08 10:59:33   
+1         9.86      BR  2023-11-08 10:55:16   
+2         5.75      BR  2023-11-08 10:56:28   
+3         9.22      US  2023-11-08 10:49:59   
+4         4.41      MX  2023-11-08 11:01:24   
+5         9.31      EG  2023-11-08 10:56:18   
+6         8.05      US  2023-11-08 11:00:22   
+7         5.75      EG  2023-11-08 11:02:45   
+8         9.22      US  2023-11-08 11:02:48   
+9         3.44      US  2023-11-08 10:58:13   
+10        6.40      YE  2023-11-08 11:02:52   
+11        4.85      EG  2023-11-08 10:54:30   
+12        5.68      US  2023-11-08 11:03:09   
+
+                                           Hotel Name Restaurant Name  
+0                                 Footsteps Eco Lodge             NaN  
+1                                   Days Inn Linhares             NaN  
+2                                     Pousada Vitória             NaN  
+3                                         Quality Inn             NaN  
+4                          Hotel Marina Puerto Dorado             NaN  
+5                                     Old Oasis Hotel             NaN  
+6   Bask Hotel Big Rock Landing, Trademark Collect...             NaN  
+7                                     Sea Horse Hotel             NaN  
+8                              Old Village Post House             NaN  
+9                                Comfort Inn & Suites             NaN  
+10                                     فندق تاج العرب             NaN  
+11                                      فندق الكيلانى             NaN  
+12     Baymont by Wyndham Bonita Springs Naples North             NaN  
+
+
+
+              City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0           gunjur   13.2019   -16.7339        89.67        40           0   
+1         linhares  -19.3911   -40.0722        84.18        40           2   
+2      sao vicente  -23.9631   -46.3919        80.56        45           0   
+3       greenville   35.6127   -77.3663        75.20        40           0   
+4        el colomo   19.0500  -104.2500        92.35        56          10   
+5        al bawiti   28.3492    28.8659        74.16        52           0   
+6    morehead city   34.7229   -76.7260        72.88        56           0   
+7         hurghada   27.2574    33.8129        82.44        47           0   
+8   mount pleasant   32.7941   -79.8626        80.56        55           0   
+9         valdosta   30.8327   -83.2785        79.34        44           0   
+10      al ghayzah   16.2079    52.1760        82.11        61           4   
+11      siwa oasis   29.2041    25.5195        77.09        44           0   
+12   spanish wells   26.3230   -81.7957        84.78        61           6   
+
+    Wind Speed Country            Date/Time  \
+0         4.61      GM  2023-11-08 10:59:33   
+1         9.86      BR  2023-11-08 10:55:16   
+2         5.75      BR  2023-11-08 10:56:28   
+3         9.22      US  2023-11-08 10:49:59   
+4         4.41      MX  2023-11-08 11:01:24   
+5         9.31      EG  2023-11-08 10:56:18   
+6         8.05      US  2023-11-08 11:00:22   
+7         5.75      EG  2023-11-08 11:02:45   
+8         9.22      US  2023-11-08 11:02:48   
+9         3.44      US  2023-11-08 10:58:13   
+10        6.40      YE  2023-11-08 11:02:52   
+11        4.85      EG  2023-11-08 10:54:30   
+12        5.68      US  2023-11-08 11:03:09   
+
+                                           Hotel Name  \
+0                                 Footsteps Eco Lodge   
+1                                   Days Inn Linhares   
+2                                     Pousada Vitória   
+3                                         Quality Inn   
+4                          Hotel Marina Puerto Dorado   
+5                                     Old Oasis Hotel   
+6   Bask Hotel Big Rock Landing, Trademark Collect...   
+7                                     Sea Horse Hotel   
+8                              Old Village Post House   
+9                                Comfort Inn & Suites   
+10                                     فندق تاج العرب   
+11                                      فندق الكيلانى   
+12     Baymont by Wyndham Bonita Springs Naples North   
+
+                           Restaurant Name  
+0                                   Dumasu  
+1                     Petiscaria Moustache  
+2                                   Gaudio  
+3                     West End Dining Hall  
+4                   restaurante las torres  
+5                       Popular Restaurant  
+6                            Taps & Tackle  
+7   Das Deutsche Restaurant mit Biergarten  
+8                           Fonduely Yours  
+9                               The Bistro  
+10                                مطعم عدن  
+11                             مطعم شهرزاد  
+12                            Mel's Dinner  
+
+
+
+              City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0           gunjur   13.2019   -16.7339        89.67        40           0   
+1         linhares  -19.3911   -40.0722        84.18        40           2   
+2      sao vicente  -23.9631   -46.3919        80.56        45           0   
+3       greenville   35.6127   -77.3663        75.20        40           0   
+4        el colomo   19.0500  -104.2500        92.35        56          10   
+5        al bawiti   28.3492    28.8659        74.16        52           0   
+6    morehead city   34.7229   -76.7260        72.88        56           0   
+7         hurghada   27.2574    33.8129        82.44        47           0   
+8   mount pleasant   32.7941   -79.8626        80.56        55           0   
+9         valdosta   30.8327   -83.2785        79.34        44           0   
+10      al ghayzah   16.2079    52.1760        82.11        61           4   
+11      siwa oasis   29.2041    25.5195        77.09        44           0   
+12   spanish wells   26.3230   -81.7957        84.78        61           6   
+
+    Wind Speed Country            Date/Time  \
+0         4.61      GM  2023-11-08 10:59:33   
+1         9.86      BR  2023-11-08 10:55:16   
+2         5.75      BR  2023-11-08 10:56:28   
+3         9.22      US  2023-11-08 10:49:59   
+4         4.41      MX  2023-11-08 11:01:24   
+5         9.31      EG  2023-11-08 10:56:18   
+6         8.05      US  2023-11-08 11:00:22   
+7         5.75      EG  2023-11-08 11:02:45   
+8         9.22      US  2023-11-08 11:02:48   
+9         3.44      US  2023-11-08 10:58:13   
+10        6.40      YE  2023-11-08 11:02:52   
+11        4.85      EG  2023-11-08 10:54:30   
+12        5.68      US  2023-11-08 11:03:09   
+
+                                           Hotel Name  \
+0                                 Footsteps Eco Lodge   
+1                                   Days Inn Linhares   
+2                                     Pousada Vitória   
+3                                         Quality Inn   
+4                          Hotel Marina Puerto Dorado   
+5                                     Old Oasis Hotel   
+6   Bask Hotel Big Rock Landing, Trademark Collect...   
+7                                     Sea Horse Hotel   
+8                              Old Village Post House   
+9                                Comfort Inn & Suites   
+10                                     فندق تاج العرب   
+11                                      فندق الكيلانى   
+12     Baymont by Wyndham Bonita Springs Naples North   
+
+                           Restaurant Name Tourism Attraction  
+0                                   Dumasu                NaN  
+1                     Petiscaria Moustache                NaN  
+2                                   Gaudio                NaN  
+3                     West End Dining Hall                NaN  
+4                   restaurante las torres                NaN  
+5                       Popular Restaurant                NaN  
+6                            Taps & Tackle                NaN  
+7   Das Deutsche Restaurant mit Biergarten                NaN  
+8                           Fonduely Yours                NaN  
+9                               The Bistro                NaN  
+10                                مطعم عدن                NaN  
+11                             مطعم شهرزاد                NaN  
+12                            Mel's Dinner                NaN  
+
+
+
+              City  Latitude  Longitude  Temperature  Humidity  Cloudiness  \
+0           gunjur   13.2019   -16.7339        89.67        40           0   
+1         linhares  -19.3911   -40.0722        84.18        40           2   
+2      sao vicente  -23.9631   -46.3919        80.56        45           0   
+3       greenville   35.6127   -77.3663        75.20        40           0   
+4        el colomo   19.0500  -104.2500        92.35        56          10   
+5        al bawiti   28.3492    28.8659        74.16        52           0   
+6    morehead city   34.7229   -76.7260        72.88        56           0   
+7         hurghada   27.2574    33.8129        82.44        47           0   
+8   mount pleasant   32.7941   -79.8626        80.56        55           0   
+9         valdosta   30.8327   -83.2785        79.34        44           0   
+10      siwa oasis   29.2041    25.5195        77.09        44           0   
+11   spanish wells   26.3230   -81.7957        84.78        61           6   
+
+    Wind Speed Country            Date/Time  \
+0         4.61      GM  2023-11-08 10:59:33   
+1         9.86      BR  2023-11-08 10:55:16   
+2         5.75      BR  2023-11-08 10:56:28   
+3         9.22      US  2023-11-08 10:49:59   
+4         4.41      MX  2023-11-08 11:01:24   
+5         9.31      EG  2023-11-08 10:56:18   
+6         8.05      US  2023-11-08 11:00:22   
+7         5.75      EG  2023-11-08 11:02:45   
+8         9.22      US  2023-11-08 11:02:48   
+9         3.44      US  2023-11-08 10:58:13   
+10        4.85      EG  2023-11-08 10:54:30   
+11        5.68      US  2023-11-08 11:03:09   
+
+                                           Hotel Name  \
+0                                 Footsteps Eco Lodge   
+1                                   Days Inn Linhares   
+2                                     Pousada Vitória   
+3                                         Quality Inn   
+4                          Hotel Marina Puerto Dorado   
+5                                     Old Oasis Hotel   
+6   Bask Hotel Big Rock Landing, Trademark Collect...   
+7                                     Sea Horse Hotel   
+8                              Old Village Post House   
+9                                Comfort Inn & Suites   
+10                                      فندق الكيلانى   
+11     Baymont by Wyndham Bonita Springs Naples North   
+
+                           Restaurant Name          Tourism Attraction  
+0                                   Dumasu            Osprey Beach Bar  
+1                     Petiscaria Moustache  Estátua do Papa João XXIII  
+2                                   Gaudio                   Rua Japão  
+3                     West End Dining Hall                         ECU  
+4                   restaurante las torres         San Rafael Pescador  
+5                       Popular Restaurant      English houses (ruins)  
+6                            Taps & Tackle    Morehead City Waterfront  
+7   Das Deutsche Restaurant mit Biergarten       Wild beach (entering)  
+8                           Fonduely Yours                     Pelicam  
+9                               The Bistro                The Crescent  
+10                             مطعم شهرزاد                   قلعة شالى  
+11                            Mel's Dinner   Everglades Wonder Gardens  
+

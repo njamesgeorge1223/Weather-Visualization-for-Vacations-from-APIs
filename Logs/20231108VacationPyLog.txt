@@ -1,0 +1,442 @@
+
+Timepoint: 11/08/2023 10:58:20
+Program execution begins...
+
+
+
+Timepoint: 11/08/2023 10:58:24
+Starting hotel search...
+
+
+
+
+Timepoint: 11/08/2023 10:58:25
+Located the following hotel...فندق الكيلانى in siwa oasis, EG
+
+
+
+
+Timepoint: 11/08/2023 10:58:26
+Located the following hotel...فندق السلام in al fuwayliq, SA
+
+
+
+
+Timepoint: 11/08/2023 10:58:28
+Located the following hotel...هتل رستوران سیراف in bushehr, IR
+
+
+
+
+Timepoint: 11/08/2023 10:58:29
+Located the following hotel...Airborne Inn Lodging in fort bragg, US
+
+
+
+
+Timepoint: 11/08/2023 10:58:32
+Located the following hotel...Osmar Hotel in guarapari, BR
+
+
+
+
+Timepoint: 11/08/2023 10:58:33
+Located the following hotel...Old Oasis Hotel in al bawiti, EG
+
+
+
+
+Timepoint: 11/08/2023 10:58:33
+Located the following hotel...JW Marriott Marco Island Beach Resort in marco island, US
+
+
+
+
+Timepoint: 11/08/2023 10:58:35
+Located the following hotel...Pousada Vitória in sao vicente, BR
+
+
+
+
+Timepoint: 11/08/2023 10:58:35
+hotel search complete
+
+
+
+
+Timepoint: 11/08/2023 10:58:35
+Starting restaurant search...
+
+
+
+
+Timepoint: 11/08/2023 10:58:36
+Located the following restaurant...مطعم شهرزاد in siwa oasis, EG
+
+
+
+
+Timepoint: 11/08/2023 10:58:37
+Located the following restaurant...مطعم in al fuwayliq, SA
+
+
+
+
+Timepoint: 11/08/2023 10:58:38
+Located the following restaurant...جگرکی خاتون in bushehr, IR
+
+
+
+
+Timepoint: 11/08/2023 10:58:39
+Located the following restaurant...El Tucan Mexican Restaurant in fort bragg, US
+
+
+
+
+Timepoint: 11/08/2023 10:58:40
+Located the following restaurant...Macarão & Cia in guarapari, BR
+
+
+
+
+Timepoint: 11/08/2023 10:58:41
+Located the following restaurant...Popular Restaurant in al bawiti, EG
+
+
+
+
+Timepoint: 11/08/2023 10:58:42
+Located the following restaurant...Paradise Grill in marco island, US
+
+
+
+
+Timepoint: 11/08/2023 10:58:43
+Located the following restaurant...Gaudio in sao vicente, BR
+
+
+
+
+Timepoint: 11/08/2023 10:58:43
+restaurant search complete
+
+
+
+
+Timepoint: 11/08/2023 10:58:44
+Starting tourism attraction search...
+
+
+
+
+Timepoint: 11/08/2023 10:58:45
+Located the following tourism attraction...قلعة شالى in siwa oasis, EG
+
+
+
+
+Timepoint: 11/08/2023 10:58:46
+Located the following tourism attraction...قبر ژنرال in bushehr, IR
+
+
+
+
+Timepoint: 11/08/2023 10:58:49
+Located the following tourism attraction...Gruta do Santana in guarapari, BR
+
+
+
+
+Timepoint: 11/08/2023 10:58:49
+Located the following tourism attraction...English houses (ruins) in al bawiti, EG
+
+
+
+
+Timepoint: 11/08/2023 10:58:50
+Located the following tourism attraction...Wheel Chair Only Beach View in marco island, US
+
+
+
+
+Timepoint: 11/08/2023 10:58:52
+Located the following tourism attraction...Rua Japão in sao vicente, BR
+
+
+
+
+Timepoint: 11/08/2023 10:58:52
+tourism attraction search complete
+
+
+
+
+Timepoint: 11/08/2023 11:04:17
+Program execution begins...
+
+
+
+Timepoint: 11/08/2023 11:04:21
+Starting hotel search...
+
+
+
+
+Timepoint: 11/08/2023 11:04:22
+Located the following hotel...Footsteps Eco Lodge in gunjur, GM
+
+
+
+
+Timepoint: 11/08/2023 11:04:23
+Located the following hotel...Days Inn Linhares in linhares, BR
+
+
+
+
+Timepoint: 11/08/2023 11:04:24
+Located the following hotel...Pousada Vitória in sao vicente, BR
+
+
+
+
+Timepoint: 11/08/2023 11:04:25
+Located the following hotel...Quality Inn in greenville, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:26
+Located the following hotel...Hotel Marina Puerto Dorado in el colomo, MX
+
+
+
+
+Timepoint: 11/08/2023 11:04:27
+Located the following hotel...Old Oasis Hotel in al bawiti, EG
+
+
+
+
+Timepoint: 11/08/2023 11:04:28
+Located the following hotel...Bask Hotel Big Rock Landing, Trademark Collection by Wyndham in morehead city, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:29
+Located the following hotel...Sea Horse Hotel in hurghada, EG
+
+
+
+
+Timepoint: 11/08/2023 11:04:30
+Located the following hotel...Old Village Post House in mount pleasant, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:31
+Located the following hotel...Comfort Inn & Suites in valdosta, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:32
+Located the following hotel...فندق تاج العرب in al ghayzah, YE
+
+
+
+
+Timepoint: 11/08/2023 11:04:34
+Located the following hotel...فندق الكيلانى in siwa oasis, EG
+
+
+
+
+Timepoint: 11/08/2023 11:04:35
+Located the following hotel...Baymont by Wyndham Bonita Springs Naples North in spanish wells, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:35
+hotel search complete
+
+
+
+
+Timepoint: 11/08/2023 11:04:36
+Starting restaurant search...
+
+
+
+
+Timepoint: 11/08/2023 11:04:37
+Located the following restaurant...Dumasu in gunjur, GM
+
+
+
+
+Timepoint: 11/08/2023 11:04:38
+Located the following restaurant...Petiscaria Moustache in linhares, BR
+
+
+
+
+Timepoint: 11/08/2023 11:04:39
+Located the following restaurant...Gaudio in sao vicente, BR
+
+
+
+
+Timepoint: 11/08/2023 11:04:40
+Located the following restaurant...West End Dining Hall in greenville, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:41
+Located the following restaurant...restaurante las torres in el colomo, MX
+
+
+
+
+Timepoint: 11/08/2023 11:04:42
+Located the following restaurant...Popular Restaurant in al bawiti, EG
+
+
+
+
+Timepoint: 11/08/2023 11:04:43
+Located the following restaurant...Taps & Tackle in morehead city, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:44
+Located the following restaurant...Das Deutsche Restaurant mit Biergarten in hurghada, EG
+
+
+
+
+Timepoint: 11/08/2023 11:04:45
+Located the following restaurant...Fonduely Yours in mount pleasant, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:47
+Located the following restaurant...The Bistro in valdosta, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:47
+Located the following restaurant...مطعم عدن in al ghayzah, YE
+
+
+
+
+Timepoint: 11/08/2023 11:04:48
+Located the following restaurant...مطعم شهرزاد in siwa oasis, EG
+
+
+
+
+Timepoint: 11/08/2023 11:04:49
+Located the following restaurant...Mel's Dinner in spanish wells, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:49
+restaurant search complete
+
+
+
+
+Timepoint: 11/08/2023 11:04:51
+Starting tourism attraction search...
+
+
+
+
+Timepoint: 11/08/2023 11:04:51
+Located the following tourism attraction...Osprey Beach Bar in gunjur, GM
+
+
+
+
+Timepoint: 11/08/2023 11:04:52
+Located the following tourism attraction...Estátua do Papa João XXIII in linhares, BR
+
+
+
+
+Timepoint: 11/08/2023 11:04:53
+Located the following tourism attraction...Rua Japão in sao vicente, BR
+
+
+
+
+Timepoint: 11/08/2023 11:04:54
+Located the following tourism attraction...ECU in greenville, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:55
+Located the following tourism attraction...San Rafael Pescador in el colomo, MX
+
+
+
+
+Timepoint: 11/08/2023 11:04:56
+Located the following tourism attraction...English houses (ruins) in al bawiti, EG
+
+
+
+
+Timepoint: 11/08/2023 11:04:56
+Located the following tourism attraction...Morehead City Waterfront in morehead city, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:58
+Located the following tourism attraction...Wild beach (entering) in hurghada, EG
+
+
+
+
+Timepoint: 11/08/2023 11:04:59
+Located the following tourism attraction...Pelicam in mount pleasant, US
+
+
+
+
+Timepoint: 11/08/2023 11:04:59
+Located the following tourism attraction...The Crescent in valdosta, US
+
+
+
+
+Timepoint: 11/08/2023 11:05:00
+Located the following tourism attraction...قلعة شالى in siwa oasis, EG
+
+
+
+
+Timepoint: 11/08/2023 11:05:02
+Located the following tourism attraction...Everglades Wonder Gardens in spanish wells, US
+
+
+
+
+Timepoint: 11/08/2023 11:05:02
+tourism attraction search complete
+
+
+
