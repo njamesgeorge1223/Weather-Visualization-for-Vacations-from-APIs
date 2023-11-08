@@ -189,13 +189,13 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
 |&rarr; [./Logs/](./Logs/)
 
-  &emsp; |&rarr; [./Logs/20231001VacationPyDebug.txt](./Logs/20231001VacationPyDebug.txt)
+  &emsp; |&rarr; [./Logs/20231107VacationPyDebug.txt](./Logs/20231107VacationPyDebug.txt)
 
-  &emsp; |&rarr; [./Logs/20231001VacationPyLog.txt](./Logs/20231001VacationPyLog.txt)
+  &emsp; |&rarr; [./Logs/20231107VacationPyLog.txt](./Logs/20231107VacationPyLog.txt)
 
-  &emsp; |&rarr; [./Logs/20231001WeatherPyDebug.txt](./Logs/20231001WeatherPyDebug.txt)
+  &emsp; |&rarr; [./Logs/20231107WeatherPyDebug.txt](./Logs/20231107WeatherPyDebug.txt)
 
-  &emsp; |&rarr; [./Logs/20231001WeatherPyLog.txt](./Logs/20231001WeatherPyLog.txt)
+  &emsp; |&rarr; [./Logs/20231107WeatherPyLog.txt](./Logs/20231107WeatherPyLog.txt)
 
   &emsp; |&rarr; [./Logs/README.md](./Logs/README.md)
 
