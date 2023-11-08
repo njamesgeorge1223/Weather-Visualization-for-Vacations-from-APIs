@@ -159,13 +159,13 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
   &emsp; |&rarr; [./Images/WeatherPyFigure24WindSpeedvsLatitudeScatterPlot.png](./Images/WeatherPyFigure24WindSpeedvsLatitudeScatterPlot.png)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure31CityWeatherLocationsNorthernHemisphere.png](./Images/WeatherPyFigure31CityWeatherLocationsNorthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure31CityWeatherLocationsNorthernHemisphere.html](./Images/WeatherPyFigure31CityWeatherLocationsNorthernHemisphere.html)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure32CityWeatherLocationsSouthernHemisphere.png](./Images/WeatherPyFigure32CityWeatherLocationsSouthernHemisphere.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure32CityWeatherLocationsSouthernHemisphere.html](./Images/WeatherPyFigure32CityWeatherLocationsSouthernHemisphere.html)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure211TemperatureVsLatitudeScatterPlot.png](./Images/WeatherPyFigure211TemperatureVsLatitudeScatterPlot.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure33CityWeatherLocationsEasternHemisphere.html](./Images/WeatherPyFigure33CityWeatherLocationsEasternHemisphere.html)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure212TemperatureVsLatitudeScatterPlotwRegression.png](./Images/WeatherPyFigure212TemperatureVsLatitudeScatterPlotwRegression.png)
+  &emsp; |&rarr; [./Images/WeatherPyFigure34CityWeatherLocationsWesternHemisphere.html](./Images/WeatherPyFigure34CityWeatherLocationsWesternHemisphere.html)
   
   &emsp; |&rarr; [./Images/WeatherPyFigure331TemperaturevsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure331TemperaturevsLatitudeNorthernHemisphere.png)
   
